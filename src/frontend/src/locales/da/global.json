@@ -1,0 +1,59 @@
+{
+  "backToHome": "Tilbage til startskærm",
+  "cancel": "Annuller",
+  "closeDialog": "Luk dialog",
+  "error": {
+    "heading": "Der opstod en fejl under indlæsning af siden"
+  },
+  "feedback": {
+    "context": "Din feedback former produktet!",
+    "cta": "Del din feedback - nyt faneblad"
+  },
+  "forbidden": {
+    "heading": "Du har ikke tilladelse til at se denne side"
+  },
+  "loading": "Indlæser…",
+  "loggedInUserTooltip": "Logget ind som ",
+  "login": {
+    "buttonLabel": "Log ind",
+    "proconnectButtonLabel": "Log ind med ProConnect",
+    "proconnectLinkLabel": "Hvad er ProConnect? - ny fane",
+    "proconnectLink": "Hvad er ProConnect?"
+  },
+  "logout": "Log ud",
+  "notFound": {
+    "heading": "Bekræft din mødekode",
+    "body": "Kontroller, at du har indtastet den korrekte mødekode i URL'en. Eksempel:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Juridisk meddelelse",
+      "data": "Personlige data og cookies",
+      "accessibility": "Tilgængelighed: ikke-kompatibel",
+      "ariaLabel": "nyt vindue",
+      "codeAnnotation": "Vores kode er åben og tilgængelig her",
+      "code": "Åbn kildekodelager",
+      "technicalDetails": "Teknisk Meddelelse",
+      "termsOfService": "Servicevilkår"
+    },
+    "mentions": "Medmindre andet er angivet, er indholdet på dette websted tilgængeligt under",
+    "license": "etalab 2.0-licens"
+  },
+  "loginHint": {
+    "title": "Log ind med din ProConnect-konto",
+    "body": "I stedet for at vente, log ind med din ProConnect-konto.",
+    "button": {
+      "ariaLabel": "Luk forslaget",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "For at deltage i videokonferencen, klik på dette link: '{{roomUrl}}'",
+    "numberAndPin": "For at deltage via telefon, ring '{{phoneNumber}}' og indtast denne kode: '{{pinCode}}'"
+  }
+}

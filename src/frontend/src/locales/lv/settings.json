@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Jūs pašlaik esat pieteicies kā <0>'{{user}}'</0>",
+    "heading": "Konts",
+    "youAreNotLoggedIn": "Jūs neesat pieteicies.",
+    "nameLabel": "Jūsu vārds",
+    "authentication": "Autentifikācija",
+    "nameError": "Jūsu vārds nevar būt tukšs"
+  },
+  "preferences": {
+    "title": "Preferences",
+    "idleDisconnectModal": {
+      "label": "Atstāt zvanus bez dalībniekiem",
+      "description": "Automātiski atstāj zvanu pēc dažām minūtēm, ja nepievienojas citi dalībnieki"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Mikrofons",
+      "label": "Izvēlieties audio ievadi",
+      "disabled": "Mikrofons atspējots"
+    },
+    "noiseReduction": {
+      "label": "Trokšņu samazināšana",
+      "heading": "Trokšņu samazināšana",
+      "ariaLabel": {
+        "enable": "Iespējot trokšņu samazināšanu",
+        "disable": "Atspējot trokšņu samazināšanu"
+      }
+    },
+    "speakers": {
+      "heading": "Skaļruņi",
+      "label": "Izvēlieties audio izvadi",
+      "test": "Pārbaude",
+      "ongoingTest": "Testē skaņu…",
+      "safariWarning": "Pateicoties pārlūkprogrammas ierobežojumiem, Safari vēl neatbalsta skaļruņu izvēli."
+    },
+    "permissionsRequired": "Nepieciešamās atļaujas"
+  },
+  "video": {
+    "camera": {
+      "heading": "Kamera",
+      "label": "Izvēlieties video ievadi",
+      "disabled": "Kamera atspējota",
+      "previewAriaLabel": {
+        "enabled": "Video priekšskatījums ieslēgts",
+        "disabled": "Video priekšskatījums atspējots"
+      }
+    },
+    "resolution": {
+      "heading": "Izšķirtspēja",
+      "publish": {
+        "label": "Izvēlieties sūtīšanas izšķirtspēju (maks.)",
+        "items": {
+          "high": "Augsta izšķirtspēja",
+          "medium": "Standarta izšķirtspēja",
+          "low": "Zema izšķirtspēja"
+        }
+      },
+      "subscribe": {
+        "label": "Izvēlieties uztveršanas izšķirtspēju (maks.)",
+        "items": {
+          "high": "Augsta izšķirtspēja (automātiski)",
+          "medium": "Standarta izšķirtspēja",
+          "low": "Zema izšķirtspēja"
+        }
+      }
+    },
+    "permissionsRequired": "Nepieciešamas atļaujas"
+  },
+  "transcription": {
+    "heading": "Transkripcija",
+    "language": {
+      "label": "Sanāksmes valoda",
+      "options": {
+        "french": "Franču (fr)",
+        "english": "Latviešu (lv)",
+        "dutch": "Holandiešu (nl)",
+        "german": "Vācu (de)",
+        "auto": "Automātiski"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Skaņas paziņojumi",
+    "label": "skaņas paziņojumi par",
+    "actions": {
+      "disable": "Atspējot",
+      "enable": "Iespējot"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Dalībnieks pievienojās"
+      },
+      "handRaised": {
+        "label": "Roka pacelta"
+      },
+      "messageReceived": {
+        "label": "Ziņojums saņemts"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Iestatījumi"
+  },
+  "language": {
+    "heading": "Valoda",
+    "label": "Valoda"
+  },
+  "settingsButtonLabel": "Iestatījumi",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Paziņot reakcijas skaļi"
+    }
+  },
+  "tabs": {
+    "account": "Profils",
+    "audio": "Audio",
+    "video": "Video",
+    "general": "Vispārīgi",
+    "notifications": "Paziņojumi",
+    "accessibility": "Piekļūstamība",
+    "transcription": "Transkripcija"
+  }
+}

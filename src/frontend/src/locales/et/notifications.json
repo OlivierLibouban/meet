@@ -1,0 +1,53 @@
+{
+  "defaultName": "Kaastööline",
+  "joined": {
+    "description": "'{{name}}' on liitunud ruumiga"
+  },
+  "raised": {
+    "description": "'{{name}}' on tõstnud käe.",
+    "cta": "Ava ootenimekiri"
+  },
+  "muted": "'{{name}}' on teie mikrofoni vaigistanud. Ükski osaleja ei kuule teid.",
+  "openChat": "Ava vestlus",
+  "lowerHand": {
+    "auto": "Tundub, et olete hakanud rääkima, seega teie käsi langetatakse.",
+    "dismiss": "Hoia kätt üleval"
+  },
+  "reaction": {
+    "description": "'{{name}}' reageeris '{{emoji}}'-ga"
+  },
+  "permissionsRemoved": {
+    "camera": "Host on keelanud video kõigile osalejatele.",
+    "microphone": "Host on kõigi osalejate mikrofoni keelanud.",
+    "screen_share": "Host on keelanud ekraani jagamise kõigile osalejatele."
+  },
+  "waitingParticipants": {
+    "one": "Üks inimene soovib liituda selle kõnega.",
+    "several": "Mitu inimest soovib selle kõnega liituda.",
+    "open": "Ava",
+    "accept": "Nõustu"
+  },
+  "transcript": {
+    "started": "'{{name}}' alustas koosoleku transkriptsiooni.",
+    "stopped": "'{{name}}' peatas koosoleku transkriptsiooni.",
+    "limitReached": "Transkriptsioon on ületanud lubatud maksimaalse kestuse ja salvestatakse automaatselt.",
+    "requested": "'{{name}}' soovib alustada koosoleku transkriptsiooni."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' alustas koosoleku salvestamist.",
+    "stopped": "'{{name}}' peatas koosoleku salvestamise.",
+    "limitReached": "Salvestus on ületanud lubatud maksimaalse kestuse ja salvestatakse automaatselt.",
+    "requested": "'{{name}}' soovib alustada koosoleku salvestamist."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Teie salvestus salvestatakse! Saadame transkriptsiooni aadressile <strong>'{{email}}'</strong> niipea, kui see on valmis.",
+      "default": "Teie salvestus salvestatakse! Saadame ärakirja teie e-posti, kui see on valmis."
+    },
+    "screenRecording": {
+      "message": "Teie salvestus salvestatakse! Anname teada <strong>'{{email}}'</strong>, kui see on valmis.",
+      "default": "Teie salvestus salvestatakse! Saadame teavituse teie e-posti, kui see on valmis."
+    }
+  },
+  "openMenu": "Ava menüü"
+}

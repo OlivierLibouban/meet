@@ -22,7 +22,8 @@
   },
   "logout": "Uitloggen",
   "notFound": {
-    "heading": "Pagina niet gevonden"
+    "heading": "Pagina niet gevonden",
+    "body": "Controleer of je de juiste vergadercode in de URL hebt ingevoerd. Voorbeeld:"
   },
   "submit": "OK",
   "footer": {

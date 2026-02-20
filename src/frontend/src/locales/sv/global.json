@@ -1,0 +1,59 @@
+{
+  "backToHome": "Tillbaka till hemskärmen",
+  "cancel": "Avbryt",
+  "closeDialog": "Stäng dialogruta",
+  "error": {
+    "heading": "Ett fel inträffade vid inläsning av sidan"
+  },
+  "feedback": {
+    "context": "Din feedback formar produkten!",
+    "cta": "Dela din feedback - ny flik"
+  },
+  "forbidden": {
+    "heading": "Du har inte behörighet att visa den här sidan"
+  },
+  "loading": "Laddar…",
+  "loggedInUserTooltip": "Inloggad som ",
+  "login": {
+    "buttonLabel": "Logga in",
+    "proconnectButtonLabel": "Logga in med ProConnect",
+    "proconnectLinkLabel": "Vad är ProConnect? - ny flik",
+    "proconnectLink": "Vad är ProConnect?"
+  },
+  "logout": "Logga ut",
+  "notFound": {
+    "heading": "Verifiera din möteskod",
+    "body": "Kontrollera att du har angett rätt möteskod i URL:en. Exempel:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Juridiskt meddelande",
+      "data": "Personuppgifter och cookies",
+      "accessibility": "Tillgänglighet: ej kompatibel",
+      "ariaLabel": "nytt fönster",
+      "codeAnnotation": "Vår kod är öppen och tillgänglig här",
+      "code": "Öppna källkodsförråd",
+      "technicalDetails": "Teknisk Meddelande",
+      "termsOfService": "Användarvillkor"
+    },
+    "mentions": "Om inte annat anges är innehållet på denna webbplats tillgängligt under",
+    "license": "etalab 2.0-licens"
+  },
+  "loginHint": {
+    "title": "Logga in med ditt ProConnect-konto",
+    "body": "Logga in med ditt ProConnect-konto istället för att vänta.",
+    "button": {
+      "ariaLabel": "Stäng förslaget",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "För att delta i videokonferensen, klicka på denna länk: '{{roomUrl}}'",
+    "numberAndPin": "För att ansluta via telefon, ring '{{phoneNumber}}' och ange denna kod: '{{pinCode}}'"
+  }
+}

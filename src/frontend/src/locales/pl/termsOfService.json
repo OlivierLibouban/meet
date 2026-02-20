@@ -1,0 +1,129 @@
+{
+  "title": "Warunki użytkowania dla Visio",
+  "articles": {
+    "article1": {
+      "title": "Zakres",
+      "content": "Niniejszy dokument określa warunki użytkowania Visio (dalej „Visio” lub „aplikacja”), aplikacji do wideokonferencji zaprojektowanej specjalnie dla administracji państwowych i podległych im organów."
+    },
+    "article2": {
+      "title": "2. Cel aplikacji",
+      "content": "Visio wspiera współpracę zespołów administracji państwowej i podległych im organów, wspomaga pracę zdalną oraz ułatwia organizację spotkań, konferencji i szkoleń.",
+      "paragraphs": [
+        "Visio jest rozwijane i obsługiwane przez Międzyresortową Dyrekcję ds. Cyfryzacji (DINUM).",
+        "Aplikacja jest udostępniana przez DINUM administracjom państwowym i podległym im jednostkom, do użytku przez ich pracowników, partnerów i zaproszonych dostawców usług.",
+        "Korzystanie z programu Visio musi być zgodne z niniejszymi warunkami użytkowania oraz, w stosownych przypadkach, z polityką użytkowania odpowiedniej administracji nadzorującej."
+      ]
+    },
+    "article3": {
+      "title": "3. Definicje",
+      "paragraphs": [
+        "Visio to produkt, którego użycie opisano w tych warunkach i przedstawiono na następnej stronie: https://visio.numerique.gouv.fr.",
+        "Użytkownikami Visio są osoby korzystające z Visio do celów komunikacji wideokonferencyjnej, niezależnie od tego, czy są pracownikami, partnerami, czy dostawcami usług odpowiednich administracji. Nadzorująca administracja to administracja państwowa lub organ pod jej nadzorem, który udostępnia Visio swoim pracownikom, partnerom lub dostawcom usług.",
+        "Organizatorzy pokoju to użytkownicy odpowiedzialni za pokój wideokonferencyjny po zalogowaniu się przez ProConnect."
+      ]
+    },
+    "article4": {
+      "title": "4. Dostęp do aplikacji",
+      "definition": "Visio jest udostępniane użytkownikom przez ich nadzorującą administrację. Organizatorzy mogą następnie udostępnić link dający dostęp do pokoju dowolnej osobie, na własną odpowiedzialność."
+    },
+    "article5": {
+      "title": "5. Funkcje",
+      "sections": {
+        "section1": {
+          "title": "5.1. Funkcje dostępne dla organizatorów",
+          "content": "Visio umożliwia pracownikom administracji państwowej i podległych im jednostek tworzenie pokoju wideokonferencyjnego z standardowej stacji roboczej, powiązanej z ich kontem ProConnect.",
+          "paragraph1": "Każdy pracownik państwowy lub pracownik jednostki pod nadzorem państwowym, którego działalność jest zgodna z używaniem Visio lub który nie podlega szczególnym obowiązkom poufności, może tworzyć i organizować wideokonferencje. Następnie mogą udostępnić link do spotkania innym osobom, użytkownikom, niezależnie od tego, czy należą do administracji.",
+          "paragraph2": "W tym celu każdy organizator pokoju może:",
+          "capabilities": [
+            "Chroń dostęp do pokoju za pomocą poczekalni",
+            "Autoryzuj wejście każdego użytkownika do pokoju",
+            "Wycisz mikrofony i kamery użytkowników",
+            "Usuń użytkownika z pokoju",
+            "Użyj narzędzia do transkrypcji spotkań po uzyskaniu zgody użytkowników, na ich odpowiedzialność."
+          ],
+          "paragraph3": "Tylko członkowie personelu, których konto ProConnect należy do domeny uprawnionej do organizowania pokoi na Visio lub którzy nie podlegają szczególnym obowiązkom poufności lub tajemnicy zawodowej, mogą używać aplikacji i jej funkcji lub mieć nad nimi kontrolę.",
+          "paragraph4": "Narzędzie do automatycznej transkrypcji można używać z menu ustawień pokoju. Organizatorzy są odpowiedzialni za uzyskanie zgody uczestników spotkania na transkrypcję. Język transkrypcji można zmienić w tym samym menu. Po zakończeniu spotkania organizator otrzymuje link do transkrypcji przechowywanej w narzędziu Docs obsługiwanym przez DINUM."
+        },
+        "section2": {
+          "title": "5.2. Funkcje dostępne dla użytkowników",
+          "content": "Visio pozwala każdemu użytkownikowi, niezależnie od tego, czy jest urzędnikiem publicznym, uczestniczyć w dowolnym pokoju Visio, do którego zostanie zaproszony przez organizatora, i korzystać z jego funkcji.",
+          "paragraph": "W tym celu każdy użytkownik może:",
+          "capabilities": [
+            "Podaj nazwę wyświetlaną przy wejściu do pokoju",
+            "Komunikuj się zdalnie przez audio i/lub wideo",
+            "Udostępnij ekran",
+            "Wymieniaj wiadomości podczas sesji publicznie ze wszystkimi użytkownikami w pokoju",
+            "Uzyskaj informacje techniczne o pokoju i funkcjach dostępności",
+            "Włączaj lub wyłączaj ich kamerę i/lub mikrofon w dowolnym momencie",
+            "Chroń prywatność otoczenia, gdy kamera jest włączona, wybierając i aktywując tło przed wejściem do pokoju lub podczas wideokonferencji."
+          ]
+        }
+      }
+    },
+    "article6": {
+      "title": "6. Zobowiązania i obowiązki użytkowników",
+      "sections": {
+        "section1": {
+          "title": "6.1 Dozwolone użycia",
+          "paragraphs": [
+            "Visio jest udostępniane w celu ułatwienia profesjonalnej wymiany między pracownikami administracji państwowej i podległych im jednostek a zewnętrznymi współpracownikami.",
+            "Użytkownicy są odpowiedzialni za obrazy i dźwięki udostępniane w sali wideokonferencyjnej. Ta odpowiedzialność dotyczy zarówno tego, co ich kamera lub mikrofon mogą transmitować, jak i tego, co ich urządzenie może udostępniać osobom trzecim. W związku z tym użytkownicy muszą korzystać z aplikacji w środowisku profesjonalnym i nie mogą ujawniać osobom trzecim informacji objętych obowiązkiem zachowania poufności zawodowej (na przykład: użycie filtrów prywatności, słuchawek itp.).",
+            "Użytkownicy są odpowiedzialni za dane lub treści, które wprowadzają do usługi wiadomości w pokoju. Muszą zapewnić, że wprowadzane są tylko odpowiednie wiadomości."
+          ]
+        },
+        "section2": {
+          "title": "6.2 Zabronione użycia",
+          "paragraphs": [
+            "Użytkownicy zobowiązują się nie wprowadzać do usługi wiadomości w pokoju Visio ani udostępniać za pomocą obrazu lub dźwięku żadnych treści lub informacji naruszających obowiązujące przepisy prawa."
+          ]
+        }
+      }
+    },
+    "article7": {
+      "title": "7. Zobowiązania i odpowiedzialność DINUM",
+      "sections": {
+        "section1": {
+          "title": "7.1. Zabezpieczenia aplikacji",
+          "paragraphs": [
+            "DINUM zobowiązuje się do zabezpieczenia Visio, w szczególności poprzez podjęcie wszelkich niezbędnych środków w celu zapewnienia bezpieczeństwa i poufności wymiany.",
+            "Aplikacja jest certyfikowana zgodnie z warunkami określonymi w zmienionym Dekrecie nr 2010-112."
+          ]
+        },
+        "section2": {
+          "title": "7.2. Dostęp do aplikacji",
+          "paragraphs": [
+            "DINUM zobowiązuje się do zapewnienia niezbędnych i rozsądnych środków w celu zapewnienia ciągłego dostępu do aplikacji.",
+            "Aplikacja jest dostępna 24/7, z wyjątkiem przerw konserwacyjnych.",
+            "DINUM dąży do rocznej dostępności aplikacji na poziomie 99,5%, z wyłączeniem planowanych przestojów. W przypadku incydentu lub konserwacji dąży do przywrócenia działania w ciągu 72 godzin poza godzinami pracy.",
+            "W ramach utrzymania środowiska uruchomieniowego aplikacji, DINUM zastrzega sobie prawo do tymczasowego zawieszenia działania aplikacji. W miarę możliwości użytkownicy zostaną poinformowani z co najmniej 48-godzinnym wyprzedzeniem. W nagłych przypadkach takie zawieszenie może nastąpić bez wcześniejszego powiadomienia.",
+            "Te wyjątkowe przerwy mogą być wymagane, na przykład, do operacji zarządzania danymi, wydań produkcyjnych lub zmian architektonicznych.",
+            "Brak dostępności aplikacji nie uprawnia użytkowników do żadnej rekompensaty."
+          ]
+        },
+        "section3": {
+          "title": "7.3. Zarządzanie wsparciem",
+          "paragraphs": [
+            "DINUM zapewnia wsparcie pierwszego poziomu dla użytkowników, wyłącznie w zakresie technicznych aspektów aplikacji.",
+            "Wsparcie można uzyskać poprzez formularz kontaktowy online.",
+            "Docelowy czas odpowiedzi na zgłoszenia to dwa dni robocze od wysłania e-maila; czas ten może się różnić w zależności od złożoności i liczby zgłoszeń do przetworzenia."
+          ]
+        },
+        "section4": {
+          "title": "7.4. Monitorowanie użycia aplikacji",
+          "paragraphs": [
+            "DINUM zastrzega sobie prawo do zawieszenia lub usunięcia konta użytkownika, który nie przestrzegał niniejszych warunków użytkowania, bez uszczerbku dla ewentualnych działań karnych lub cywilnych przeciwko danej osobie. Informacje mogą zostać przekazane do administracji nadzorującej użytkownika, która odpowiada za udostępnienie aplikacji.",
+            "Zawieszenie lub cofnięcie jednego lub więcej kont nie uprawnia do żadnego rodzaju odszkodowania."
+          ]
+        },
+        "section5": {
+          "title": "7.5. Open Source i Licencje",
+          "content": "Kod źródłowy usługi jest otwarty i dostępny tutaj: https://github.com/suitenumerique/meet. Treści dostarczone przez DINUM są licencjonowane na podstawie Open License 2.0, z wyjątkiem logotypów oraz przedstawień ikonograficznych lub fotograficznych, które mogą być objęte własnymi licencjami."
+        }
+      }
+    },
+    "article8": {
+      "title": "8. Zmiany w warunkach użytkowania",
+      "content": "Warunki korzystania mogą zostać zmienione lub uzupełnione w dowolnym momencie, bez powiadomienia, w zależności od zmian w usłudze, rozwoju przepisów lub z innych uzasadnionych powodów. Te zmiany i aktualizacje są wiążące dla użytkownika, który powinien regularnie sprawdzać tę sekcję, aby zweryfikować aktualne warunki."
+    }
+  }
+}

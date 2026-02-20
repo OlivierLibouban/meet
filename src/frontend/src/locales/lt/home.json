@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Sukurti susitikimą",
+  "heading": "Paprastas ir saugus vaizdo konferencijų įrankis",
+  "intro": "Bendraukite ir dirbkite lengvai, nepažeisdami savo suvereniteto",
+  "joinInputError": "Naudokite susitikimo nuorodą arba kodą. Pavyzdžiai:",
+  "joinInputExample": "URL arba 10 raidžių kodas",
+  "joinInputLabel": "Susitikimo nuoroda",
+  "joinInputSubmit": "Prisijungti prie susitikimo",
+  "joinMeeting": "Prisijungti prie susitikimo",
+  "joinMeetingTipContent": "Galite prisijungti prie susitikimo įklijavę visą nuorodą į naršyklės adreso juostą.",
+  "joinMeetingTipHeading": "Ar žinojote?",
+  "loginToCreateMeeting": "Prisijunkite, kad sukurtumėte susitikimą",
+  "moreLinkLabel": "Sužinoti daugiau - naujas skirtukas",
+  "moreLink": "Sužinoti daugiau",
+  "moreAbout": "apie '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Sukurti susitikimą vėlesnei datai",
+    "instantOption": "Pradėti greitą susitikimą"
+  },
+  "laterMeetingDialog": {
+    "heading": "Jūsų ryšio duomenys",
+    "description": "Pasidalykite šia informacija su svečiais. Jie galės prisijungti prie susitikimo be prisijungimo. Šis susitikimas yra nuolatinis ir gali būti naudojamas pakartotinai.",
+    "permissions": "Žmonėms su šia nuoroda nereikia jūsų leidimo prisijungti prie šio susitikimo.",
+    "copy": "Kopijuoti informaciją",
+    "copied": "Informacija nukopijuota į iškarpinę",
+    "copyUrl": "Kopijuoti susitikimo nuorodą",
+    "phone": {
+      "call": "Skambinti:",
+      "pinCode": "Kodas:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Ankstesnis",
+      "tooltip": "Ankstesnis"
+    },
+    "next": {
+      "label": "kitas",
+      "tooltip": "kitas"
+    },
+    "beta": {
+      "text": "Prisijunkite prie beta versijos",
+      "tooltip": "Užpildykite formą"
+    },
+    "slide1": {
+      "title": "Pereikite prie paprastumo. Išbandykite mus dabar!",
+      "body": "Atraskite intuityvų ir prieinamą sprendimą, sukurtą visiems viešiesiems agentams, jų partneriams ir dar daugiau."
+    },
+    "slide2": {
+      "title": "Rengti grupinius skambučius be apribojimų",
+      "body": "Neriboto laiko susitikimai, sklandus ir aukštos kokybės bendravimas, nepriklausomai nuo grupės dydžio."
+    },
+    "slide3": {
+      "title": "Pakeiskite savo susitikimus su AI",
+      "body": "Gaukite tikslius ir naudingus transkriptus, kad padidintumėte savo produktyvumą. Funkcija beta versijoje—išbandykite dabar!"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "accessibility": {
+    "title": "Accessibilità",
+    "introduction": "<i>Visio</i> si impegna a rendere i suoi servizi digitali accessibili, in conformità con l'Articolo 47 della Legge n. 2005-102 dell'11 febbraio 2005.",
+    "declaration": {
+      "title": "Dichiarazione di Accessibilità",
+      "date": "Stabilito il 4 dicembre 2024."
+    },
+    "scope": "La presente dichiarazione di accessibilità si applica al sito web visio.numerique.gouv.fr",
+    "complianceStatus": {
+      "title": "Stato di Conformità",
+      "body": "visio.numerique.gouv.fr non è conforme a RGAA 4.1. Il sito non è ancora stato sottoposto a verifica. Tuttavia, il team si impegna a creare un sito accessibile a tutti seguendo le raccomandazioni RGAA."
+    },
+    "improvement": {
+      "title": "Miglioramento e Contatto",
+      "body": "Se non puoi accedere a un contenuto o a un servizio, puoi contattare il responsabile di lasuite.numerique.gouv.fr per essere indirizzato a un'alternativa accessibile o per ottenere il contenuto in un'altra forma.",
+      "contact": {
+        "email": "Email: visio@numerique.gouv.fr",
+        "address": "Indirizzo: DINUM, 20 avenue de Ségur 75007 Parigi"
+      },
+      "response": "Cerchiamo di rispondere entro 2 giorni lavorativi."
+    },
+    "recourse": {
+      "title": "Mezzi di Ricorso",
+      "introduction": "Questa procedura va utilizzata nel seguente caso: hai segnalato al responsabile del sito un problema di accessibilità che ti impedisce di accedere ai contenuti o a uno dei servizi del portale e non hai ricevuto una risposta soddisfacente.",
+      "options": {
+        "intro": "Puoi:",
+        "option1": "Scrivi un messaggio al Difensore dei Diritti",
+        "option2": "Contatta il rappresentante del Difensore dei Diritti nella tua regione",
+        "option3": "Invia una lettera per posta (gratis, senza francobollo): </br> Rights Defender Risposta gratuita 71120 75342 Parigi CEDEX 07"
+      }
+    }
+  }
+}

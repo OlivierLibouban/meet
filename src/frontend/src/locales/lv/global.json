@@ -1,0 +1,59 @@
+{
+  "backToHome": "Atpakaļ uz sākuma ekrānu",
+  "cancel": "Atcelt",
+  "closeDialog": "Aizvērt dialogu",
+  "error": {
+    "heading": "Radās kļūda, ielādējot lapu"
+  },
+  "feedback": {
+    "context": "Jūsu atsauksmes veido produktu!",
+    "cta": "Kopīgojiet atsauksmes - jaunā cilnē"
+  },
+  "forbidden": {
+    "heading": "Jums nav atļaujas skatīt šo lapu"
+  },
+  "loading": "Ielādē…",
+  "loggedInUserTooltip": "Pieteicies kā ",
+  "login": {
+    "buttonLabel": "Pieteikties",
+    "proconnectButtonLabel": "Pieteikties ar ProConnect",
+    "proconnectLinkLabel": "Kas ir ProConnect? - jauna cilne",
+    "proconnectLink": "Kas ir ProConnect?"
+  },
+  "logout": "Izrakstīties",
+  "notFound": {
+    "heading": "Pārbaudiet sapulces kodu",
+    "body": "Pārbaudiet, vai esat ievadījis pareizo sapulces kodu URL. Piemērs:"
+  },
+  "submit": "Labi",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Juridiskais paziņojums",
+      "data": "Personas dati un sīkdatnes",
+      "accessibility": "Piekļuve: neatbilstoša",
+      "ariaLabel": "jauns logs",
+      "codeAnnotation": "Mūsu kods ir atvērts un pieejams šeit",
+      "code": "Atvērt avota koda krātuvi",
+      "technicalDetails": "Tehniskais paziņojums",
+      "termsOfService": "Pakalpojumu noteikumi"
+    },
+    "mentions": "Ja nav norādīts citādi, šīs vietnes saturs ir pieejams saskaņā ar",
+    "license": "etalab 2.0 licence"
+  },
+  "loginHint": {
+    "title": "Pieslēgties ar savu ProConnect kontu",
+    "body": "Tā vietā, lai gaidītu, piesakieties ar savu ProConnect kontu.",
+    "button": {
+      "ariaLabel": "Aizvērt ieteikumu",
+      "label": "Labi"
+    }
+  },
+  "clipboardContent": {
+    "url": "Lai pievienotos videokonferencei, noklikšķiniet uz šīs saites: '{{roomUrl}}'",
+    "numberAndPin": "Lai pievienotos pa tālruni, zvaniet uz '{{phoneNumber}}' un ievadiet šo kodu: '{{pinCode}}'"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "backToHome": "Volver a inicio",
+  "cancel": "Cancelar",
+  "closeDialog": "Cerrar diálogo",
+  "error": {
+    "heading": "Se produjo un error al cargar la página"
+  },
+  "feedback": {
+    "context": "¡Tu opinión da forma al producto!",
+    "cta": "Comparte tu opinión - nueva pestaña"
+  },
+  "forbidden": {
+    "heading": "No tienes permiso para ver esta página"
+  },
+  "loading": "Cargando…",
+  "loggedInUserTooltip": "Conectado como ",
+  "login": {
+    "buttonLabel": "Iniciar sesión",
+    "proconnectButtonLabel": "Iniciar sesión con ProConnect",
+    "proconnectLinkLabel": "¿Qué es ProConnect? - nueva pestaña",
+    "proconnectLink": "¿Qué es ProConnect?"
+  },
+  "logout": "Cerrar sesión",
+  "notFound": {
+    "heading": "Verifica tu código de reunión",
+    "body": "Verifique que haya ingresado el código de reunión correcto en la URL. Ejemplo:"
+  },
+  "submit": "Aceptar",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "servicio-publico.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Aviso Legal",
+      "data": "Datos personales y cookies",
+      "accessibility": "Accesibilidad: no conforme",
+      "ariaLabel": "nueva ventana",
+      "codeAnnotation": "Nuestro código es abierto y disponible en este",
+      "code": "Abrir Repositorio de Código Fuente",
+      "technicalDetails": "Aviso Técnico",
+      "termsOfService": "Términos del servicio"
+    },
+    "mentions": "A menos que se indique lo contrario, los contenidos de este sitio están disponibles bajo",
+    "license": "licencia etalab 2.0"
+  },
+  "loginHint": {
+    "title": "Inicia sesión con tu cuenta ProConnect",
+    "body": "En lugar de esperar, inicia sesión con tu cuenta ProConnect.",
+    "button": {
+      "ariaLabel": "Cerrar la sugerencia",
+      "label": "Aceptar"
+    }
+  },
+  "clipboardContent": {
+    "url": "Para unirse a la videoconferencia, haga clic en este enlace: '{{roomUrl}}'",
+    "numberAndPin": "Para unirse por teléfono, marque '{{phoneNumber}}' e ingrese este código: '{{pinCode}}'"
+  }
+}

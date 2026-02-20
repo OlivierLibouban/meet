@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Είστε συνδεδεμένος ως <0>'{{user}}'</0>",
+    "heading": "Λογαριασμός",
+    "youAreNotLoggedIn": "Δεν είστε συνδεδεμένοι.",
+    "nameLabel": "Το όνομά σας",
+    "authentication": "Έλεγχος Ταυτότητας",
+    "nameError": "Το όνομά σας δεν μπορεί να είναι κενό"
+  },
+  "preferences": {
+    "title": "Προτιμήσεις",
+    "idleDisconnectModal": {
+      "label": "Αποχώρηση από κλήσεις χωρίς συμμετέχοντες",
+      "description": "Αποχωρεί αυτόματα από την κλήση μετά από λίγα λεπτά αν δεν συμμετάσχει άλλος"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Μικρόφωνο",
+      "label": "Επιλέξτε την είσοδο ήχου σας",
+      "disabled": "Μικρόφωνο απενεργοποιημένο"
+    },
+    "noiseReduction": {
+      "label": "Μείωση θορύβου",
+      "heading": "Μείωση θορύβου",
+      "ariaLabel": {
+        "enable": "Ενεργοποίηση μείωσης θορύβου",
+        "disable": "Απενεργοποίηση μείωσης θορύβου"
+      }
+    },
+    "speakers": {
+      "heading": "Ηχεία",
+      "label": "Επιλέξτε την έξοδο ήχου σας",
+      "test": "Δοκιμή",
+      "ongoingTest": "Δοκιμή ήχου…",
+      "safariWarning": "Η επιλογή ηχείου δεν είναι διαθέσιμη ακόμα στο Safari λόγω περιορισμών του προγράμματος περιήγησης."
+    },
+    "permissionsRequired": "Απαιτούμενες άδειες"
+  },
+  "video": {
+    "camera": {
+      "heading": "Κάμερα",
+      "label": "Επιλέξτε την είσοδο βίντεο σας",
+      "disabled": "Η κάμερα είναι απενεργοποιημένη",
+      "previewAriaLabel": {
+        "enabled": "Προεπισκόπηση βίντεο ενεργοποιημένη",
+        "disabled": "Προεπισκόπηση βίντεο απενεργοποιημένη"
+      }
+    },
+    "resolution": {
+      "heading": "Ανάλυση",
+      "publish": {
+        "label": "Επιλέξτε την ανάλυση αποστολής (μέγ.)",
+        "items": {
+          "high": "Υψηλή ανάλυση",
+          "medium": "Κανονική ανάλυση",
+          "low": "Χαμηλή ανάλυση"
+        }
+      },
+      "subscribe": {
+        "label": "Επιλέξτε την ανάλυση λήψης (μέγ.)",
+        "items": {
+          "high": "Υψηλή ανάλυση (αυτόματο)",
+          "medium": "Κανονική ανάλυση",
+          "low": "Χαμηλή ανάλυση"
+        }
+      }
+    },
+    "permissionsRequired": "Απαιτούμενες άδειες"
+  },
+  "transcription": {
+    "heading": "Μεταγραφή",
+    "language": {
+      "label": "Γλώσσα συνάντησης",
+      "options": {
+        "french": "Γαλλικά (fr)",
+        "english": "Ελληνικά (el)",
+        "dutch": "Ολλανδικά (nl)",
+        "german": "Γερμανικά (de)",
+        "auto": "Αυτόματο"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Ηχητικές ειδοποιήσεις",
+    "label": "ηχητικές ειδοποιήσεις για",
+    "actions": {
+      "disable": "Απενεργοποίηση",
+      "enable": "Ενεργοποίηση"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Ο συμμετέχων προστέθηκε"
+      },
+      "handRaised": {
+        "label": "Χέρι σηκωμένο"
+      },
+      "messageReceived": {
+        "label": "Μήνυμα ελήφθη"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Ρυθμίσεις"
+  },
+  "language": {
+    "heading": "Γλώσσα",
+    "label": "Γλώσσα"
+  },
+  "settingsButtonLabel": "Ρυθμίσεις",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Ανακοίνωση αντιδράσεων φωναχτά"
+    }
+  },
+  "tabs": {
+    "account": "Προφίλ",
+    "audio": "Ήχος",
+    "video": "Βίντεο",
+    "general": "Γενικά",
+    "notifications": "Ειδοποιήσεις",
+    "accessibility": "Προσβασιμότητα",
+    "transcription": "Μεταγραφή"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Juridiskais paziņojums",
+  "creator": {
+    "title": "Izdevējs",
+    "body": "Visio pakalpojumu publicē Valsts Starpministriju Digitālā nodaļa (DINUM), kas atrodas:",
+    "contact": {
+      "title": "Kontaktinformācija",
+      "address": "20 avenue de Ségur",
+      "city": "75007 Parīze",
+      "phone": "Reģistratūras tel.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (valdības vispārējā sekretariāts)",
+      "siren": "SIRENA: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Publikācijas direktors",
+    "body": "Publikācijas direktore ir Stefānija Šēra, Starpministriju digitālā direktore."
+  },
+  "hosting": {
+    "title": "Hostings",
+    "body": "Pakalpojumu nodrošina Outscale West-1 CloudGouv SecNumCloud, kas atrodas Francijā."
+  },
+  "accessibility": {
+    "title": "Pieejamība",
+    "body": "Atbilstība digitālās piekļūstamības standartiem ir nākotnes mērķis. Vietne vēl nav auditēta. Tomēr komanda cenšas izveidot vietni, kas ir pieejama visiem, ievērojot RGAA ieteikumus.",
+    "more": "Plašāka informācija: ",
+    "link": "saite uz pieejamības lapu",
+    "status": "Piekļūstamības statuss: neatbilstošs"
+  },
+  "reuse": {
+    "title": "Satura atkārtota izmantošana un saites",
+    "body1": "Ja nav skaidri norādīts trešo pušu intelektuālais īpašums, šīs vietnes saturs tiek piedāvāts saskaņā ar ",
+    "license": "Etalab 2.0 atvērtā licence",
+    "body2": "Jums ir īpaši brīvi reproducēt, kopēt, modificēt, izvilkt, pārveidot, sazināties, izplatīt, pārdalīt, publicēt, pārraidīt un izmantot tos, ja norādāt to avotu, pēdējās atjaunināšanas datumu un nemaldināt trešās puses par tajos ietverto informāciju.",
+    "body3": "Jebkurai publiskai vai privātai vietnei ir atļauts izveidot saiti (ieskaitot dziļo saiti) uz šajā vietnē izplatīto informāciju bez iepriekšējas atļaujas."
+  }
+}

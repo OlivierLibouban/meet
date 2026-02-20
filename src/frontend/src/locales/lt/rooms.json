@@ -1,0 +1,606 @@
+{
+  "feedback": {
+    "heading": {
+      "normal": "Jūs palikote susitikimą",
+      "duplicateIdentity": "Prisijungėte prie susitikimo iš kito įrenginio",
+      "participantRemoved": "Administratorius jus pašalino iš susitikimo"
+    },
+    "home": "Grįžti į pradžią",
+    "back": "Prisijungti prie susitikimo vėl"
+  },
+  "selectDevice": {
+    "loading": "Įkeliama…",
+    "select": "Pasirinkite reikšmę",
+    "permissionsNeeded": "Reikalingas leidimas",
+    "settings": {
+      "audio": "Garso nustatymai",
+      "video": "Vaizdo nustatymai"
+    },
+    "effects": "Fonai ir efektai",
+    "videoinput": {
+      "choose": "Pasirinkite kamerą",
+      "permissionsNeeded": "Pasirinkite kamerą - reikalingas leidimas",
+      "disable": "Išjungti kamerą",
+      "enable": "Įjungti kamerą",
+      "label": "Kamera",
+      "placeholder": "Įjungti kamerą, kad matytumėte peržiūrą"
+    },
+    "audioinput": {
+      "choose": "Pasirinkite mikrofoną",
+      "permissionsNeeded": "Pasirinkite mikrofoną - reikalingas leidimas",
+      "disable": "Išjungti mikrofoną",
+      "enable": "Įjungti mikrofoną",
+      "label": "Mikrofonas"
+    },
+    "audiooutput": {
+      "choose": "Pasirinkite garsiakalbį",
+      "permissionsNeeded": "Pasirinkite garsiakalbį - reikalingas leidimas"
+    }
+  },
+  "join": {
+    "effects": {
+      "description": "Taikyti fonus ir efektus",
+      "title": "Efektai",
+      "subTitle": "Konfigūruokite kameros efektus."
+    },
+    "heading": "Prisijungti prie susitikimo?",
+    "joinLabel": "Prisijungti",
+    "joinMeeting": "Prisijungti prie susitikimo",
+    "toggleOff": "Spustelėkite, kad išjungtumėte",
+    "toggleOn": "Spustelėkite, kad įjungtumėte",
+    "usernameHint": "Rodoma kitiems dalyviams",
+    "usernameLabel": "Jūsų vardas",
+    "errors": {
+      "usernameEmpty": "Jūsų vardas negali būti tuščias"
+    },
+    "cameraDisabled": "Kamera išjungta.",
+    "cameraStarting": "Kamera paleidžiama…",
+    "cameraNotGranted": "Ar norite, kad kiti galėtų jus matyti susitikimo metu?",
+    "cameraAndMicNotGranted": "Ar norite, kad kiti galėtų jus matyti ir girdėti susitikimo metu?",
+    "permissionsButton": {
+      "cameraAndMicNotGranted": "Leisti naudotis kamera ir mikrofonu",
+      "cameraNotGranted": "Leisti naudotis kamera"
+    },
+    "videoPreview": {
+      "enabled": "Vaizdo peržiūra įjungta",
+      "disabled": "Vaizdo peržiūra išjungta"
+    },
+    "waiting": {
+      "title": "Prašoma prisijungti...",
+      "body": "Galėsite prisijungti prie skambučio, kai kas nors jus patvirtins"
+    },
+    "denied": {
+      "title": "Negalite prisijungti prie šio skambučio",
+      "body": "Jūsų prašymas prisijungti buvo atmestas."
+    },
+    "timeoutInvite": {
+      "title": "Negalite prisijungti prie šio skambučio",
+      "body": "Niekas neatsakė į jūsų užklausą"
+    }
+  },
+  "leaveRoomPrompt": "Tai privers jus palikti susitikimą.",
+  "shareDialog": {
+    "copy": "Kopijuoti informaciją",
+    "copyUrl": "Kopijuoti nuorodą",
+    "copied": "Informacija nukopijuota į iškarpinę",
+    "heading": "Jūsų susitikimas paruoštas",
+    "description": "Bendrinti šią nuorodą su žmonėmis, kuriuos norite pakviesti į susitikimą.",
+    "permissions": "Žmonėms su šia nuoroda nereikia jūsų leidimo prisijungti prie šio susitikimo.",
+    "closeDialog": "Uždaryti dialogą",
+    "phone": {
+      "call": "Skambinti:",
+      "pinCode": "Kodas:"
+    }
+  },
+  "pagination": {
+    "count": "'{{currentPage}}' iš '{{totalPageCount}}'",
+    "next": "kitas puslapis",
+    "previous": "ankstesnis puslapis"
+  },
+  "mediaErrorDialog": {
+    "DeviceInUse": {
+      "title": {
+        "audioinput": "Nepavyko aktyvuoti mikrofono",
+        "videoinput": "Nepavyko aktyvuoti kameros"
+      },
+      "body": {
+        "audioinput": "Jūsų mikrofoną jau naudoja kita kortelė arba programa, todėl jis negali būti aktyvuotas šio vaizdo skambučio metu. Jei norite, uždarykite kitą kortelę arba programą, kad galėtumėte jį naudoti čia.",
+        "videoinput": "Jūsų kamera jau naudojama kitoje kortelėje arba programoje, todėl ji negali būti aktyvuota šiam vaizdo skambučiui. Jei norite, uždarykite kitą kortelę arba programą, kad galėtumėte ją naudoti čia."
+      }
+    },
+    "close": "Gerai"
+  },
+  "permissionErrorDialog": {
+    "heading": {
+      "camera": "'{{appTitle}}' negali naudoti jūsų kameros",
+      "microphone": "'{{appTitle}}' negali naudoti jūsų mikrofono",
+      "cameraAndMicrophone": "'{{appTitle}}' negali naudoti jūsų mikrofono ar kameros",
+      "default": "'{{appTitle}}' negalima naudoti tam tikrų leidimų"
+    },
+    "body": {
+      "openMenu": {
+        "others": "Spustelėkite nustatymų piktogramą ICON_PLACEHOLDER naršyklės adreso juostoje",
+        "safari": "Spustelėkite „Safari“ meniu ir atidarykite „Nustatymai '{{appDomain}}'“."
+      },
+      "details": {
+        "camera": "Leisti naudotis kamera",
+        "microphone": "Leisti prieigą prie mikrofono",
+        "cameraAndMicrophone": "Leisti naudotis kamera ir mikrofonu",
+        "default": "Įgalinkite reikiamus leidimus."
+      }
+    }
+  },
+  "permissionsButton": {
+    "tooltip": "Daugiau informacijos",
+    "ariaLabel": "Leidimų problema. Rodyti daugiau informacijos"
+  },
+  "error": {
+    "createRoom": {
+      "heading": "Reikalingas autentifikavimas",
+      "body": "Šis kambarys dar nesukurtas. Prašome autentifikuotis, kad jį sukurtumėte, arba palaukite, kol tai padarys autentifikuotas vartotojas."
+    },
+    "screenShare": {
+      "title": "Nepavyko bendrinti ekrano",
+      "ariaLabel": "Nepavyko bendrinti ekrano",
+      "message": "Jūsų naršyklei gali būti neleidžiama įrašyti ekrano jūsų kompiuteryje.",
+      "macInstructions": "Eikite į savo",
+      "macSystemPreferences": "Sistemos nuostatos",
+      "helpLinkText": "Norėdami sužinoti daugiau, žr",
+      "helpLinkLabel": "Pateikimo problema",
+      "closeButton": "Atmesti",
+      "newTab": "Naujas langas"
+    }
+  },
+  "isIdleDisconnectModal": {
+    "title": "Ar jūs vis dar čia?",
+    "body": "Jūs esate vienintelis dalyvis. Šis skambutis baigsis po '{{duration}}'. Ar norite tęsti skambutį?",
+    "settingsPrefix": "Norėdami nebematyti šio pranešimo, eikite į",
+    "settingsLink": "Nustatymai > Bendrieji",
+    "settingsSuffix": "Sure, please provide the text you need translated.",
+    "stayButton": "Tęsti skambutį",
+    "leaveButton": "Išeiti dabar",
+    "countdownAnnouncement": "Skambutis baigsis po '{{duration}}'."
+  },
+  "controls": {
+    "microphone": "Mikrofonas",
+    "camera": "Kamera",
+    "chat": {
+      "open": "Uždaryti pokalbį",
+      "closed": "Atidaryti pokalbį",
+      "input": {
+        "textArea": {
+          "label": "Įveskite žinutę",
+          "placeholder": "Įveskite žinutę"
+        },
+        "button": {
+          "label": "Siųsti žinutę"
+        }
+      }
+    },
+    "info": {
+      "open": "Slėpti informaciją",
+      "closed": "Rodyti informaciją"
+    },
+    "hand": {
+      "raise": "Pakelti ranką",
+      "lower": "Nuleisti ranką"
+    },
+    "subtitles": {
+      "closed": "Rodyti subtitrus",
+      "open": "Slėpti subtitrus"
+    },
+    "screenShare": {
+      "start": "Bendrinti ekraną",
+      "stop": "Stabdyti ekrano bendrinimą"
+    },
+    "leave": "Išeiti",
+    "participants": {
+      "open": "Slėpti visus",
+      "closed": "Peržiūrėti visus",
+      "count_one": "'{{count}}' dalyvis",
+      "count_other": "'{{count}}' dalyvių"
+    },
+    "tools": {
+      "open": "Slėpti daugiau įrankių",
+      "closed": "Rodyti daugiau įrankių"
+    },
+    "admin": {
+      "open": "Slėpti administratorių",
+      "closed": "Atidaryti administravimą"
+    },
+    "moreOptions": "Daugiau parinkčių",
+    "reactions": {
+      "button": "Siųsti reakciją",
+      "send": "Siųsti reakciją '{{emoji}}'",
+      "announce": "'{{name}}' : '{{emoji}}'",
+      "you": "jūs",
+      "emojis": {
+        "thumbs-up": "Patinka",
+        "thumbs-down": "Nepatinka",
+        "clapping-hands": "Ploti rankomis",
+        "red-heart": "raudona širdis",
+        "face-with-tears-of-joy": "veidas su džiaugsmo ašaromis",
+        "face-with-open-mouth": "Nustebęs veidas",
+        "party-popper": "Konfeti patranka",
+        "folded-hands": "Suglaustos rankos"
+      }
+    }
+  },
+  "options": {
+    "buttonLabel": "Daugiau parinkčių",
+    "items": {
+      "feedback": "Pateikite atsiliepimą",
+      "settings": "Nustatymai",
+      "screenRecording": "Ekrano įrašymas",
+      "transcript": "Transkripcija",
+      "username": "Atnaujinti vardą",
+      "effects": "Fonai ir efektai",
+      "switchCamera": "Perjungti kamerą",
+      "fullscreen": {
+        "enter": "Visas ekranas",
+        "exit": "Išeiti iš viso ekrano režimo"
+      },
+      "support": "Susisiekti su palaikymu"
+    }
+  },
+  "effects": {
+    "activateCamera": "Jūsų kamera išjungta. Pasirinkite parinktį, kad ją įjungtumėte.",
+    "cameraDisabled": "Jūsų kamera išjungta.",
+    "notAvailable": "Vaizdo efektai netrukus bus pasiekiami jūsų naršyklėje. Mes dirbame ties tuo! Tuo tarpu galite naudoti „Google Chrome“ geriausiam našumui arba „Firefox“",
+    "heading": "Sulieti",
+    "clear": "Išjungti efektą",
+    "blur": {
+      "title": "Fono suliejimas",
+      "status": {
+        "none": "Fonas aiškus.",
+        "light": "Fonas šiek tiek sulietas.",
+        "strong": "Fonas stipriai sulietas."
+      },
+      "light": {
+        "apply": "Šiek tiek suliekite foną",
+        "clear": "Išjungti suliejimą"
+      },
+      "normal": {
+        "apply": "Suliekite foną",
+        "clear": "Išjungti suliejimą"
+      }
+    },
+    "virtual": {
+      "title": "Virtualus fonas",
+      "selectedLabel": "Pritaikytas fonas:",
+      "apply": "Pakeiskite foną:",
+      "descriptions": {
+        "0": "Gofruoti mediniai baldai",
+        "1": "Susitikimų kambarys",
+        "2": "Loftas su juodu stiklo pertvara",
+        "3": "Valgomasis",
+        "4": "Medinės lentynos",
+        "5": "Mediniai laiptai",
+        "6": "Pilka biblioteka",
+        "7": "Kavos skaitiklis"
+      }
+    },
+    "faceLandmarks": {
+      "title": "Vaizdo efektai",
+      "glasses": {
+        "apply": "Pridėti akinius",
+        "clear": "Nuimti akinius"
+      },
+      "french": {
+        "apply": "Pridėti prancūzišką akcentą",
+        "clear": "Pašalinti prancūzišką prisilietimą"
+      }
+    }
+  },
+  "sidePanel": {
+    "ariaLabel": "Šoninė juosta",
+    "backToTools": "Atgal į susitikimo įrankius",
+    "heading": {
+      "participants": "Dalyviai",
+      "effects": "Fonai ir efektai",
+      "chat": "Žinutės pokalbyje",
+      "transcript": "Transkribuoti",
+      "screenRecording": "Įrašyti",
+      "admin": "Administratoriaus nustatymai",
+      "tools": "Daugiau įrankių",
+      "info": "Susitikimo informacija"
+    },
+    "content": {
+      "participants": "Dalyviai",
+      "effects": "Fonai ir efektai",
+      "chat": "Žinutės",
+      "transcript": "Transkribuoti",
+      "screenRecording": "įrašyti",
+      "admin": "Administratoriaus nustatymai",
+      "tools": "daugiau įrankių",
+      "info": "Susitikimo informacija"
+    },
+    "closeButton": "Slėpti '{{content}}'"
+  },
+  "chat": {
+    "disclaimer": "Žinutės matomos dalyviams tik jų siuntimo metu. Visos žinutės ištrinamos pokalbio pabaigoje."
+  },
+  "moreTools": {
+    "body": "Pasiekite daugiau įrankių, kad pagerintumėte savo susitikimus.",
+    "moreLink": "Sužinoti daugiau",
+    "tools": {
+      "transcript": {
+        "title": "Transkribuoti",
+        "body": "Įrašyti pokalbį."
+      },
+      "screenRecording": {
+        "title": "Įrašyti",
+        "body": "Įrašyti susitikimą."
+      }
+    }
+  },
+  "info": {
+    "roomInformation": {
+      "title": "Ryšio informacija",
+      "button": {
+        "ariaLabel": "Nukopijuokite informaciją iš savo susitikimo",
+        "copy": "Kopijuoti informaciją",
+        "copied": "Informacija nukopijuota"
+      },
+      "phone": {
+        "call": "Skambinti:",
+        "pinCode": "Kodas:"
+      }
+    }
+  },
+  "transcript": {
+    "heading": "Transkribuokite savo susitikimą su AI asistentu",
+    "body": "Transkribuoti iki '{{max_duration}}' susitikimo laiko.",
+    "bodyWithoutMaxDuration": "Transkribuokite savo susitikimą be apribojimų.",
+    "details": {
+      "receiver": "Nuorašas bus išsiųstas vedėjui ir bendra-vedėjams.",
+      "destination": "Naujas dokumentas bus sukurtas ant",
+      "destinationUnknown": "Bus sukurtas naujas dokumentas",
+      "language": "Susitikimo kalba:",
+      "recording": "Taip pat pradėti įrašymą"
+    },
+    "button": {
+      "start": "Pradėti susitikimo transkripciją",
+      "stop": "Sustabdyti susitikimo transkripciją",
+      "saving": "Įrašoma…",
+      "starting": "Paleidžiama…",
+      "anotherModeStarted": "Ekrano įrašymas vyksta. Perjunkite skydelius ir sustabdykite."
+    },
+    "linkMore": "Sužinoti daugiau",
+    "notAdminOrOwner": {
+      "heading": "Ribota prieiga",
+      "body": "Dėl saugumo priežasčių transkripciją (beta) gali pradėti tik susitikimo kūrėjas arba administratorius.",
+      "linkMore": "Sužinoti daugiau",
+      "dividerLabel": "ARBA",
+      "login": {
+        "heading": "Reikia prisijungti",
+        "body": "Tik susitikimo kūrėjas arba administratorius gali pradėti transkripciją. Prisijunkite, kad patikrintumėte savo leidimus."
+      },
+      "request": {
+        "heading": "Prašyti transkripcijos",
+        "body": "Pranešėjas bus informuotas ir galės įjungti transkripciją jums.",
+        "buttonLabel": "Prašyti"
+      }
+    },
+    "premium": {
+      "heading": "Premium funkcija",
+      "body": "Ši funkcija skirta viešiesiems agentams. Jei jūsų el. pašto adresas nėra autorizuotas, susisiekite su palaikymo tarnyba, kad gautumėte prieigą.",
+      "linkMore": "Sužinoti daugiau",
+      "dividerLabel": "ARBA",
+      "login": {
+        "heading": "Jūs nesate prisijungęs!",
+        "body": "Norėdami naudoti šią funkciją, turite būti prisijungę. Prisijunkite ir bandykite dar kartą."
+      },
+      "request": {
+        "heading": "Prašyti transkripcijos",
+        "body": "Šeimininkas bus informuotas ir gali įjungti transkripciją jums.",
+        "buttonLabel": "Prašyti"
+      }
+    }
+  },
+  "screenRecording": {
+    "heading": "Įrašyti šį skambutį vėliau",
+    "body": "Įrašykite iki '{{max_duration}}' susitikimo.",
+    "bodyWithoutMaxDuration": "Įrašykite susitikimą be apribojimų.",
+    "linkMore": "Sužinoti daugiau",
+    "details": {
+      "receiver": "Įrašas bus išsiųstas vedėjui ir bendra-vedėjams.",
+      "destination": "Šis įrašas bus laikinai saugomas mūsų serveriuose",
+      "loading": "Pradedama įrašyti",
+      "linkMore": "Sužinoti daugiau",
+      "transcription": "Transkribuoti šį įrašą"
+    },
+    "button": {
+      "start": "Pradėti susitikimo įrašymą",
+      "stop": "Sustabdyti susitikimo įrašymą",
+      "saving": "Įrašoma…",
+      "starting": "Paleidžiama…",
+      "anotherModeStarted": "Transkripcija vykdoma. <br/> Perjunkite skydelius ir sustabdykite ją."
+    },
+    "notAdminOrOwner": {
+      "heading": "Ribota prieiga",
+      "body": "Dėl saugumo priežasčių įrašymą gali pradėti tik susitikimo kūrėjas arba administratorius (beta).",
+      "linkMore": "Sužinoti daugiau",
+      "dividerLabel": "ARBA",
+      "login": {
+        "heading": "Reikalingas prisijungimas",
+        "body": "Tik susitikimo kūrėjas arba administratorius gali pradėti ekrano įrašymą. Prisijunkite, kad patikrintumėte savo leidimus."
+      },
+      "request": {
+        "heading": "Prašyti įrašo",
+        "body": "Pranešėjas bus informuotas ir galės įjungti įrašymą jums.",
+        "buttonLabel": "Prašyti"
+      }
+    },
+    "durationMessage": "Atsiprašome, bet jūsų užklausa atrodo neišsami. Prašome pateikti tekstą, kurį norite išversti {max_duration} "
+  },
+  "errorRecordingAlertDialog": {
+    "title": "Įrašymas nepavyko",
+    "body": {
+      "stop": "Nepavyko sustabdyti įrašo. Bandykite dar kartą po akimirkos.",
+      "start": "Nepavyko pradėti įrašo. Bandykite dar kartą po akimirkos."
+    },
+    "button": "Gerai"
+  },
+  "admin": {
+    "description": "Šie organizatoriaus nustatymai leidžia jums valdyti susitikimą. Tik organizatoriai gali pasiekti šiuos valdiklius.",
+    "access": {
+      "title": "Kambario prieiga",
+      "description": "Šie nustatymai taip pat bus taikomi būsimiems šio susitikimo įvykiams.",
+      "type": "Susitikimo prieigos tipai",
+      "levels": {
+        "public": {
+          "label": "Atidaryti",
+          "description": "Niekam nereikia prašyti prisijungti prie susitikimo."
+        },
+        "trusted": {
+          "label": "Atidaryti patikimiems žmonėms",
+          "description": "Autentifikuotiems žmonėms nereikia prašyti prisijungti prie susitikimo."
+        },
+        "restricted": {
+          "label": "Ribota",
+          "description": "Žmonės, kurie nebuvo pakviesti į susitikimą, turi prašyti prisijungti."
+        }
+      }
+    },
+    "moderation": {
+      "title": "Susitikimo moderavimas",
+      "description": "Šie nustatymai riboja veiksmus, kuriuos dalyviai gali atlikti susitikimo metu.",
+      "microphone": {
+        "label": "Įjungti mikrofoną",
+        "description": ""
+      },
+      "camera": {
+        "label": "Įjungti vaizdo įrašą",
+        "description": ""
+      },
+      "screenshare": {
+        "label": "Bendrinti jų ekraną",
+        "description": "Išjungus šią parinktį, dalyviai negalės dalintis ekranu, o vykstantis ekrano dalinimasis bus nedelsiant sustabdytas."
+      }
+    }
+  },
+  "rating": {
+    "submit": "Pateikti",
+    "question": "Ką manote apie savo skambučio kokybę?",
+    "levels": {
+      "min": "Labai prasta",
+      "max": "Puiku"
+    }
+  },
+  "openFeedback": {
+    "question": "Ką galime padaryti, kad patobulėtume?",
+    "placeholder": "Apibūdinkite klaidas arba pasidalinkite pasiūlymais…",
+    "submit": "Pateikti",
+    "skip": "Praleisti"
+  },
+  "confirmationMessage": {
+    "heading": "Ačiū už jūsų pateikimą",
+    "body": "Mūsų produktų komanda atidžiai peržiūri jūsų atsiliepimus. Atsakysime kuo greičiau."
+  },
+  "authenticationMessage": {
+    "heading": "Kaip galime su jumis susisiekti?",
+    "placeholder": "Jūsų el. paštas",
+    "submit": "Siųsti",
+    "ignore": "Ignoruoti"
+  },
+  "participants": {
+    "subheading": "Kambaryje",
+    "you": "Jūs",
+    "unknown": "Nežinomas dalyvis",
+    "host": "Šeimininkas",
+    "contributors": "Dalyviai",
+    "collapsable": {
+      "open": "Atidaryti '{{name}}' sąrašą",
+      "close": "Uždaryti '{{name}}' sąrašą"
+    },
+    "muteYourself": "Išjunkite mikrofoną",
+    "muteParticipant": "Uždaryti '{{name}}' mikrofoną",
+    "muteParticipantAlert": {
+      "heading": "Nutildyti '{{name}}'",
+      "description": "Nutildyti '{{name}}' visiems dalyviams? Tik '{{name}}' galės atsijungti nuo nutildymo.",
+      "confirm": "Nutildyti",
+      "cancel": "Atšaukti"
+    },
+    "raisedHands": "Pakeltos rankos",
+    "lowerParticipantHand": "Nuleisti '{{name}}' ranką",
+    "lowerParticipantsHand": "Nuleisti visas rankas",
+    "muteParticipants": "Išjungti visus mikrofonus",
+    "waiting": {
+      "title": "Vestibiulis",
+      "accept": {
+        "button": "Priimti",
+        "label": "Priimti '{{name}}' į susitikimą",
+        "all": "Priimti viską"
+      },
+      "deny": {
+        "button": "Atmesti",
+        "label": "Atmesti '{{name}}' iš susitikimo",
+        "all": "Atmesti viską"
+      }
+    },
+    "moreOptions": "Daugiau parinkčių"
+  },
+  "participantMenu": {
+    "remove": {
+      "label": "Pašalinti iš skambučio",
+      "ariaLabel": "Pašalinti '{{name}}' iš skambučio"
+    },
+    "unpin": {
+      "label": "Atsegti",
+      "ariaLabel": "Atsegti '{{name}}'"
+    },
+    "pin": {
+      "label": "Prisegti",
+      "ariaLabel": "Prisegti '{{name}}'"
+    }
+  },
+  "pinAnnouncements": {
+    "pin": "Vaizdo įrašas '{{name}}' prisegtas.",
+    "unpin": "'{{name}}' vaizdo įrašas nebėra prisegtas.",
+    "self": {
+      "pin": "Jūsų vaizdo įrašas prisegtas.",
+      "unpin": "Jūsų vaizdo įrašas nebėra prisegtas."
+    }
+  },
+  "recordingStateToast": {
+    "transcript": {
+      "started": "Transkribavimas",
+      "starting": "Transkripcija pradedama",
+      "stopping": "Transkripcija sustabdoma"
+    },
+    "screen_recording": {
+      "started": "Įrašymas vyksta",
+      "starting": "Pradėti įrašymą",
+      "stopping": "Stabdomas įrašymas"
+    },
+    "any": {
+      "started": "Įrašymas vyksta"
+    },
+    "limitReachedAlert": {
+      "title": "Viršytas įrašymo limitas",
+      "description": "Įrašas viršijo leistiną trukmę'{{duration_message}}'. Jis bus automatiškai išsaugotas.",
+      "durationMessage": " iš '{{duration}}'",
+      "button": "Gerai"
+    }
+  },
+  "participantTileFocus": {
+    "containerLabel": "Parinktys '{{name}}'",
+    "toolbarHint": "F2: eiti į apatinę įrankių juostą.",
+    "pin": {
+      "enable": "Prisegti",
+      "disable": "Atsegti"
+    },
+    "effects": "Taikyti fonus ir efektus",
+    "muteParticipant": "Nutildyti '{{name}}'",
+    "fullScreen": "Visas ekranas"
+  },
+  "fullScreenWarning": {
+    "message": "Kad išvengtumėte begalinio ciklo rodymo, nesidalinkite visu ekranu. Vietoj to, dalinkitės skirtuku arba kitu langu.",
+    "stop": "Baigti pristatymą",
+    "ignore": "Ignoruoti"
+  },
+  "participantTile": {
+    "screenShare": "'{{name}}' ekranas"
+  }
+}

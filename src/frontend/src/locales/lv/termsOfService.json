@@ -1,0 +1,129 @@
+{
+  "title": "Lietošanas noteikumi programmai Visio",
+  "articles": {
+    "article1": {
+      "title": "Darbības joma",
+      "content": "Šis dokuments nosaka Visio (turpmāk “Visio” vai “lietotne”), videokonferences lietotnes, kas īpaši izstrādāta valsts pārvaldēm un to uzraudzībā esošajām iestādēm, lietošanas noteikumus."
+    },
+    "article2": {
+      "title": "2. Lietotnes mērķis",
+      "content": "Visio palīdz veicināt sadarbību starp valsts pārvaldes komandām un to uzraudzībā esošajām iestādēm, atbalsta attālinātu darbu un atvieglo sapulču, konferenču vai apmācību sesiju organizēšanu.",
+      "paragraphs": [
+        "Visio izstrādā un pārvalda Starpministriju Digitālo lietu direktorāts (DINUM).",
+        "Lietotni nodrošina DINUM valsts pārvaldēm un to uzraudzībā esošajām iestādēm, lai to izmantotu darbinieki, partneri un uzaicinātie pakalpojumu sniedzēji.",
+        "Jebkura Visio lietošana jāatbilst šiem lietošanas noteikumiem un, ja piemērojams, attiecīgās uzraudzības administrācijas lietošanas politikai."
+      ]
+    },
+    "article3": {
+      "title": "3. Definīcijas",
+      "paragraphs": [
+        "Visio ir produkts, kura lietošana ir aprakstīta šajos noteikumos un parādīta nākamajā lapā: https://visio.numerique.gouv.fr.",
+        "Visio lietotāji ir jebkuras personas, kas izmanto Visio videokonferenču saziņai, neatkarīgi no tā, vai tās ir darbinieki, partneri vai attiecīgo administrāciju pakalpojumu sniedzēji. Uzraugošā administrācija ir valsts pārvalde vai tās uzraudzībā esoša iestāde, kas nodrošina Visio saviem darbiniekiem, partneriem vai pakalpojumu sniedzējiem.",
+        "Telpas organizatori ir lietotāji, kuri ir atbildīgi par videokonferences telpu pēc pieteikšanās, izmantojot ProConnect."
+      ]
+    },
+    "article4": {
+      "title": "4. Piekļuve lietotnei",
+      "definition": "Visio lietotājiem nodrošina viņu uzraugošā administrācija. Organizatori var kopīgot saiti, kas piešķir piekļuvi telpai, ar jebkuru personu, uzņemoties atbildību."
+    },
+    "article5": {
+      "title": "5. Funkcijas",
+      "sections": {
+        "section1": {
+          "title": "5.1. Funkcijas pieejamas organizatoriem",
+          "content": "Visio ļauj valsts pārvaldes darbiniekiem un to uzraudzībā esošajām iestādēm izveidot videokonferences telpu no standarta darba stacijas, saistītu ar viņu ProConnect kontu.",
+          "paragraph1": "Jebkurš valsts darbinieks vai valsts uzraudzībā esošas iestādes darbinieks, kura darbība ir saderīga ar Visio izmantošanu vai uz kuru neattiecas īpaši konfidencialitātes vai profesionālās slepenības pienākumi, var izveidot un organizēt videokonferenci. Pēc tam viņi var dalīties ar sapulces saiti ar citām personām, lietotājiem, neatkarīgi no tā, vai viņi pieder pie administrācijas.",
+          "paragraph2": "Šim nolūkam katrs telpas organizators var:",
+          "capabilities": [
+            "Aizsargājiet piekļuvi telpai ar uzgaidāmo telpu;",
+            "Atļaut katra lietotāja ieeju telpā;",
+            "Izslēgt lietotāju mikrofonus un kameras",
+            "Noņemt lietotāju no telpas",
+            "Izmantojiet sapulces transkripcijas rīku tikai pēc lietotāju piekrišanas saņemšanas, uz viņu atbildību."
+          ],
+          "paragraph3": "Tikai darbinieki, kuru ProConnect konts pieder domēnam, kas ir pilnvarots organizēt telpas Visio, vai kuriem nav noteiktu konfidencialitātes vai profesionālās slepenības saistību, drīkst izmantot vai kontrolēt lietotni un tās funkcijas.",
+          "paragraph4": "Automātisko transkripcijas rīku var izmantot organizatori no telpas iestatījumu izvēlnes. Organizatori ir atbildīgi par lietotāju piekrišanas nodrošināšanu transkribētajā sapulcē. Transkripcijas valodu var mainīt tajā pašā izvēlnē. Sapulces beigās organizatoram tiek nosūtīta saite, lai piekļūtu transkripcijai, kas glabājas rīkā Docs, ko pārvalda DINUM."
+        },
+        "section2": {
+          "title": "5.2. Lietotājiem pieejamās funkcijas",
+          "content": "Visio ļauj jebkuram lietotājam, neatkarīgi no tā, vai viņš ir valsts amatpersona vai nē, piedalīties jebkurā Visio telpā, uz kuru viņu uzaicina organizators, un izmantot tās funkcijas.",
+          "paragraph": "Šim nolūkam katrs lietotājs var:",
+          "capabilities": [
+            "Ievadot telpā, norādiet parādāmo vārdu;",
+            "Sazinieties attālināti, izmantojot audio un/vai video",
+            "Kopīgot viņu ekrānu",
+            "Sesijas laikā publiski apmainieties ar ziņām ar visiem lietotājiem telpā",
+            "Piekļūt tehniskajai informācijai par telpu un pieejamības funkcijām;",
+            "Ieslēgt vai izslēgt viņu kameru un/vai mikrofonu jebkurā laikā;",
+            "Aizsargājiet apkārtnes privātumu, kad kamera ir ieslēgta, izvēloties un aktivizējot fonu pirms ieiešanas telpā vai videokonferences laikā."
+          ]
+        }
+      }
+    },
+    "article6": {
+      "title": "6. Lietotāju saistības un atbildība",
+      "sections": {
+        "section1": {
+          "title": "6.1 Atļautie lietojumi",
+          "paragraphs": [
+            "Visio ir nodrošināts, lai veicinātu profesionālu apmaiņu starp valsts pārvaldes iestāžu darbiniekiem un to uzraudzībā esošajām struktūrām un ārējiem sadarbības partneriem.",
+            "Lietotāji ir atbildīgi par attēliem un skaņām, kuras viņi padara pieejamas videokonferences telpā. Šī atbildība attiecas gan uz to, ko viņu kamera vai mikrofons var pārraidīt, gan uz to, ko viņu ierīce var padarīt pieejamu trešajām pusēm. Tāpēc lietotājiem jāizmanto lietotne profesionālā vidē un nedrīkst izpaust nekādu informāciju, kas ir pakļauta profesionālās konfidencialitātes saistībām, trešajām pusēm (piemēram, privātuma filtru, austiņu izmantošana utt.).",
+            "Lietotāji ir atbildīgi par datiem vai saturu, ko viņi ievada telpas ziņojumu pakalpojumā. Viņiem jānodrošina, ka tiek ievadīti tikai atbilstoši ziņojumi."
+          ]
+        },
+        "section2": {
+          "title": "6.2 Aizliegtie lietojumi",
+          "paragraphs": [
+            "Lietotāji apņemas neievadīt Visio istabas ziņojumu servisā vai padarīt pieejamu ar attēlu vai skaņu jebkādu saturu vai informāciju, kas pārkāpj spēkā esošos likumus un noteikumus."
+          ]
+        }
+      }
+    },
+    "article7": {
+      "title": "7. DINUM saistības un atbildība",
+      "sections": {
+        "section1": {
+          "title": "7.1. Lietotnes drošība",
+          "paragraphs": [
+            "DINUM apņemas nodrošināt Visio drošību, īpaši veicot visus nepieciešamos pasākumus, lai nodrošinātu apmaiņas drošību un konfidencialitāti.",
+            "Lietotne ir sertificēta saskaņā ar grozītā Dekrēta Nr. 2010-112 noteikumiem."
+          ]
+        },
+        "section2": {
+          "title": "7.2. Piekļuve lietotnei",
+          "paragraphs": [
+            "DINUM apņemas nodrošināt nepieciešamos un saprātīgos līdzekļus, lai garantētu nepārtrauktu piekļuvi lietotnei.",
+            "Lietotne ir pieejama 24/7, izņemot uzturēšanas pārtraukumu laikā.",
+            "DINUM mērķis ir nodrošināt lietotnes pieejamību 99,5% gadā, izņemot plānotos pārtraukumus. Incidenta vai apkopes gadījumā mērķis ir atjaunošanas laiks 72 stundas ārpus darba laika.",
+            "Kā daļa no lietotnes darbības vides uzturēšanas, DINUM patur tiesības uz laiku apturēt lietotnes darbību. Iespēju robežās lietotāji tiks informēti vismaz 48 stundas iepriekš. Ārkārtas situācijās šāda apturēšana var notikt bez iepriekšēja brīdinājuma.",
+            "Šie izņēmuma pārtraukumi var būt nepieciešami, piemēram, datu pārvaldībai, ražošanas laidieniem vai arhitektūras izmaiņām.",
+            "Lietotnes nepieejamība nedod lietotājiem tiesības uz jebkādu kompensāciju."
+          ]
+        },
+        "section3": {
+          "title": "7.3. Atbalsta pārvaldība",
+          "paragraphs": [
+            "DINUM nodrošina pirmā līmeņa atbalstu lietotājiem, tikai tehniskajos lietotnes aspektos.",
+            "Šo atbalstu var sasniegt, izmantojot tiešsaistes kontaktformu.",
+            "Mērķa atbildes laiks uz pieprasījumiem ir divas darba dienas no e-pasta nosūtīšanas; šis laiks var mainīties atkarībā no pieprasījumu sarežģītības un skaita."
+          ]
+        },
+        "section4": {
+          "title": "7.4. Lietojumprogrammas lietošanas uzraudzība",
+          "paragraphs": [
+            "DINUM patur tiesības apturēt vai dzēst lietotāja kontu, kas nav ievērojis šos lietošanas noteikumus, neierobežojot iespējamās kriminālās vai civiltiesiskās darbības pret attiecīgo personu. Informācija var tikt nodota lietotāja uzraugošajai administrācijai, kas ir atbildīga par lietotnes pieejamību.",
+            "Viena vai vairāku kontu apturēšana vai anulēšana nedod tiesības uz jebkāda veida kompensāciju."
+          ]
+        },
+        "section5": {
+          "title": "7.5. Atvērtā koda un licences",
+          "content": "Pakalpojuma pirmkods ir atvērts un pieejams šeit: https://github.com/suitenumerique/meet. DINUM sniegtais saturs ir licencēts saskaņā ar Open License 2.0, izņemot logotipus un ikonogrāfiskos vai fotogrāfiskos attēlojumus, kuriem var būt savas licences."
+        }
+      }
+    },
+    "article8": {
+      "title": "8. Izmaiņas lietošanas noteikumos",
+      "content": "Šo lietošanas noteikumu nosacījumi var tikt mainīti vai papildināti jebkurā laikā, bez iepriekšēja paziņojuma, atkarībā no izmaiņām pakalpojumā, likumdošanas attīstības vai citu nepieciešamu iemeslu dēļ. Šīs izmaiņas un atjauninājumi ir saistoši lietotājam, kuram regulāri jāpārbauda šī sadaļa, lai pārbaudītu pašreizējos noteikumus."
+    }
+  }
+}

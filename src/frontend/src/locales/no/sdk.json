@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Opprett",
+    "joinButton": "Bli med med Visio",
+    "copyLinkTooltip": "Kopier lenke",
+    "resetLabel": "Tilbakestill",
+    "participantLimit": "Opptil 150 deltakere.",
+    "popupBlocked": "Popup ble blokkert. Tillat popups for dette nettstedet."
+  }
+}

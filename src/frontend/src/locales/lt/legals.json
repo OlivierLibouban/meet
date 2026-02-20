@@ -1,0 +1,37 @@
+{
+  "title": "Teisinis pranešimas",
+  "creator": {
+    "title": "Leidėjas",
+    "body": "Visio paslaugą skelbia Valstybės Tarpministerinis Skaitmeninis Padalinys (DINUM), esantis:",
+    "contact": {
+      "title": "Kontaktinė informacija",
+      "address": "Ségur prospektas 20",
+      "city": "75007 Paryžius",
+      "phone": "Registratūra Tel.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (vyriausybės generalinis sekretoriatas)",
+      "siren": "SIREN: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Publikacijos vadovas",
+    "body": "Leidinio direktorė yra ponia Stéphanie Schaer, Tarpministerinė skaitmeninė direktorė."
+  },
+  "hosting": {
+    "title": "Talpinimas",
+    "body": "Paslaugą teikia Outscale West-1 CloudGouv SecNumCloud, esantis Prancūzijoje."
+  },
+  "accessibility": {
+    "title": "Prieinamumas",
+    "body": "Ateityje siekiama atitikti skaitmeninio prieinamumo standartus. Svetainė dar nebuvo audituota. Tačiau komanda stengiasi sukurti visiems prieinamą svetainę, laikydamasi RGAA rekomendacijų.",
+    "more": "Daugiau informacijos: ",
+    "link": "nuoroda į prieinamumo puslapį",
+    "status": "Prieinamumo būsena: neatitinka reikalavimų"
+  },
+  "reuse": {
+    "title": "Turinio pakartotinis naudojimas ir nuorodos",
+    "body1": "Jei aiškiai nenurodyta trečiųjų šalių intelektinė nuosavybė, šios svetainės turinys siūlomas pagal ",
+    "license": "Etalab 2.0 atviroji licencija",
+    "body2": "Jūs galite laisvai atkurti, kopijuoti, modifikuoti, išgauti, transformuoti, perduoti, platinti, perskirstyti, publikuoti, perduoti ir naudoti juos, jei nurodote jų šaltinį, paskutinio atnaujinimo datą ir neklaidinate trečiųjų šalių dėl juose esančios informacijos.",
+    "body3": "Bet kuri vieša ar privati svetainė gali be išankstinio leidimo sukurti nuorodą (įskaitant giluminę nuorodą) į šiame puslapyje skelbiamą informaciją."
+  }
+}

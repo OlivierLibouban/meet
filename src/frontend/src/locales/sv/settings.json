@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Du är för närvarande inloggad som <0>'{{user}}'</0>",
+    "heading": "Konto",
+    "youAreNotLoggedIn": "Du är inte inloggad.",
+    "nameLabel": "Ditt namn",
+    "authentication": "Autentisering",
+    "nameError": "Ditt namn kan inte vara tomt"
+  },
+  "preferences": {
+    "title": "Inställningar",
+    "idleDisconnectModal": {
+      "label": "Lämna samtal utan deltagare",
+      "description": "Lämnar automatiskt samtalet efter några minuter om ingen annan deltar"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Mikrofon",
+      "label": "Välj din ljudingång",
+      "disabled": "Mikrofon inaktiverad"
+    },
+    "noiseReduction": {
+      "label": "Brusreducering",
+      "heading": "Brusreducering",
+      "ariaLabel": {
+        "enable": "Aktivera brusreducering",
+        "disable": "Inaktivera brusreducering"
+      }
+    },
+    "speakers": {
+      "heading": "Högtalare",
+      "label": "Välj din ljudutgång",
+      "test": "Testa",
+      "ongoingTest": "Testar ljud…",
+      "safariWarning": "Högtalarval är ännu inte tillgängligt på Safari på grund av webbläsarbegränsningar."
+    },
+    "permissionsRequired": "Behörigheter krävs"
+  },
+  "video": {
+    "camera": {
+      "heading": "Kamera",
+      "label": "Välj din videoinmatning",
+      "disabled": "Kamera avstängd",
+      "previewAriaLabel": {
+        "enabled": "Videoförhandsvisning aktiverad",
+        "disabled": "Videoförhandsvisning inaktiverad"
+      }
+    },
+    "resolution": {
+      "heading": "Upplösning",
+      "publish": {
+        "label": "Välj din sändningsupplösning (max.)",
+        "items": {
+          "high": "Hög upplösning",
+          "medium": "Standardupplösning",
+          "low": "Låg upplösning"
+        }
+      },
+      "subscribe": {
+        "label": "Välj din mottagningsupplösning (max.)",
+        "items": {
+          "high": "Hög upplösning (automatisk)",
+          "medium": "Standarddefinition",
+          "low": "Låg upplösning"
+        }
+      }
+    },
+    "permissionsRequired": "Behörigheter krävs"
+  },
+  "transcription": {
+    "heading": "Transkription",
+    "language": {
+      "label": "Mötes språk",
+      "options": {
+        "french": "Franska (fr)",
+        "english": "Svenska (sv)",
+        "dutch": "Nederländska (nl)",
+        "german": "Tyska (de)",
+        "auto": "Automatisk"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Ljudaviseringar",
+    "label": "ljudaviseringar för",
+    "actions": {
+      "disable": "Inaktivera",
+      "enable": "Aktivera"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Deltagare anslöt sig"
+      },
+      "handRaised": {
+        "label": "Handen uppräcktes"
+      },
+      "messageReceived": {
+        "label": "Meddelande mottaget"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Inställningar"
+  },
+  "language": {
+    "heading": "Språk",
+    "label": "Språk"
+  },
+  "settingsButtonLabel": "Inställningar",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Meddela reaktioner högt"
+    }
+  },
+  "tabs": {
+    "account": "Profil",
+    "audio": "Ljud",
+    "video": "Video",
+    "general": "Allmänt",
+    "notifications": "Aviseringar",
+    "accessibility": "Tillgänglighet",
+    "transcription": "Transkription"
+  }
+}

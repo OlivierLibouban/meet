@@ -1,0 +1,53 @@
+{
+  "defaultName": "Um colaborador",
+  "joined": {
+    "description": "'{{name}}' entrou na sala"
+  },
+  "raised": {
+    "description": "'{{name}}' levantou a mão.",
+    "cta": "Abrir lista de espera"
+  },
+  "muted": "'{{name}}' silenciou seu microfone. Nenhum participante pode ouvi-lo.",
+  "openChat": "Abrir chat",
+  "lowerHand": {
+    "auto": "Parece que você começou a falar, então sua mão será abaixada.",
+    "dismiss": "Mantenha a mão levantada"
+  },
+  "reaction": {
+    "description": "'{{name}}' reagiu com '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "O anfitrião desativou o vídeo para todos os participantes.",
+    "microphone": "O anfitrião desativou o microfone para todos os participantes.",
+    "screen_share": "O anfitrião desativou o compartilhamento de tela para todos os participantes."
+  },
+  "waitingParticipants": {
+    "one": "Uma pessoa quer entrar nesta chamada.",
+    "several": "Várias pessoas querem entrar nesta chamada.",
+    "open": "Abrir",
+    "accept": "Aceitar"
+  },
+  "transcript": {
+    "started": "'{{name}}' iniciou a transcrição da reunião.",
+    "stopped": "'{{name}}' interrompeu a transcrição da reunião.",
+    "limitReached": "A transcrição excedeu a duração máxima permitida e será salva automaticamente.",
+    "requested": "'{{name}}' quer iniciar a transcrição da reunião."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' iniciou a gravação da reunião.",
+    "stopped": "'{{name}}' parou a gravação da reunião.",
+    "limitReached": "A gravação excedeu a duração máxima permitida e será salva automaticamente.",
+    "requested": "'{{name}}' deseja iniciar a gravação da reunião."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Sua gravação está sendo salva! Enviaremos a transcrição para <strong>'{{email}}'</strong> assim que estiver pronta.",
+      "default": "Sua gravação está sendo salva! Enviaremos a transcrição para seu e-mail assim que estiver pronta."
+    },
+    "screenRecording": {
+      "message": "Sua gravação está sendo salva! Enviaremos uma notificação para <strong>'{{email}}'</strong> assim que estiver pronta.",
+      "default": "Sua gravação está sendo salva! Enviaremos uma notificação para seu e-mail assim que estiver pronta."
+    }
+  },
+  "openMenu": "Abrir menu"
+}

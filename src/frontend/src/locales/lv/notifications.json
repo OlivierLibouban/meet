@@ -1,0 +1,53 @@
+{
+  "defaultName": "Līdzstrādnieks",
+  "joined": {
+    "description": "'{{name}}' ir pievienojies istabai"
+  },
+  "raised": {
+    "description": "'{{name}}' ir pacēlis roku.",
+    "cta": "Atvērt gaidīšanas sarakstu"
+  },
+  "muted": "'{{name}}' ir izslēdzis jūsu mikrofonu. Neviens dalībnieks jūs nedzird.",
+  "openChat": "Atvērt tērzēšanu",
+  "lowerHand": {
+    "auto": "Šķiet, ka esat sācis runāt, tāpēc jūsu roka tiks nolaista.",
+    "dismiss": "Turiet roku paceltu"
+  },
+  "reaction": {
+    "description": "'{{name}}' reaģēja ar '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "Resursdators ir atspējojis video visiem dalībniekiem.",
+    "microphone": "Saimnieks ir atspējojis mikrofonu visiem dalībniekiem.",
+    "screen_share": "Saimnieks ir atspējojis ekrāna koplietošanu visiem dalībniekiem."
+  },
+  "waitingParticipants": {
+    "one": "Viena persona vēlas pievienoties šim zvanam.",
+    "several": "Vairāki cilvēki vēlas pievienoties šim zvanam.",
+    "open": "Atvērt",
+    "accept": "Pieņemt"
+  },
+  "transcript": {
+    "started": "'{{name}}' sāka sapulces transkripciju.",
+    "stopped": "'{{name}}' apturēja sapulces transkripciju.",
+    "limitReached": "Transkripcija ir pārsniegusi maksimālo atļauto ilgumu un tiks automātiski saglabāta.",
+    "requested": "'{{name}}' vēlas sākt sapulces transkripciju."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' sāka sapulces ierakstīšanu.",
+    "stopped": "'{{name}}' apturēja sapulces ierakstu.",
+    "limitReached": "Ieraksts ir pārsniedzis maksimāli atļauto ilgumu un tiks automātiski saglabāts.",
+    "requested": "'{{name}}' vēlas sākt sapulces ierakstīšanu."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Jūsu ieraksts tiek saglabāts! Mēs nosūtīsim transkriptu uz <strong>'{{email}}'</strong>, tiklīdz tas būs gatavs.",
+      "default": "Jūsu ieraksts tiek saglabāts! Mēs nosūtīsim transkriptu uz jūsu e-pastu, tiklīdz tas būs gatavs."
+    },
+    "screenRecording": {
+      "message": "Jūsu ieraksts tiek saglabāts! Mēs nosūtīsim paziņojumu uz <strong>'{{email}}'</strong>, tiklīdz tas būs gatavs.",
+      "default": "Jūsu ieraksts tiek saglabāts! Mēs nosūtīsim paziņojumu uz jūsu e-pastu, tiklīdz tas būs gatavs."
+    }
+  },
+  "openMenu": "Atvērt izvēlni"
+}

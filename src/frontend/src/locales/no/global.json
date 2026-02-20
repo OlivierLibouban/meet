@@ -1,0 +1,59 @@
+{
+  "backToHome": "Tilbake til startskjerm",
+  "cancel": "Avbryt",
+  "closeDialog": "Lukk dialogen",
+  "error": {
+    "heading": "Det oppstod en feil under lasting av siden"
+  },
+  "feedback": {
+    "context": "Din tilbakemelding former produktet!",
+    "cta": "Del din tilbakemelding - ny fane"
+  },
+  "forbidden": {
+    "heading": "Du har ikke tillatelse til å se denne siden"
+  },
+  "loading": "Laster inn…",
+  "loggedInUserTooltip": "Logget inn som ",
+  "login": {
+    "buttonLabel": "Logg inn",
+    "proconnectButtonLabel": "Logg inn med ProConnect",
+    "proconnectLinkLabel": "Hva er ProConnect? - ny fane",
+    "proconnectLink": "Hva er ProConnect?"
+  },
+  "logout": "Logg ut",
+  "notFound": {
+    "heading": "Bekreft møtekoden din",
+    "body": "Sjekk at du har skrevet inn riktig møtekode i URL-en. Eksempel:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Juridisk merknad",
+      "data": "Personopplysninger og informasjonskapsler",
+      "accessibility": "Tilgjengelighet: ikke-kompatibel",
+      "ariaLabel": "nytt vindu",
+      "codeAnnotation": "Koden vår er åpen og tilgjengelig her",
+      "code": "Åpne kildekoderepositorium",
+      "technicalDetails": "Teknisk varsel",
+      "termsOfService": "Vilkår for bruk"
+    },
+    "mentions": "Med mindre annet er oppgitt, er innholdet på dette nettstedet tilgjengelig under",
+    "license": "etalab 2.0-lisens"
+  },
+  "loginHint": {
+    "title": "Logg inn med din ProConnect-konto",
+    "body": "I stedet for å vente, logg inn med din ProConnect-konto.",
+    "button": {
+      "ariaLabel": "Lukk forslaget",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "For å delta i videokonferansen, klikk på denne lenken: '{{roomUrl}}'",
+    "numberAndPin": "For å bli med via telefon, ring '{{phoneNumber}}' og tast inn denne koden: '{{pinCode}}'"
+  }
+}

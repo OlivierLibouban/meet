@@ -1,0 +1,606 @@
+{
+  "feedback": {
+    "heading": {
+      "normal": "Opuściłeś spotkanie",
+      "duplicateIdentity": "Dołączyłeś do spotkania z innego urządzenia",
+      "participantRemoved": "Zostałeś usunięty z spotkania przez administratora"
+    },
+    "home": "Powrót do strony głównej",
+    "back": "Dołącz ponownie do spotkania"
+  },
+  "selectDevice": {
+    "loading": "Ładowanie…",
+    "select": "Wybierz wartość",
+    "permissionsNeeded": "Wymagane uprawnienia",
+    "settings": {
+      "audio": "Ustawienia dźwięku",
+      "video": "Ustawienia wideo"
+    },
+    "effects": "Tła i efekty",
+    "videoinput": {
+      "choose": "Wybierz kamerę",
+      "permissionsNeeded": "Wybierz kamerę - wymagane uprawnienia",
+      "disable": "Wyłącz kamerę",
+      "enable": "Włącz kamerę",
+      "label": "Aparat",
+      "placeholder": "Włącz kamerę, aby zobaczyć podgląd"
+    },
+    "audioinput": {
+      "choose": "Wybierz mikrofon",
+      "permissionsNeeded": "Wybierz mikrofon - wymagana zgoda",
+      "disable": "Wyłącz mikrofon",
+      "enable": "Włącz mikrofon",
+      "label": "Mikrofon"
+    },
+    "audiooutput": {
+      "choose": "Wybierz głośnik",
+      "permissionsNeeded": "Wybierz głośnik - wymagana zgoda"
+    }
+  },
+  "join": {
+    "effects": {
+      "description": "Zastosuj tła i efekty",
+      "title": "Efekty",
+      "subTitle": "Skonfiguruj efekty kamery."
+    },
+    "heading": "Dołączyć do spotkania?",
+    "joinLabel": "Dołącz",
+    "joinMeeting": "Dołącz do spotkania",
+    "toggleOff": "Kliknij, aby wyłączyć",
+    "toggleOn": "Kliknij, aby włączyć",
+    "usernameHint": "Wyświetlane innym uczestnikom",
+    "usernameLabel": "Twoje imię",
+    "errors": {
+      "usernameEmpty": "Twoje imię nie może być puste"
+    },
+    "cameraDisabled": "Kamera jest wyłączona.",
+    "cameraStarting": "Uruchamianie kamery…",
+    "cameraNotGranted": "Czy chcesz, aby inni mogli Cię widzieć podczas spotkania?",
+    "cameraAndMicNotGranted": "Czy chcesz, aby inni mogli Cię widzieć i słyszeć podczas spotkania?",
+    "permissionsButton": {
+      "cameraAndMicNotGranted": "Zezwól na dostęp do kamery i mikrofonu",
+      "cameraNotGranted": "Zezwól na dostęp do aparatu"
+    },
+    "videoPreview": {
+      "enabled": "Podgląd wideo włączony",
+      "disabled": "Podgląd wideo wyłączony"
+    },
+    "waiting": {
+      "title": "Prośba o dołączenie...",
+      "body": "Będziesz mógł dołączyć do tego połączenia, gdy ktoś Cię autoryzuje"
+    },
+    "denied": {
+      "title": "Nie możesz dołączyć do tego połączenia",
+      "body": "Twoje żądanie dołączenia zostało odrzucone."
+    },
+    "timeoutInvite": {
+      "title": "Nie możesz dołączyć do tego połączenia",
+      "body": "Nikt nie odpowiedział na Twoje żądanie"
+    }
+  },
+  "leaveRoomPrompt": "Spowoduje to opuszczenie spotkania.",
+  "shareDialog": {
+    "copy": "Kopiuj informacje",
+    "copyUrl": "Kopiuj link",
+    "copied": "Informacje skopiowane do schowka",
+    "heading": "Twoje spotkanie jest gotowe",
+    "description": "Udostępnij ten link osobom, które chcesz zaprosić na spotkanie.",
+    "permissions": "Osoby z tym linkiem nie potrzebują Twojej zgody, aby dołączyć do tego spotkania.",
+    "closeDialog": "Zamknij okno dialogowe",
+    "phone": {
+      "call": "Połącz:",
+      "pinCode": "Kod:"
+    }
+  },
+  "pagination": {
+    "count": "'{{currentPage}}' z '{{totalPageCount}}'",
+    "next": "następna strona",
+    "previous": "poprzednia strona"
+  },
+  "mediaErrorDialog": {
+    "DeviceInUse": {
+      "title": {
+        "audioinput": "Aktywacja mikrofonu nie powiodła się",
+        "videoinput": "Aktywacja kamery nie powiodła się"
+      },
+      "body": {
+        "audioinput": "Twój mikrofon jest już używany przez inną kartę lub aplikację, co uniemożliwia jego aktywację w tym połączeniu wideo. Jeśli chcesz, zamknij inną kartę lub aplikację, aby użyć go tutaj.",
+        "videoinput": "Twoja kamera jest już używana przez inną kartę lub aplikację, co uniemożliwia jej aktywację w tym połączeniu wideo. Jeśli chcesz, zamknij inną kartę lub aplikację, aby użyć jej tutaj."
+      }
+    },
+    "close": "OK"
+  },
+  "permissionErrorDialog": {
+    "heading": {
+      "camera": "'{{appTitle}}' nie ma dostępu do Twojego aparatu",
+      "microphone": "'{{appTitle}}' nie ma pozwolenia na używanie mikrofonu",
+      "cameraAndMicrophone": "'{{appTitle}}' nie ma pozwolenia na używanie mikrofonu ani kamery",
+      "default": "'{{appTitle}}' nie ma uprawnień do korzystania z niektórych funkcji"
+    },
+    "body": {
+      "openMenu": {
+        "others": "Kliknij ikonę ustawień ICON_PLACEHOLDER w pasku adresu przeglądarki",
+        "safari": "Kliknij menu „Safari” i otwórz „Ustawienia dla '{{appDomain}}'”."
+      },
+      "details": {
+        "camera": "Zezwól na dostęp do aparatu",
+        "microphone": "Zezwól na dostęp do mikrofonu",
+        "cameraAndMicrophone": "Zezwól na dostęp do kamery i mikrofonu",
+        "default": "Włącz wymagane uprawnienia."
+      }
+    }
+  },
+  "permissionsButton": {
+    "tooltip": "Więcej informacji",
+    "ariaLabel": "Problem z uprawnieniami. Pokaż więcej informacji"
+  },
+  "error": {
+    "createRoom": {
+      "heading": "Wymagana autoryzacja",
+      "body": "Ten pokój nie został jeszcze utworzony. Zaloguj się, aby go utworzyć, lub poczekaj na zalogowanego użytkownika."
+    },
+    "screenShare": {
+      "title": "Nie można udostępnić ekranu",
+      "ariaLabel": "Nie można udostępnić ekranu",
+      "message": "Twoja przeglądarka może nie mieć uprawnień do nagrywania ekranu na Twoim komputerze.",
+      "macInstructions": "Przejdź do swojego",
+      "macSystemPreferences": "Preferencje systemowe",
+      "helpLinkText": "Aby dowiedzieć się więcej, zobacz",
+      "helpLinkLabel": "Problem z prezentacją",
+      "closeButton": "Zamknij",
+      "newTab": "Nowe okno"
+    }
+  },
+  "isIdleDisconnectModal": {
+    "title": "Czy nadal tam jesteś?",
+    "body": "Jesteś jedynym uczestnikiem. Ta rozmowa zakończy się za '{{duration}}'. Czy chcesz kontynuować rozmowę?",
+    "settingsPrefix": "Aby przestać widzieć tę wiadomość, przejdź do",
+    "settingsLink": "Ustawienia > Ogólne",
+    "settingsSuffix": "Please provide the text you would like translated.",
+    "stayButton": "Kontynuuj rozmowę",
+    "leaveButton": "Opuść teraz",
+    "countdownAnnouncement": "Połączenie kończy się za '{{duration}}'."
+  },
+  "controls": {
+    "microphone": "Mikrofon",
+    "camera": "Aparat",
+    "chat": {
+      "open": "Zamknij czat",
+      "closed": "Otwórz czat",
+      "input": {
+        "textArea": {
+          "label": "Wpisz wiadomość",
+          "placeholder": "Wpisz wiadomość"
+        },
+        "button": {
+          "label": "Wyślij wiadomość"
+        }
+      }
+    },
+    "info": {
+      "open": "Ukryj informacje",
+      "closed": "Pokaż informacje"
+    },
+    "hand": {
+      "raise": "Podnieś rękę",
+      "lower": "Opuść rękę"
+    },
+    "subtitles": {
+      "closed": "Pokaż napisy",
+      "open": "Ukryj napisy"
+    },
+    "screenShare": {
+      "start": "Udostępnij ekran",
+      "stop": "Zatrzymaj udostępnianie ekranu"
+    },
+    "leave": "Opuść",
+    "participants": {
+      "open": "Ukryj wszystkich",
+      "closed": "Zobacz wszystkich",
+      "count_one": "'{{count}}' uczestnik",
+      "count_other": "'{{count}}' uczestników"
+    },
+    "tools": {
+      "open": "Ukryj więcej narzędzi",
+      "closed": "Pokaż więcej narzędzi"
+    },
+    "admin": {
+      "open": "Ukryj administratora",
+      "closed": "Otwórz panel admina"
+    },
+    "moreOptions": "Więcej opcji",
+    "reactions": {
+      "button": "Wyślij reakcję",
+      "send": "Wyślij reakcję '{{emoji}}'",
+      "announce": "'{{name}}' : '{{emoji}}'",
+      "you": "Ty",
+      "emojis": {
+        "thumbs-up": "Kciuk w górę",
+        "thumbs-down": "Kciuk w dół",
+        "clapping-hands": "klaskanie dłońmi",
+        "red-heart": "czerwone serce",
+        "face-with-tears-of-joy": "twarz ze łzami radości",
+        "face-with-open-mouth": "zaskoczona twarz",
+        "party-popper": "konfetti",
+        "folded-hands": "Złożone ręce"
+      }
+    }
+  },
+  "options": {
+    "buttonLabel": "Więcej opcji",
+    "items": {
+      "feedback": "Prześlij opinię",
+      "settings": "Ustawienia",
+      "screenRecording": "Nagrywanie ekranu",
+      "transcript": "Transkrypcja",
+      "username": "Zaktualizuj swoje imię",
+      "effects": "Tła i efekty",
+      "switchCamera": "Przełącz kamerę",
+      "fullscreen": {
+        "enter": "Pełny ekran",
+        "exit": "Zakończ tryb pełnoekranowy"
+      },
+      "support": "Skontaktuj się z pomocą"
+    }
+  },
+  "effects": {
+    "activateCamera": "Aparat jest wyłączony. Wybierz opcję, aby go włączyć.",
+    "cameraDisabled": "Aparat jest wyłączony.",
+    "notAvailable": "Efekty wideo będą wkrótce dostępne w Twojej przeglądarce. Pracujemy nad tym! W międzyczasie możesz użyć Google Chrome dla najlepszej wydajności lub Firefox :(",
+    "heading": "Rozmycie",
+    "clear": "Wyłącz efekt",
+    "blur": {
+      "title": "Rozmycie tła",
+      "status": {
+        "none": "Wyczyść tło.",
+        "light": "Tło lekko rozmyte.",
+        "strong": "Tło mocno rozmyte."
+      },
+      "light": {
+        "apply": "Delikatnie rozmyj tło",
+        "clear": "Wyłącz rozmycie"
+      },
+      "normal": {
+        "apply": "Rozmyj tło",
+        "clear": "Wyłącz rozmycie"
+      }
+    },
+    "virtual": {
+      "title": "Tło wirtualne",
+      "selectedLabel": "Zastosowano tło:",
+      "apply": "Zmień tło:",
+      "descriptions": {
+        "0": "Żłobione drewniane meble",
+        "1": "Sala spotkań",
+        "2": "Loft z czarną szklaną przegrodą",
+        "3": "Jadalnia",
+        "4": "Drewniane półki",
+        "5": "Drewniane schody",
+        "6": "Szara biblioteka",
+        "7": "Licznik kawy"
+      }
+    },
+    "faceLandmarks": {
+      "title": "Efekty wizualne",
+      "glasses": {
+        "apply": "Dodaj okulary",
+        "clear": "Usuń okulary"
+      },
+      "french": {
+        "apply": "Dodaj francuski akcent",
+        "clear": "Usuń francuski akcent"
+      }
+    }
+  },
+  "sidePanel": {
+    "ariaLabel": "Panel boczny",
+    "backToTools": "Powrót do narzędzi spotkań",
+    "heading": {
+      "participants": "Uczestnicy",
+      "effects": "Tła i efekty",
+      "chat": "Wiadomości na czacie",
+      "transcript": "Transkrybuj",
+      "screenRecording": "Nagraj",
+      "admin": "Ustawienia administratora",
+      "tools": "Więcej narzędzi",
+      "info": "Informacje o spotkaniu"
+    },
+    "content": {
+      "participants": "uczestnicy",
+      "effects": "Tła i efekty",
+      "chat": "Wiadomości",
+      "transcript": "transkrybuj",
+      "screenRecording": "Zapisz",
+      "admin": "ustawienia administratora",
+      "tools": "więcej narzędzi",
+      "info": "informacje o spotkaniu"
+    },
+    "closeButton": "Ukryj '{{content}}'"
+  },
+  "chat": {
+    "disclaimer": "Wiadomości są widoczne dla uczestników tylko w momencie wysłania. Wszystkie wiadomości są usuwane po zakończeniu rozmowy."
+  },
+  "moreTools": {
+    "body": "Uzyskaj więcej narzędzi, aby ulepszyć swoje spotkania.",
+    "moreLink": "Dowiedz się więcej",
+    "tools": {
+      "transcript": {
+        "title": "Transkrybuj",
+        "body": "Nagraj rozmowę."
+      },
+      "screenRecording": {
+        "title": "Nagraj",
+        "body": "Nagraj spotkanie."
+      }
+    }
+  },
+  "info": {
+    "roomInformation": {
+      "title": "Informacje o połączeniu",
+      "button": {
+        "ariaLabel": "Skopiuj informacje z Twojego spotkania",
+        "copy": "Kopiuj informacje",
+        "copied": "Informacje skopiowane"
+      },
+      "phone": {
+        "call": "Zadzwoń:",
+        "pinCode": "Kod:"
+      }
+    }
+  },
+  "transcript": {
+    "heading": "Transkrybuj swoje spotkanie z Asystentem AI",
+    "body": "Transkrybuj do '{{max_duration}}' minut spotkania.",
+    "bodyWithoutMaxDuration": "Transkrybuj swoje spotkanie bez ograniczeń.",
+    "details": {
+      "receiver": "Transkrypt zostanie wysłany do gospodarza i współgospodarzy.",
+      "destination": "Nowy dokument zostanie utworzony dnia",
+      "destinationUnknown": "Zostanie utworzony nowy dokument",
+      "language": "Język spotkania:",
+      "recording": "Rozpocznij nagrywanie"
+    },
+    "button": {
+      "start": "Rozpocznij transkrypcję spotkania",
+      "stop": "Zatrzymaj transkrypcję spotkania",
+      "saving": "Zapisywanie…",
+      "starting": "Uruchamianie…",
+      "anotherModeStarted": "Nagrywanie ekranu trwa. Zmień panele i zatrzymaj."
+    },
+    "linkMore": "Dowiedz się więcej",
+    "notAdminOrOwner": {
+      "heading": "Dostęp Ograniczony",
+      "body": "Ze względów bezpieczeństwa tylko twórca spotkania lub administrator może rozpocząć transkrypcję (beta).",
+      "linkMore": "Dowiedz się więcej",
+      "dividerLabel": "LUB",
+      "login": {
+        "heading": "Wymagane logowanie",
+        "body": "Tylko twórca spotkania lub administrator może rozpocząć transkrypcję. Zaloguj się, aby zweryfikować swoje uprawnienia."
+      },
+      "request": {
+        "heading": "Poproś o transkrypcję",
+        "body": "Gospodarz zostanie powiadomiony i może włączyć transkrypcję dla Ciebie.",
+        "buttonLabel": "Żądanie"
+      }
+    },
+    "premium": {
+      "heading": "Funkcja premium",
+      "body": "Ta funkcja jest zarezerwowana dla agentów publicznych. Jeśli Twój adres e-mail nie jest autoryzowany, skontaktuj się z pomocą techniczną, aby uzyskać dostęp.",
+      "linkMore": "Dowiedz się więcej",
+      "dividerLabel": "LUB",
+      "login": {
+        "heading": "Nie jesteś zalogowany!",
+        "body": "Aby skorzystać z tej funkcji, musisz być zalogowany. Zaloguj się, a następnie spróbuj ponownie."
+      },
+      "request": {
+        "heading": "Poproś o transkrypcję",
+        "body": "Gospodarz zostanie powiadomiony i może włączyć transkrypcję dla Ciebie.",
+        "buttonLabel": "Żądanie"
+      }
+    }
+  },
+  "screenRecording": {
+    "heading": "Nagraj tę rozmowę na później",
+    "body": "Nagraj do '{{max_duration}}' spotkania.",
+    "bodyWithoutMaxDuration": "Nagraj swoje spotkanie bez ograniczeń.",
+    "linkMore": "Dowiedz się więcej",
+    "details": {
+      "receiver": "Nagranie zostanie wysłane do gospodarza i współgospodarzy.",
+      "destination": "To nagranie zostanie tymczasowo zapisane na naszych serwerach",
+      "loading": "Rozpoczynanie nagrywania",
+      "linkMore": "Dowiedz się więcej",
+      "transcription": "Transkrybuj to nagranie"
+    },
+    "button": {
+      "start": "Rozpocznij nagrywanie spotkania",
+      "stop": "Zatrzymaj nagrywanie spotkania",
+      "saving": "Zapisywanie…",
+      "starting": "Uruchamianie…",
+      "anotherModeStarted": "Transkrypcja trwa. <br/> Przełącz panele i zatrzymaj ją."
+    },
+    "notAdminOrOwner": {
+      "heading": "Ograniczony Dostęp",
+      "body": "Ze względów bezpieczeństwa tylko twórca spotkania lub administrator może rozpocząć nagrywanie (beta).",
+      "linkMore": "Dowiedz się więcej",
+      "dividerLabel": "LUB",
+      "login": {
+        "heading": "Wymagane logowanie",
+        "body": "Tylko twórca spotkania lub administrator może rozpocząć nagrywanie ekranu. Zaloguj się, aby zweryfikować swoje uprawnienia."
+      },
+      "request": {
+        "heading": "Poproś o nagranie",
+        "body": "Gospodarz zostanie powiadomiony i może włączyć nagrywanie dla Ciebie.",
+        "buttonLabel": "Żądanie"
+      }
+    },
+    "durationMessage": "Przepraszam, ale nie podałeś tekstu do przetłumaczenia. Proszę podaj tekst, który chcesz przetłumaczyć {max_duration} "
+  },
+  "errorRecordingAlertDialog": {
+    "title": "Nagrywanie nie powiodło się",
+    "body": {
+      "stop": "Nie udało się zatrzymać nagrywania. Spróbuj ponownie za chwilę.",
+      "start": "Nie udało się rozpocząć nagrywania. Spróbuj ponownie za chwilę."
+    },
+    "button": "OK"
+  },
+  "admin": {
+    "description": "Te ustawienia organizatora pozwalają zachować kontrolę nad spotkaniem. Tylko organizatorzy mają dostęp do tych opcji.",
+    "access": {
+      "title": "Dostęp do pokoju",
+      "description": "Te ustawienia będą również dotyczyć przyszłych wystąpień tego spotkania.",
+      "type": "Typy dostępu do spotkania",
+      "levels": {
+        "public": {
+          "label": "Otwórz",
+          "description": "Nikt nie musi prosić o dołączenie do spotkania."
+        },
+        "trusted": {
+          "label": "Otwórz dla zaufanych osób",
+          "description": "Osoby uwierzytelnione nie muszą prosić o dołączenie do spotkania."
+        },
+        "restricted": {
+          "label": "Ograniczone",
+          "description": "Osoby, które nie zostały zaproszone na spotkanie, muszą poprosić o dołączenie."
+        }
+      }
+    },
+    "moderation": {
+      "title": "Moderowanie spotkania",
+      "description": "Te ustawienia ograniczają działania, które mogą podejmować uczestnicy podczas spotkania.",
+      "microphone": {
+        "label": "Włącz mikrofon",
+        "description": ""
+      },
+      "camera": {
+        "label": "Włącz wideo",
+        "description": ""
+      },
+      "screenshare": {
+        "label": "Udostępnij ekran",
+        "description": "Wyłączenie tej opcji uniemożliwi uczestnikom udostępnianie ekranu, a każde trwające udostępnianie zostanie natychmiast przerwane."
+      }
+    }
+  },
+  "rating": {
+    "submit": "Prześlij",
+    "question": "Co sądzisz o jakości swojego połączenia?",
+    "levels": {
+      "min": "bardzo słaby",
+      "max": "Doskonały"
+    }
+  },
+  "openFeedback": {
+    "question": "Co możemy zrobić, aby się poprawić?",
+    "placeholder": "Opisz swoje błędy lub podziel się sugestiami…",
+    "submit": "Prześlij",
+    "skip": "Pomiń"
+  },
+  "confirmationMessage": {
+    "heading": "Dziękujemy za przesłanie",
+    "body": "Nasz zespół produktowy starannie analizuje Twoje uwagi. Skontaktujemy się z Tobą najszybciej, jak to możliwe."
+  },
+  "authenticationMessage": {
+    "heading": "Jak możemy się z Tobą skontaktować?",
+    "placeholder": "Twój e-mail",
+    "submit": "Wyślij",
+    "ignore": "Ignoruj"
+  },
+  "participants": {
+    "subheading": "W pokoju",
+    "you": "Ty",
+    "unknown": "Nieznany uczestnik",
+    "host": "Gospodarz",
+    "contributors": "Współtwórcy",
+    "collapsable": {
+      "open": "Otwórz listę '{{name}}'",
+      "close": "Zamknij listę '{{name}}'"
+    },
+    "muteYourself": "Zamknij mikrofon",
+    "muteParticipant": "Zamknij mikrofon '{{name}}'",
+    "muteParticipantAlert": {
+      "heading": "Wycisz '{{name}}'",
+      "description": "Wyciszyć '{{name}}' dla wszystkich uczestników? Tylko '{{name}}' będzie mógł się odciszyć.",
+      "confirm": "Wycisz",
+      "cancel": "Anuluj"
+    },
+    "raisedHands": "Podniesione ręce",
+    "lowerParticipantHand": "Opuść rękę użytkownika '{{name}}'",
+    "lowerParticipantsHand": "Opuść wszystkie ręce",
+    "muteParticipants": "Wycisz wszystkie mikrofony",
+    "waiting": {
+      "title": "Lobby",
+      "accept": {
+        "button": "Akceptuj",
+        "label": "Zaakceptuj '{{name}}' na spotkanie",
+        "all": "Zaakceptuj wszystko"
+      },
+      "deny": {
+        "button": "Odmów",
+        "label": "Odmów '{{name}}' udziału w spotkaniu",
+        "all": "Odrzuć wszystkie"
+      }
+    },
+    "moreOptions": "Więcej opcji"
+  },
+  "participantMenu": {
+    "remove": {
+      "label": "Usuń z rozmowy",
+      "ariaLabel": "Usuń '{{name}}' z połączenia"
+    },
+    "unpin": {
+      "label": "Odepnij",
+      "ariaLabel": "Odepnij '{{name}}'"
+    },
+    "pin": {
+      "label": "Przypnij",
+      "ariaLabel": "Przypnij '{{name}}'"
+    }
+  },
+  "pinAnnouncements": {
+    "pin": "Wideo '{{name}}' jest przypięte.",
+    "unpin": "Film '{{name}}' nie jest już przypięty.",
+    "self": {
+      "pin": "Twój film jest przypięty.",
+      "unpin": "Twój film nie jest już przypięty."
+    }
+  },
+  "recordingStateToast": {
+    "transcript": {
+      "started": "Transkrypcja",
+      "starting": "Rozpoczęcie transkrypcji",
+      "stopping": "Zatrzymywanie transkrypcji"
+    },
+    "screen_recording": {
+      "started": "Nagrywanie w toku",
+      "starting": "Rozpoczynanie nagrywania",
+      "stopping": "Zatrzymywanie nagrywania"
+    },
+    "any": {
+      "started": "Nagrywanie w toku"
+    },
+    "limitReachedAlert": {
+      "title": "Przekroczono limit nagrywania",
+      "description": "Nagranie przekroczyło maksymalny dozwolony czas'{{duration_message}}'. Zostanie teraz automatycznie zapisane.",
+      "durationMessage": " z '{{duration}}'",
+      "button": "OK"
+    }
+  },
+  "participantTileFocus": {
+    "containerLabel": "Opcje dla '{{name}}'",
+    "toolbarHint": "F2: przejdź do dolnego paska narzędzi.",
+    "pin": {
+      "enable": "Przypnij",
+      "disable": "Odepnij"
+    },
+    "effects": "Zastosuj tła i efekty",
+    "muteParticipant": "Wycisz '{{name}}'",
+    "fullScreen": "Pełny ekran"
+  },
+  "fullScreenWarning": {
+    "message": "Aby uniknąć nieskończonego pętli wyświetlania, nie udostępniaj całego ekranu. Udostępnij kartę lub inne okno.",
+    "stop": "Zatrzymaj prezentację",
+    "ignore": "Ignoruj"
+  },
+  "participantTile": {
+    "screenShare": "Ekran '{{name}}'"
+  }
+}

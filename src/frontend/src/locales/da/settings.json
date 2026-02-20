@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Du er i øjeblikket logget ind som <0>'{{user}}'</0>",
+    "heading": "Konto",
+    "youAreNotLoggedIn": "Du er ikke logget ind.",
+    "nameLabel": "Dit navn",
+    "authentication": "Godkendelse",
+    "nameError": "Dit navn kan ikke være tomt"
+  },
+  "preferences": {
+    "title": "Præferencer",
+    "idleDisconnectModal": {
+      "label": "Forlad opkald uden deltagere",
+      "description": "Forlader automatisk opkaldet efter et par minutter, hvis ingen andre deltager"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Mikrofon",
+      "label": "Vælg din lydindgang",
+      "disabled": "Mikrofon deaktiveret"
+    },
+    "noiseReduction": {
+      "label": "Støjreduktion",
+      "heading": "Støjreduktion",
+      "ariaLabel": {
+        "enable": "Aktivér støjreduktion",
+        "disable": "Deaktiver støjreduktion"
+      }
+    },
+    "speakers": {
+      "heading": "Højttalere",
+      "label": "Vælg din lydudgang",
+      "test": "Test",
+      "ongoingTest": "Tester lyd…",
+      "safariWarning": "Højttalervalg er endnu ikke tilgængeligt på Safari på grund af browserbegrænsninger."
+    },
+    "permissionsRequired": "Nødvendige tilladelser"
+  },
+  "video": {
+    "camera": {
+      "heading": "Kamera",
+      "label": "Vælg din videoindgang",
+      "disabled": "Kamera deaktiveret",
+      "previewAriaLabel": {
+        "enabled": "Videoforhåndsvisning aktiveret",
+        "disabled": "Videoforhåndsvisning deaktiveret"
+      }
+    },
+    "resolution": {
+      "heading": "Opløsning",
+      "publish": {
+        "label": "Vælg din afsendelsesopløsning (maks.)",
+        "items": {
+          "high": "Høj opløsning",
+          "medium": "Standard definition",
+          "low": "Lav opløsning"
+        }
+      },
+      "subscribe": {
+        "label": "Vælg din modtagelsesopløsning (maks.)",
+        "items": {
+          "high": "Høj opløsning (automatisk)",
+          "medium": "Standard definition",
+          "low": "Lav opløsning"
+        }
+      }
+    },
+    "permissionsRequired": "Nødvendige tilladelser"
+  },
+  "transcription": {
+    "heading": "Transskription",
+    "language": {
+      "label": "Mødesprog",
+      "options": {
+        "french": "Fransk (fr)",
+        "english": "Dansk (da)",
+        "dutch": "Hollandsk (nl)",
+        "german": "Tysk (de)",
+        "auto": "Automatisk"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Lydmeddelelser",
+    "label": "lydbeskeder til",
+    "actions": {
+      "disable": "Deaktiver",
+      "enable": "Aktivér"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Deltager tilsluttet"
+      },
+      "handRaised": {
+        "label": "Hånd oppe"
+      },
+      "messageReceived": {
+        "label": "Besked modtaget"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Indstillinger"
+  },
+  "language": {
+    "heading": "Sprog",
+    "label": "Sprog"
+  },
+  "settingsButtonLabel": "Indstillinger",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Udmeld reaktioner højt"
+    }
+  },
+  "tabs": {
+    "account": "Profil",
+    "audio": "Lyd",
+    "video": "Video",
+    "general": "Generelt",
+    "notifications": "Notifikationer",
+    "accessibility": "Tilgængelighed",
+    "transcription": "Transskription"
+  }
+}

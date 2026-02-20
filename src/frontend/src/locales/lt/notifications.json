@@ -1,0 +1,53 @@
+{
+  "defaultName": "Bendradarbis",
+  "joined": {
+    "description": "'{{name}}' prisijungė prie kambario"
+  },
+  "raised": {
+    "description": "'{{name}}' pakėlė ranką.",
+    "cta": "Atidaryti laukiančiųjų sąrašą"
+  },
+  "muted": "'{{name}}' nutildė jūsų mikrofoną. Nė vienas dalyvis negirdi jūsų.",
+  "openChat": "Atidaryti pokalbį",
+  "lowerHand": {
+    "auto": "Panašu, kad pradėjote kalbėti, todėl jūsų ranka bus nuleista.",
+    "dismiss": "Laikykite ranką pakeltą"
+  },
+  "reaction": {
+    "description": "'{{name}}' sureagavo su '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "Šeimininkas išjungė vaizdo įrašą visiems dalyviams.",
+    "microphone": "Šeimininkas išjungė mikrofoną visiems dalyviams.",
+    "screen_share": "Šeimininkas išjungė ekrano bendrinimą visiems dalyviams."
+  },
+  "waitingParticipants": {
+    "one": "Vienas asmuo nori prisijungti prie šio skambučio.",
+    "several": "Keletas žmonių nori prisijungti prie šio skambučio.",
+    "open": "Atidaryti",
+    "accept": "Priimti"
+  },
+  "transcript": {
+    "started": "'{{name}}' pradėjo susitikimo transkripciją.",
+    "stopped": "'{{name}}' sustabdė susitikimo transkripciją.",
+    "limitReached": "Transkripcija viršijo leistiną trukmę ir bus automatiškai išsaugota.",
+    "requested": "'{{name}}' nori pradėti susitikimo transkripciją."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' pradėjo susitikimo įrašymą.",
+    "stopped": "'{{name}}' sustabdė susitikimo įrašymą.",
+    "limitReached": "Įrašas viršijo leistiną trukmę ir bus automatiškai išsaugotas.",
+    "requested": "'{{name}}' nori pradėti susitikimo įrašymą."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Jūsų įrašas išsaugomas! Kai tik bus paruošta, nuorašą išsiųsime <strong>'{{email}}'</strong>.",
+      "default": "Jūsų įrašas išsaugomas! Kai tik stenograma bus paruošta, atsiųsime ją į jūsų el. paštą."
+    },
+    "screenRecording": {
+      "message": "Įrašas išsaugomas! Pranešimą išsiųsime <strong>'{{email}}'</strong>, kai tik bus paruoštas.",
+      "default": "Įrašas išsaugomas! Pranešimą el. paštu atsiųsime, kai tik bus paruoštas."
+    }
+  },
+  "openMenu": "Atidaryti meniu"
+}

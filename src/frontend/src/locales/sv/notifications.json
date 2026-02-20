@@ -1,0 +1,53 @@
+{
+  "defaultName": "En bidragsgivare",
+  "joined": {
+    "description": "'{{name}}' har gått med i rummet"
+  },
+  "raised": {
+    "description": "'{{name}}' har räckt upp handen.",
+    "cta": "Öppna väntelista"
+  },
+  "muted": "'{{name}}' har stängt av din mikrofon. Ingen deltagare kan höra dig.",
+  "openChat": "Öppna chatten",
+  "lowerHand": {
+    "auto": "Det verkar som att du har börjat tala, så din hand kommer att sänkas.",
+    "dismiss": "Håll handen uppe"
+  },
+  "reaction": {
+    "description": "'{{name}}' reagerade med '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "Värden har inaktiverat video för alla deltagare.",
+    "microphone": "Värden har inaktiverat mikrofonen för alla deltagare.",
+    "screen_share": "Värden har inaktiverat skärmdelning för alla deltagare."
+  },
+  "waitingParticipants": {
+    "one": "En person vill ansluta till samtalet.",
+    "several": "Flera personer vill ansluta till samtalet.",
+    "open": "Öppna",
+    "accept": "Acceptera"
+  },
+  "transcript": {
+    "started": "'{{name}}' startade mötestranskriberingen.",
+    "stopped": "'{{name}}' stoppade mötestranskriberingen.",
+    "limitReached": "Transkriptionen har överskridit den maximalt tillåtna tiden och kommer att sparas automatiskt.",
+    "requested": "'{{name}}' vill starta mötestranskriberingen."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' startade mötesinspelningen.",
+    "stopped": "'{{name}}' stoppade mötesinspelningen.",
+    "limitReached": "Inspelningen har överskridit den maximala tillåtna tiden och kommer att sparas automatiskt.",
+    "requested": "'{{name}}' vill starta mötesinspelningen."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Din inspelning sparas! Vi skickar transkriptionen till <strong>'{{email}}'</strong> så snart den är klar.",
+      "default": "Din inspelning sparas! Vi skickar transkriptionen till din e-post så snart den är klar."
+    },
+    "screenRecording": {
+      "message": "Din inspelning sparas! Vi skickar en avisering till <strong>'{{email}}'</strong> så snart den är klar.",
+      "default": "Din inspelning sparas! Vi skickar en avisering till din e-post så snart den är klar."
+    }
+  },
+  "openMenu": "Öppna menyn"
+}

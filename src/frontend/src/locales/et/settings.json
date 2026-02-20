@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Olete praegu sisse logitud kui <0>'{{user}}'</0>",
+    "heading": "Konto",
+    "youAreNotLoggedIn": "Te pole sisse logitud.",
+    "nameLabel": "Teie nimi",
+    "authentication": "Autentimine",
+    "nameError": "Teie nimi ei saa olla tühi"
+  },
+  "preferences": {
+    "title": "Eelistused",
+    "idleDisconnectModal": {
+      "label": "Lahku kõnedest, kus pole osalejaid",
+      "description": "Lahkub kõnest automaatselt mõne minuti pärast, kui teisi osalejaid ei liitu"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Mikrofon",
+      "label": "Vali helisisend",
+      "disabled": "Mikrofon keelatud"
+    },
+    "noiseReduction": {
+      "label": "Mürasummutus",
+      "heading": "Mürasummutus",
+      "ariaLabel": {
+        "enable": "Luba mürasummutus",
+        "disable": "Keela mürasummutus"
+      }
+    },
+    "speakers": {
+      "heading": "Kõlarid",
+      "label": "Vali heli väljund",
+      "test": "Testi",
+      "ongoingTest": "Testin heli…",
+      "safariWarning": "Kõlari valik pole Safari brauseri piirangute tõttu veel saadaval."
+    },
+    "permissionsRequired": "Nõutavad õigused"
+  },
+  "video": {
+    "camera": {
+      "heading": "Kaamera",
+      "label": "Vali oma video sisend",
+      "disabled": "Kaamera keelatud",
+      "previewAriaLabel": {
+        "enabled": "Video eelvaade lubatud",
+        "disabled": "Video eelvaade keelatud"
+      }
+    },
+    "resolution": {
+      "heading": "Resolutsioon",
+      "publish": {
+        "label": "Vali saatmise lahutusvõime (maks.)",
+        "items": {
+          "high": "Kõrglahutus",
+          "medium": "Standardlahutus",
+          "low": "Madal eraldusvõime"
+        }
+      },
+      "subscribe": {
+        "label": "Vali vastuvõtu resolutsioon (maks.)",
+        "items": {
+          "high": "Kõrglahutus (automaatne)",
+          "medium": "Standardlahutus",
+          "low": "Madal eraldusvõime"
+        }
+      }
+    },
+    "permissionsRequired": "Nõutavad õigused"
+  },
+  "transcription": {
+    "heading": "Transkriptsioon",
+    "language": {
+      "label": "Koosoleku keel",
+      "options": {
+        "french": "Prantsuse (fr)",
+        "english": "Eesti (et)",
+        "dutch": "Hollandi (nl)",
+        "german": "Saksa (de)",
+        "auto": "Automaatne"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Helimärguanded",
+    "label": "heli teavitused jaoks",
+    "actions": {
+      "disable": "Keela",
+      "enable": "Luba"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Osaleja liitus"
+      },
+      "handRaised": {
+        "label": "Käsi tõstetud"
+      },
+      "messageReceived": {
+        "label": "Sõnum saadud"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Seaded"
+  },
+  "language": {
+    "heading": "Keel",
+    "label": "Keel"
+  },
+  "settingsButtonLabel": "Seaded",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Teata reaktsioonidest valjult"
+    }
+  },
+  "tabs": {
+    "account": "Profiil",
+    "audio": "Heli",
+    "video": "Video",
+    "general": "Üldine",
+    "notifications": "Teavitused",
+    "accessibility": "Juurdepääsetavus",
+    "transcription": "Transkriptsioon"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Avviso legale",
+  "creator": {
+    "title": "Editore",
+    "body": "Il servizio Visio è pubblicato dalla Divisione Digitale Interministeriale dello Stato (DINUM) situata a:",
+    "contact": {
+      "title": "Informazioni di contatto",
+      "address": "20 avenue de Ségur",
+      "city": "75007 Parigi",
+      "phone": "Reception Tel.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (segreteria generale del governo)",
+      "siren": "SIREN: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Direttore Pubblicazione",
+    "body": "La direttrice della pubblicazione è Madame Stéphanie Schaer, Direttrice Digitale Interministeriale."
+  },
+  "hosting": {
+    "title": "Hosting",
+    "body": "Il servizio è ospitato da Outscale West-1 CloudGouv SecNumCloud situato in Francia."
+  },
+  "accessibility": {
+    "title": "Accessibilità",
+    "body": "La conformità agli standard di accessibilità digitale è un obiettivo futuro. Il sito non è ancora stato verificato. Tuttavia, il team si impegna a creare un sito accessibile a tutti seguendo le raccomandazioni RGAA.",
+    "more": "Per ulteriori informazioni: ",
+    "link": "collegamento alla pagina di accessibilità",
+    "status": "Stato di accessibilità: non conforme"
+  },
+  "reuse": {
+    "title": "Riutilizzo dei Contenuti e Collegamenti",
+    "body1": "Salvo diversa indicazione sui diritti di proprietà intellettuale detenuti da terzi, i contenuti di questo sito sono offerti sotto ",
+    "license": "Licenza aperta Etalab 2.0",
+    "body2": "Sei particolarmente libero di riprodurre, copiare, modificare, estrarre, trasformare, comunicare, distribuire, ridistribuire, pubblicare, trasmettere e sfruttare, a condizione di menzionare la fonte, la data dell'ultimo aggiornamento e di non fuorviare terzi riguardo alle informazioni contenute.",
+    "body3": "Qualsiasi sito pubblico o privato è autorizzato a stabilire, senza previa autorizzazione, un collegamento (incluso deep link) alle informazioni diffuse su questo sito."
+  }
+}

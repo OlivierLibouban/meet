@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Jesteś obecnie zalogowany jako <0>'{{user}}'</0>",
+    "heading": "Konto",
+    "youAreNotLoggedIn": "Nie jesteś zalogowany.",
+    "nameLabel": "Twoje imię",
+    "authentication": "Uwierzytelnianie",
+    "nameError": "Twoje imię nie może być puste"
+  },
+  "preferences": {
+    "title": "Preferencje",
+    "idleDisconnectModal": {
+      "label": "Opuść rozmowy bez uczestników",
+      "description": "Automatycznie opuszcza rozmowę po kilku minutach, jeśli nie dołączy żaden inny uczestnik"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Mikrofon",
+      "label": "Wybierz swoje wejście audio",
+      "disabled": "Mikrofon wyłączony"
+    },
+    "noiseReduction": {
+      "label": "Redukcja szumów",
+      "heading": "Redukcja szumów",
+      "ariaLabel": {
+        "enable": "Włącz redukcję szumów",
+        "disable": "Wyłącz redukcję szumów"
+      }
+    },
+    "speakers": {
+      "heading": "Głośniki",
+      "label": "Wybierz wyjście audio",
+      "test": "Testuj",
+      "ongoingTest": "Testowanie dźwięku…",
+      "safariWarning": "Wybór głośnika nie jest jeszcze dostępny w Safari z powodu ograniczeń przeglądarki."
+    },
+    "permissionsRequired": "Wymagane uprawnienia"
+  },
+  "video": {
+    "camera": {
+      "heading": "Aparat",
+      "label": "Wybierz źródło wideo",
+      "disabled": "Kamera wyłączona",
+      "previewAriaLabel": {
+        "enabled": "Podgląd wideo włączony",
+        "disabled": "Podgląd wideo wyłączony"
+      }
+    },
+    "resolution": {
+      "heading": "Rozdzielczość",
+      "publish": {
+        "label": "Wybierz maks. rozdzielczość wysyłania",
+        "items": {
+          "high": "Wysoka rozdzielczość",
+          "medium": "Standardowa definicja",
+          "low": "Niska rozdzielczość"
+        }
+      },
+      "subscribe": {
+        "label": "Wybierz maks. rozdzielczość odbioru",
+        "items": {
+          "high": "Wysoka rozdzielczość (automatyczna)",
+          "medium": "Standardowa definicja",
+          "low": "Niska rozdzielczość"
+        }
+      }
+    },
+    "permissionsRequired": "Wymagane uprawnienia"
+  },
+  "transcription": {
+    "heading": "Transkrypcja",
+    "language": {
+      "label": "Język spotkania",
+      "options": {
+        "french": "Francuski (fr)",
+        "english": "Polski (pl)",
+        "dutch": "Niderlandzki (nl)",
+        "german": "Niemiecki (de)",
+        "auto": "Automatyczny"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Powiadomienia dźwiękowe",
+    "label": "powiadomienia dźwiękowe dla",
+    "actions": {
+      "disable": "Wyłącz",
+      "enable": "Włącz"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Uczestnik dołączył"
+      },
+      "handRaised": {
+        "label": "Ręka podniesiona"
+      },
+      "messageReceived": {
+        "label": "Wiadomość odebrana"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Ustawienia"
+  },
+  "language": {
+    "heading": "Język",
+    "label": "Język"
+  },
+  "settingsButtonLabel": "Ustawienia",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Ogłaszaj reakcje na głos"
+    }
+  },
+  "tabs": {
+    "account": "Profil",
+    "audio": "Dźwięk",
+    "video": "Wideo",
+    "general": "Ogólne",
+    "notifications": "Powiadomienia",
+    "accessibility": "Dostępność",
+    "transcription": "Transkrypcja"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Utwórz spotkanie",
+  "heading": "Prosta i Bezpieczna Wideokonferencja",
+  "intro": "Komunikuj się i pracuj z łatwością, nie rezygnując z suwerenności",
+  "joinInputError": "Użyj linku do spotkania lub kodu. Przykłady:",
+  "joinInputExample": "URL lub 10-znakowy kod",
+  "joinInputLabel": "Link do spotkania",
+  "joinInputSubmit": "Dołącz do spotkania",
+  "joinMeeting": "Dołącz do spotkania",
+  "joinMeetingTipContent": "Możesz dołączyć do spotkania, wklejając pełny link w pasku adresu przeglądarki.",
+  "joinMeetingTipHeading": "Czy wiesz?",
+  "loginToCreateMeeting": "Zaloguj się, aby utworzyć spotkanie",
+  "moreLinkLabel": "Dowiedz się więcej - nowa karta",
+  "moreLink": "Dowiedz się więcej",
+  "moreAbout": "około '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Utwórz spotkanie na późniejszy termin",
+    "instantOption": "Rozpocznij spotkanie natychmiastowe"
+  },
+  "laterMeetingDialog": {
+    "heading": "Szczegóły połączenia",
+    "description": "Udostępnij te informacje gościom. Będą mogli dołączyć do spotkania bez logowania. To spotkanie jest stałe i można je ponownie wykorzystać.",
+    "permissions": "Osoby z tym linkiem nie potrzebują Twojej zgody, aby dołączyć do tego spotkania.",
+    "copy": "Kopiuj informacje",
+    "copied": "Informacje skopiowane do schowka",
+    "copyUrl": "Skopiuj link do spotkania",
+    "phone": {
+      "call": "Połącz:",
+      "pinCode": "Kod:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Poprzedni",
+      "tooltip": "Poprzedni"
+    },
+    "next": {
+      "label": "Dalej",
+      "tooltip": "Dalej"
+    },
+    "beta": {
+      "text": "Dołącz do wersji beta",
+      "tooltip": "Wypełnij formularz"
+    },
+    "slide1": {
+      "title": "Przejdź na prostotę. Wypróbuj nas teraz!",
+      "body": "Odkryj intuicyjne i dostępne rozwiązanie, zaprojektowane dla wszystkich agentów publicznych, ich partnerów i nie tylko."
+    },
+    "slide2": {
+      "title": "Organizuj grupowe rozmowy bez ograniczeń",
+      "body": "Nieograniczone czasowo spotkania, płynna i wysokiej jakości komunikacja, bez względu na wielkość grupy."
+    },
+    "slide3": {
+      "title": "Przekształć swoje spotkania za pomocą AI",
+      "body": "Uzyskaj dokładne i praktyczne transkrypcje, aby zwiększyć swoją produktywność. Funkcja w wersji beta—wypróbuj teraz!"
+    }
+  }
+}

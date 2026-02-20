@@ -1,0 +1,606 @@
+{
+  "feedback": {
+    "heading": {
+      "normal": "Jūs esat pametis sapulci",
+      "duplicateIdentity": "Jūs esat pievienojies sapulcei no citas ierīces",
+      "participantRemoved": "Jūs esat izņemts no sapulces administrātora dēļ"
+    },
+    "home": "Atgriezties sākumlapā",
+    "back": "Pievienoties sapulcei vēlreiz"
+  },
+  "selectDevice": {
+    "loading": "Ielādē…",
+    "select": "Izvēlieties vērtību",
+    "permissionsNeeded": "Nepieciešama atļauja",
+    "settings": {
+      "audio": "Audio iestatījumi",
+      "video": "Video iestatījumi"
+    },
+    "effects": "Foni un efekti",
+    "videoinput": {
+      "choose": "Izvēlieties kameru",
+      "permissionsNeeded": "Atlasiet kameru - nepieciešama atļauja",
+      "disable": "Atspējot kameru",
+      "enable": "Iespējot kameru",
+      "label": "Kamera",
+      "placeholder": "Iespējot kameru, lai skatītu priekšskatījumu"
+    },
+    "audioinput": {
+      "choose": "Atlasīt mikrofonu",
+      "permissionsNeeded": "Atlasiet mikrofonu - nepieciešama atļauja",
+      "disable": "Atspējot mikrofonu",
+      "enable": "Iespējot mikrofonu",
+      "label": "Mikrofons"
+    },
+    "audiooutput": {
+      "choose": "Izvēlieties skaļruni",
+      "permissionsNeeded": "Atlasīt skaļruni - nepieciešama atļauja"
+    }
+  },
+  "join": {
+    "effects": {
+      "description": "Pielietot fonus un efektus",
+      "title": "Efekti",
+      "subTitle": "Konfigurējiet kameras efektus."
+    },
+    "heading": "Pievienoties sapulcei?",
+    "joinLabel": "Pievienoties",
+    "joinMeeting": "Pievienoties sapulcei",
+    "toggleOff": "Noklikšķiniet, lai izslēgtu",
+    "toggleOn": "Noklikšķiniet, lai ieslēgtu",
+    "usernameHint": "Rādīts citiem dalībniekiem",
+    "usernameLabel": "Jūsu vārds",
+    "errors": {
+      "usernameEmpty": "Jūsu vārds nevar būt tukšs"
+    },
+    "cameraDisabled": "Kamera ir atspējota.",
+    "cameraStarting": "Kamera tiek palaista…",
+    "cameraNotGranted": "Vai vēlaties, lai citi jūs redzētu sapulces laikā?",
+    "cameraAndMicNotGranted": "Vai vēlaties, lai citi varētu jūs redzēt un dzirdēt sapulces laikā?",
+    "permissionsButton": {
+      "cameraAndMicNotGranted": "Atļaut piekļuvi kamerai un mikrofonam",
+      "cameraNotGranted": "Atļaut piekļuvi kamerai"
+    },
+    "videoPreview": {
+      "enabled": "Video priekšskatījums ieslēgts",
+      "disabled": "Video priekšskatījums atspējots"
+    },
+    "waiting": {
+      "title": "Pieprasījums pievienoties...",
+      "body": "Jūs varēsiet pievienoties šim zvanam, kad kāds jūs autorizēs"
+    },
+    "denied": {
+      "title": "Jūs nevarat pievienoties šim zvanam",
+      "body": "Jūsu pieprasījums pievienoties ir noraidīts."
+    },
+    "timeoutInvite": {
+      "title": "Jūs nevarat pievienoties šim zvanam",
+      "body": "Neviens neatbildēja uz jūsu pieprasījumu"
+    }
+  },
+  "leaveRoomPrompt": "Tas liks jums pamest sapulci.",
+  "shareDialog": {
+    "copy": "Kopēt informāciju",
+    "copyUrl": "Kopēt saiti",
+    "copied": "Informācija nokopēta starpliktuvē",
+    "heading": "Jūsu sapulce ir gatava",
+    "description": "Kopīgojiet šo saiti ar cilvēkiem, kurus vēlaties uzaicināt uz sapulci.",
+    "permissions": "Cilvēkiem ar šo saiti nav nepieciešama jūsu atļauja, lai pievienotos šai sapulcei.",
+    "closeDialog": "Aizvērt dialogu",
+    "phone": {
+      "call": "Zvanīt:",
+      "pinCode": "Kods:"
+    }
+  },
+  "pagination": {
+    "count": "'{{currentPage}}' no '{{totalPageCount}}'",
+    "next": "nākamā lapa",
+    "previous": "iepriekšējā lapa"
+  },
+  "mediaErrorDialog": {
+    "DeviceInUse": {
+      "title": {
+        "audioinput": "Mikrofona aktivizēšana neizdevās",
+        "videoinput": "Kameras aktivizēšana neizdevās"
+      },
+      "body": {
+        "audioinput": "Jūsu mikrofons jau tiek izmantots citā cilnē vai lietotnē, kas neļauj to aktivizēt šajā videozvanā. Ja vēlaties, aizveriet citu cilni vai lietotni, lai to izmantotu šeit.",
+        "videoinput": "Jūsu kamera jau tiek izmantota citā cilnē vai lietotnē, kas neļauj to aktivizēt šajā videozvanā. Ja vēlaties, aizveriet citu cilni vai lietotni, lai to izmantotu šeit."
+      }
+    },
+    "close": "Labi"
+  },
+  "permissionErrorDialog": {
+    "heading": {
+      "camera": "'{{appTitle}}' nav atļauts izmantot jūsu kameru",
+      "microphone": "'{{appTitle}}' nav atļauts izmantot jūsu mikrofonu",
+      "cameraAndMicrophone": "'{{appTitle}}' nav atļauts izmantot jūsu mikrofonu vai kameru",
+      "default": "'{{appTitle}}' nav atļauts izmantot noteiktas atļaujas"
+    },
+    "body": {
+      "openMenu": {
+        "others": "Noklikšķiniet uz iestatījumu ikonas ICON_PLACEHOLDER jūsu pārlūkprogrammas adreses joslā",
+        "safari": "Noklikšķiniet uz izvēlnes 'Safari' un atveriet 'Iestatījumi priekš '{{appDomain}}'."
+      },
+      "details": {
+        "camera": "Atļaut piekļuvi kamerai",
+        "microphone": "Atļaut piekļuvi mikrofonam",
+        "cameraAndMicrophone": "Atļaut piekļuvi kamerai un mikrofonam",
+        "default": "Iespējojiet nepieciešamās atļaujas."
+      }
+    }
+  },
+  "permissionsButton": {
+    "tooltip": "Vairāk informācijas",
+    "ariaLabel": "Atļauju problēma. Rādīt vairāk informācijas"
+  },
+  "error": {
+    "createRoom": {
+      "heading": "Nepieciešama autentifikācija",
+      "body": "Šī telpa vēl nav izveidota. Lūdzu, autentificējieties, lai to izveidotu, vai gaidiet, līdz to izdarīs autentificēts lietotājs."
+    },
+    "screenShare": {
+      "title": "Nevar koplietot ekrānu",
+      "ariaLabel": "Nevar koplietot ekrānu",
+      "message": "Jūsu pārlūkprogramma, iespējams, nevar ierakstīt ekrānu jūsu datorā.",
+      "macInstructions": "Dodieties uz savu",
+      "macSystemPreferences": "Sistēmas iestatījumi",
+      "helpLinkText": "Lai uzzinātu vairāk, skatiet",
+      "helpLinkLabel": "Prezentācijas problēma",
+      "closeButton": "Atcelt",
+      "newTab": "Jauns logs"
+    }
+  },
+  "isIdleDisconnectModal": {
+    "title": "Vai jūs joprojām esat šeit?",
+    "body": "Jūs esat vienīgais dalībnieks. Šis zvans beigsies pēc '{{duration}}'. Vai vēlaties turpināt zvanu?",
+    "settingsPrefix": "Lai pārtrauktu redzēt šo ziņojumu, dodieties uz",
+    "settingsLink": "Iestatījumi > Vispārīgi",
+    "settingsSuffix": "Certainly, please provide the text you would like translated.",
+    "stayButton": "Turpināt zvanu",
+    "leaveButton": "Iziet tagad",
+    "countdownAnnouncement": "Zvans beidzas pēc '{{duration}}'."
+  },
+  "controls": {
+    "microphone": "Mikrofons",
+    "camera": "Kamera",
+    "chat": {
+      "open": "Aizvērt tērzēšanu",
+      "closed": "Atvērt tērzēšanu",
+      "input": {
+        "textArea": {
+          "label": "Ievadiet ziņojumu",
+          "placeholder": "Ievadiet ziņojumu"
+        },
+        "button": {
+          "label": "Sūtīt ziņu"
+        }
+      }
+    },
+    "info": {
+      "open": "Slēpt informāciju",
+      "closed": "Rādīt informāciju"
+    },
+    "hand": {
+      "raise": "Pacelt roku",
+      "lower": "Nolaist roku"
+    },
+    "subtitles": {
+      "closed": "Rādīt subtitrus",
+      "open": "Paslēpt subtitrus"
+    },
+    "screenShare": {
+      "start": "Koplietot ekrānu",
+      "stop": "Apturēt ekrāna koplietošanu"
+    },
+    "leave": "Atstāt",
+    "participants": {
+      "open": "Paslēpt visus",
+      "closed": "Skatīt visus",
+      "count_one": "'{{count}}' dalībnieks",
+      "count_other": "'{{count}}' dalībnieki"
+    },
+    "tools": {
+      "open": "Paslēpt vairāk rīku",
+      "closed": "Rādīt vairāk rīku"
+    },
+    "admin": {
+      "open": "Slēpt administratoru",
+      "closed": "Atvērt administratoru"
+    },
+    "moreOptions": "Vairāk opciju",
+    "reactions": {
+      "button": "Nosūtīt reakciju",
+      "send": "Nosūtīt reakciju '{{emoji}}'",
+      "announce": "'{{name}}' : '{{emoji}}'",
+      "you": "jūs",
+      "emojis": {
+        "thumbs-up": "Patīk",
+        "thumbs-down": "Īkšķis uz leju",
+        "clapping-hands": "plaukstošas rokas",
+        "red-heart": "sarkana sirds",
+        "face-with-tears-of-joy": "seja ar prieka asarām",
+        "face-with-open-mouth": "pārsteigts seja",
+        "party-popper": "Konfeti pūtējs",
+        "folded-hands": "saliktas rokas"
+      }
+    }
+  },
+  "options": {
+    "buttonLabel": "Vairāk opciju",
+    "items": {
+      "feedback": "Sniedziet atsauksmes",
+      "settings": "Iestatījumi",
+      "screenRecording": "Ekrāna ierakstīšana",
+      "transcript": "Transkripcija",
+      "username": "Atjaunināt savu vārdu",
+      "effects": "Foni un efekti",
+      "switchCamera": "Pārslēgt kameru",
+      "fullscreen": {
+        "enter": "Pilnekrāns",
+        "exit": "Iziet no pilnekrāna režīma"
+      },
+      "support": "Sazināties ar atbalstu"
+    }
+  },
+  "effects": {
+    "activateCamera": "Jūsu kamera ir atspējota. Izvēlieties opciju, lai to iespējotu.",
+    "cameraDisabled": "Jūsu kamera ir atspējota.",
+    "notAvailable": "Video efekti drīzumā būs pieejami jūsu pārlūkā. Mēs pie tā strādājam! Tikmēr varat izmantot Google Chrome labākai veiktspējai vai Firefox",
+    "heading": "Izpludināt",
+    "clear": "Atspējot efektu",
+    "blur": {
+      "title": "Fona izplūdums",
+      "status": {
+        "none": "Fons dzidrs.",
+        "light": "Fons nedaudz izpludināts.",
+        "strong": "Fons stipri izpludināts."
+      },
+      "light": {
+        "apply": "Nedaudz izpludināt fonu",
+        "clear": "Atspējot izplūdumu"
+      },
+      "normal": {
+        "apply": "Izpludināt fonu",
+        "clear": "Atspējot izplūdumu"
+      }
+    },
+    "virtual": {
+      "title": "Virtuālais fons",
+      "selectedLabel": "Fons piemērots:",
+      "apply": "Nomainiet fonu:",
+      "descriptions": {
+        "0": "Rievots koka mēbeles",
+        "1": "Sanāksmju telpa",
+        "2": "Bēniņi ar melnu stikla starpsienu",
+        "3": "Ēdamistaba",
+        "4": "Koka plaukti",
+        "5": "Koka kāpnes",
+        "6": "Pelēkā bibliotēka",
+        "7": "Kafijas skaitītājs"
+      }
+    },
+    "faceLandmarks": {
+      "title": "Vizuālie efekti",
+      "glasses": {
+        "apply": "Pievienot brilles",
+        "clear": "Noņemt brilles"
+      },
+      "french": {
+        "apply": "Pievienot franču pieskārienu",
+        "clear": "Noņemt franču pieskārienu"
+      }
+    }
+  },
+  "sidePanel": {
+    "ariaLabel": "Sānu panelis",
+    "backToTools": "Atpakaļ uz sapulču rīkiem",
+    "heading": {
+      "participants": "Dalībnieki",
+      "effects": "Foni un efekti",
+      "chat": "Ziņojumi tērzēšanā",
+      "transcript": "Transkribēt",
+      "screenRecording": "Ierakstīt",
+      "admin": "Administrēšanas iestatījumi",
+      "tools": "Vairāk rīku",
+      "info": "Sapulces informācija"
+    },
+    "content": {
+      "participants": "Dalībnieki",
+      "effects": "Foni un efekti",
+      "chat": "ziņojumi",
+      "transcript": "Transkribēt",
+      "screenRecording": "ierakstīt",
+      "admin": "Administrēšanas iestatījumi",
+      "tools": "vairāk rīku",
+      "info": "Sapulces informācija"
+    },
+    "closeButton": "Slēpt '{{content}}'"
+  },
+  "chat": {
+    "disclaimer": "Ziņojumi ir redzami dalībniekiem tikai nosūtīšanas brīdī. Visi ziņojumi tiek dzēsti zvana beigās."
+  },
+  "moreTools": {
+    "body": "Piekļūstiet vairāk rīkiem, lai uzlabotu savas sapulces.",
+    "moreLink": "Uzzināt vairāk",
+    "tools": {
+      "transcript": {
+        "title": "Transkribēt",
+        "body": "Ierakstīt sarunu."
+      },
+      "screenRecording": {
+        "title": "Ierakstīt",
+        "body": "Ierakstīt sapulci."
+      }
+    }
+  },
+  "info": {
+    "roomInformation": {
+      "title": "Savienojuma informācija",
+      "button": {
+        "ariaLabel": "Kopēt informāciju no jūsu sapulces",
+        "copy": "Kopēt informāciju",
+        "copied": "Informācija nokopēta"
+      },
+      "phone": {
+        "call": "Zvanīt:",
+        "pinCode": "Kods:"
+      }
+    }
+  },
+  "transcript": {
+    "heading": "Pārrakstiet savu sapulci ar AI asistentu",
+    "body": "Pārrakstīt līdz '{{max_duration}}' sapulces laika.",
+    "bodyWithoutMaxDuration": "Pārrakstiet savu sapulci bez ierobežojumiem.",
+    "details": {
+      "receiver": "Transkripts tiks nosūtīts vadītājam un līdzvadītājiem.",
+      "destination": "Tiks izveidots jauns dokuments:",
+      "destinationUnknown": "Tiks izveidots jauns dokuments",
+      "language": "Sanāksmes valoda:",
+      "recording": "Arī sākt ierakstu"
+    },
+    "button": {
+      "start": "Sākt sapulces transkripciju",
+      "stop": "Pārtraukt sapulces transkripciju",
+      "saving": "Saglabā…",
+      "starting": "Sākas…",
+      "anotherModeStarted": "Ekrāna ieraksts darbojas. Pārslēdziet paneļus un apturiet to."
+    },
+    "linkMore": "Uzzināt vairāk",
+    "notAdminOrOwner": {
+      "heading": "Ierobežota piekļuve",
+      "body": "Drošības apsvērumu dēļ tikai sapulces veidotājs vai administrators var sākt transkripciju (beta).",
+      "linkMore": "Uzzināt vairāk",
+      "dividerLabel": "VAI",
+      "login": {
+        "heading": "Nepieciešama pieteikšanās",
+        "body": "Tikai sapulces veidotājs vai administrators var sākt transkripciju. Piesakieties, lai pārbaudītu savas atļaujas."
+      },
+      "request": {
+        "heading": "Pieprasīt transkripciju",
+        "body": "Saimnieks tiks informēts un varēs ieslēgt transkripciju jums.",
+        "buttonLabel": "Pieprasīt"
+      }
+    },
+    "premium": {
+      "heading": "Premium funkcija",
+      "body": "Šī funkcija ir paredzēta publiskajiem aģentiem. Ja jūsu e-pasta adrese nav autorizēta, lūdzu, sazinieties ar atbalstu, lai iegūtu piekļuvi.",
+      "linkMore": "Uzzināt vairāk",
+      "dividerLabel": "VAI",
+      "login": {
+        "heading": "Jūs neesat pieteicies!",
+        "body": "Lai izmantotu šo funkciju, jums jābūt pieteicies. Lūdzu, piesakieties un mēģiniet vēlreiz."
+      },
+      "request": {
+        "heading": "Pieprasīt transkripciju",
+        "body": "Saimnieks tiks informēts un varēs ieslēgt transkripciju jums.",
+        "buttonLabel": "Pieprasīt"
+      }
+    }
+  },
+  "screenRecording": {
+    "heading": "Ierakstīt šo zvanu vēlākai lietošanai",
+    "body": "Ierakstīt līdz '{{max_duration}}' sanāksmei.",
+    "bodyWithoutMaxDuration": "Ierakstiet savu sapulci bez ierobežojumiem.",
+    "linkMore": "Uzzināt vairāk",
+    "details": {
+      "receiver": "Ieraksts tiks nosūtīts vadītājam un līdzvadītājiem.",
+      "destination": "Šis ieraksts tiks īslaicīgi glabāts mūsu serveros",
+      "loading": "Sākt ierakstīšanu",
+      "linkMore": "Uzzināt vairāk",
+      "transcription": "Pārrakstīt šo ierakstu"
+    },
+    "button": {
+      "start": "Sākt sapulces ierakstīšanu",
+      "stop": "Pārtraukt sapulces ierakstīšanu",
+      "saving": "Saglabā…",
+      "starting": "Sākas…",
+      "anotherModeStarted": "Transkripcija notiek. <br/> Pārslēdziet paneļus un apturiet to."
+    },
+    "notAdminOrOwner": {
+      "heading": "Ierobežota piekļuve",
+      "body": "Drošības apsvērumu dēļ ierakstu var sākt tikai sapulces veidotājs vai administrators (beta).",
+      "linkMore": "Uzzināt vairāk",
+      "dividerLabel": "VAI",
+      "login": {
+        "heading": "Nepieciešama pieteikšanās",
+        "body": "Tikai sapulces veidotājs vai administrators var sākt ekrāna ierakstīšanu. Pieslēdzieties, lai pārbaudītu savas atļaujas."
+      },
+      "request": {
+        "heading": "Pieprasīt ierakstu",
+        "body": "Saimnieks tiks informēts un varēs ieslēgt ierakstīšanu jums.",
+        "buttonLabel": "Pieprasīt"
+      }
+    },
+    "durationMessage": "Pārsniegts '{{max_duration}}' rakstzīmju limits "
+  },
+  "errorRecordingAlertDialog": {
+    "title": "Ieraksts neizdevās",
+    "body": {
+      "stop": "Neizdevās apturēt ierakstu. Lūdzu, mēģiniet vēlreiz pēc brīža.",
+      "start": "Neizdevās sākt ierakstu. Lūdzu, mēģiniet vēlreiz pēc brīža."
+    },
+    "button": "Labi"
+  },
+  "admin": {
+    "description": "Šie organizatora iestatījumi ļauj jums saglabāt kontroli pār jūsu sapulci. Tikai organizatori var piekļūt šiem vadības elementiem.",
+    "access": {
+      "title": "Telpas piekļuve",
+      "description": "Šie iestatījumi tiks piemēroti arī turpmākajiem šīs sapulces gadījumiem.",
+      "type": "Sapulces piekļuves veidi",
+      "levels": {
+        "public": {
+          "label": "Atvērt",
+          "description": "Neviens neprasa pievienoties sapulcei."
+        },
+        "trusted": {
+          "label": "Atvērt uzticamiem cilvēkiem",
+          "description": "Autentificētiem lietotājiem nav jāpieprasa pievienošanās sapulcei."
+        },
+        "restricted": {
+          "label": "Ierobežots",
+          "description": "Cilvēkiem, kuri nav uzaicināti uz sapulci, jāpieprasa pievienošanās."
+        }
+      }
+    },
+    "moderation": {
+      "title": "Sapulces moderēšana",
+      "description": "Šie iestatījumi ierobežo darbības, ko dalībnieki var veikt sapulces laikā.",
+      "microphone": {
+        "label": "Ieslēgt mikrofonu",
+        "description": ""
+      },
+      "camera": {
+        "label": "Iespējot video",
+        "description": ""
+      },
+      "screenshare": {
+        "label": "Koplietot ekrānu",
+        "description": "Atspējojot šo opciju, dalībnieki nevarēs koplietot savu ekrānu, un jebkura pašreizējā ekrāna koplietošana tiks nekavējoties pārtraukta."
+      }
+    }
+  },
+  "rating": {
+    "submit": "Iesniegt",
+    "question": "Ko jūs domājat par jūsu zvana kvalitāti?",
+    "levels": {
+      "min": "ļoti slikti",
+      "max": "Lieliski"
+    }
+  },
+  "openFeedback": {
+    "question": "Kā mēs varam uzlabot sevi?",
+    "placeholder": "Aprakstiet savas kļūdas vai dalieties ar ieteikumiem…",
+    "submit": "Iesniegt",
+    "skip": "Izlaist"
+  },
+  "confirmationMessage": {
+    "heading": "Paldies par jūsu iesniegumu",
+    "body": "Mūsu produktu komanda rūpīgi pārskata jūsu atsauksmes. Mēs sazināsimies ar jums pēc iespējas ātrāk."
+  },
+  "authenticationMessage": {
+    "heading": "Kā mēs varam ar jums sazināties?",
+    "placeholder": "Jūsu e-pasts",
+    "submit": "Sūtīt",
+    "ignore": "Ignorēt"
+  },
+  "participants": {
+    "subheading": "Istabā",
+    "you": "Jūs",
+    "unknown": "Nezināms dalībnieks",
+    "host": "Resursdators",
+    "contributors": "Līdzstrādnieki",
+    "collapsable": {
+      "open": "Atvērt '{{name}}' sarakstu",
+      "close": "Aizvērt '{{name}}' sarakstu"
+    },
+    "muteYourself": "Aizveriet mikrofonu",
+    "muteParticipant": "Aizvērt '{{name}}' mikrofonu",
+    "muteParticipantAlert": {
+      "heading": "Izslēgt skaņu '{{name}}'",
+      "description": "Izslēgt skaņu '{{name}}' visiem dalībniekiem? Tikai '{{name}}' varēs ieslēgt skaņu.",
+      "confirm": "Izslēgt skaņu",
+      "cancel": "Atcelt"
+    },
+    "raisedHands": "Paceltas rokas",
+    "lowerParticipantHand": "Nolaist '{{name}}' roku",
+    "lowerParticipantsHand": "Nolaist visas rokas",
+    "muteParticipants": "Izslēgt visus mikrofonus",
+    "waiting": {
+      "title": "Vestibils",
+      "accept": {
+        "button": "Pieņemt",
+        "label": "Pieņemt '{{name}}' sapulcē",
+        "all": "Pieņemt visu"
+      },
+      "deny": {
+        "button": "Noraidīt",
+        "label": "Noraidīt '{{name}}' no sapulces",
+        "all": "Noraidīt visu"
+      }
+    },
+    "moreOptions": "Vairāk opciju"
+  },
+  "participantMenu": {
+    "remove": {
+      "label": "Noņemt no zvana",
+      "ariaLabel": "Noņemt '{{name}}' no zvana"
+    },
+    "unpin": {
+      "label": "Noņemt no piespraustajiem",
+      "ariaLabel": "Noņemt no piespraustajiem '{{name}}'"
+    },
+    "pin": {
+      "label": "Piespraust",
+      "ariaLabel": "Piespraust '{{name}}'"
+    }
+  },
+  "pinAnnouncements": {
+    "pin": "Video no '{{name}}' ir piesprausts.",
+    "unpin": "Video '{{name}}' vairs nav piesprausts.",
+    "self": {
+      "pin": "Jūsu video ir piesprausts.",
+      "unpin": "Jūsu video vairs nav piesprausts."
+    }
+  },
+  "recordingStateToast": {
+    "transcript": {
+      "started": "Transkribēšana",
+      "starting": "Transkripcija sākas",
+      "stopping": "Transkripcija tiek pārtraukta"
+    },
+    "screen_recording": {
+      "started": "Notiek ierakstīšana",
+      "starting": "Sākt ierakstīšanu",
+      "stopping": "Aptur ierakstīšanu"
+    },
+    "any": {
+      "started": "Notiek ierakstīšana"
+    },
+    "limitReachedAlert": {
+      "title": "Ieraksta limits pārsniegts",
+      "description": "Ieraksts ir pārsniedzis maksimāli atļauto ilgumu'{{duration_message}}'. Tas tiks automātiski saglabāts.",
+      "durationMessage": " no '{{duration}}'",
+      "button": "Labi"
+    }
+  },
+  "participantTileFocus": {
+    "containerLabel": "Opcijas '{{name}}'",
+    "toolbarHint": "F2: doties uz apakšējo rīkjoslu.",
+    "pin": {
+      "enable": "Piespraust",
+      "disable": "Noņemt no piespraustajiem"
+    },
+    "effects": "Pielietot fonus un efektus",
+    "muteParticipant": "Izslēgt skaņu '{{name}}'",
+    "fullScreen": "Pilnekrāna režīms"
+  },
+  "fullScreenWarning": {
+    "message": "Lai izvairītos no bezgalīgas cilpas attēlošanas, nedalieties ar visu ekrānu. Tā vietā dalieties ar cilni vai citu logu.",
+    "stop": "Pārtraukt prezentāciju",
+    "ignore": "Ignorēt"
+  },
+  "participantTile": {
+    "screenShare": "'{{name}}' ekrāns"
+  }
+}

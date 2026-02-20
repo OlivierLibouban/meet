@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Crear reunión",
+  "heading": "Videoconferencia Simple y Segura",
+  "intro": "Comunica y trabaja con facilidad, sin comprometer tu soberanía",
+  "joinInputError": "Usa un enlace o código de reunión. Ejemplos:",
+  "joinInputExample": "URL o código de 10 letras",
+  "joinInputLabel": "Enlace de reunión",
+  "joinInputSubmit": "Unirse a la reunión",
+  "joinMeeting": "Unirse a una reunión",
+  "joinMeetingTipContent": "Puedes unirte a una reunión pegando su enlace completo en la barra de direcciones del navegador.",
+  "joinMeetingTipHeading": "¿Sabías?",
+  "loginToCreateMeeting": "Inicia sesión para crear una reunión",
+  "moreLinkLabel": "Más información - nueva pestaña",
+  "moreLink": "Más información",
+  "moreAbout": "aproximadamente '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Crear una reunión para una fecha posterior",
+    "instantOption": "Iniciar reunión instantánea"
+  },
+  "laterMeetingDialog": {
+    "heading": "Detalles de conexión",
+    "description": "Comparte esta información con los invitados. Podrán unirse a la reunión sin necesidad de iniciar sesión. Esta reunión es permanente y se puede reutilizar.",
+    "permissions": "Las personas con este enlace no necesitan tu permiso para unirse a esta reunión.",
+    "copy": "Copiar información",
+    "copied": "Información copiada al portapapeles",
+    "copyUrl": "Copiar enlace de la reunión",
+    "phone": {
+      "call": "Llamar:",
+      "pinCode": "Código:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Anterior",
+      "tooltip": "Anterior"
+    },
+    "next": {
+      "label": "Siguiente",
+      "tooltip": "Siguiente"
+    },
+    "beta": {
+      "text": "Únete a la beta",
+      "tooltip": "Complete el formulario"
+    },
+    "slide1": {
+      "title": "Cambia a la simplicidad. ¡Pruébanos ahora!",
+      "body": "Descubre una solución intuitiva y accesible, diseñada para todos los agentes públicos, sus socios y mucho más."
+    },
+    "slide2": {
+      "title": "Organiza llamadas grupales sin límites",
+      "body": "Reuniones ilimitadas, con comunicación fluida y de alta calidad, sin importar el tamaño del grupo."
+    },
+    "slide3": {
+      "title": "Transforma tus reuniones con IA",
+      "body": "Obtén transcripciones precisas y útiles para aumentar tu productividad. Función en beta—¡pruébala ahora!"
+    }
+  }
+}

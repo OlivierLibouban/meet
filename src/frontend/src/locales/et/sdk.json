@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Loo",
+    "joinButton": "Liitu Visio abil",
+    "copyLinkTooltip": "Kopeeri link",
+    "resetLabel": "Lähtesta",
+    "participantLimit": "Kuni 150 osalejat.",
+    "popupBlocked": "Hüpikaken blokeeriti. Palun lubage sellel saidil hüpikaknad."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "backToHome": "Torna alla schermata principale",
+  "cancel": "Annulla",
+  "closeDialog": "Chiudi finestra di dialogo",
+  "error": {
+    "heading": "Si è verificato un errore durante il caricamento della pagina"
+  },
+  "feedback": {
+    "context": "Il tuo feedback modella il prodotto!",
+    "cta": "Condividi il tuo feedback - nuova scheda"
+  },
+  "forbidden": {
+    "heading": "Non hai il permesso di visualizzare questa pagina"
+  },
+  "loading": "Caricamento…",
+  "loggedInUserTooltip": "Connesso come ",
+  "login": {
+    "buttonLabel": "Accedi",
+    "proconnectButtonLabel": "Accedi con ProConnect",
+    "proconnectLinkLabel": "Cos'è ProConnect? - nuova scheda",
+    "proconnectLink": "Cos'è ProConnect?"
+  },
+  "logout": "Disconnetti",
+  "notFound": {
+    "heading": "Verifica il codice riunione",
+    "body": "Verifica di aver inserito il codice riunione corretto nell'URL. Esempio:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "servizio-pubblico.it",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Avviso legale",
+      "data": "Dati Personali e Cookie",
+      "accessibility": "Accessibilità: non conforme",
+      "ariaLabel": "nuova finestra",
+      "codeAnnotation": "Il nostro codice è aperto e disponibile su questo",
+      "code": "Apri il Repository del Codice Sorgente",
+      "technicalDetails": "Avviso tecnico",
+      "termsOfService": "Termini di servizio"
+    },
+    "mentions": "Salvo diversa indicazione, i contenuti di questo sito sono disponibili sotto",
+    "license": "licenza etalab 2.0"
+  },
+  "loginHint": {
+    "title": "Accedi con il tuo account ProConnect",
+    "body": "Invece di aspettare, accedi con il tuo account ProConnect.",
+    "button": {
+      "ariaLabel": "Chiudi il suggerimento",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "Per partecipare alla videoconferenza, fai clic su questo link: '{{roomUrl}}'",
+    "numberAndPin": "Per partecipare telefonicamente, componi '{{phoneNumber}}' e inserisci questo codice: '{{pinCode}}'"
+  }
+}

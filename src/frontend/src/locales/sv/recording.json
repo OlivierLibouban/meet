@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Inspelning ej tillgänglig",
+    "body": "Inspelningen är inte tillgänglig eller kan ha raderats. Endast mötesorganisatören kan komma åt den. Kontakta dem vid behov."
+  },
+  "expired": {
+    "title": "Inspelning utgången",
+    "body": "Denna inspelning raderades den '{{date}}'."
+  },
+  "authentication": {
+    "title": "Autentisering krävs",
+    "body": "Logga in för att komma åt denna inspelning."
+  },
+  "unsaved": {
+    "title": "Nedladdning Otillgänglig",
+    "body": "Denna inspelning är inte redo för nedladdning ännu. Försök igen senare."
+  },
+  "success": {
+    "title": "Din inspelning är klar!",
+    "body": "Inspelning av mötet '{{room}}' från '{{created_at}}'.",
+    "expiration": "Observera, denna inspelning kommer att upphöra efter '{{expiration_days}}' dag(ar).",
+    "button": "Ladda ner",
+    "warning": {
+      "title": "Länkdelning inaktiverad",
+      "body": "Delning av inspelningen via länk är ännu inte tillgänglig. Endast arrangörer kan ladda ner den."
+    }
+  }
+}

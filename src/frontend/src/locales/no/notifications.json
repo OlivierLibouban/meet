@@ -1,0 +1,53 @@
+{
+  "defaultName": "En bidragsyter",
+  "joined": {
+    "description": "'{{name}}' har blitt med i rommet"
+  },
+  "raised": {
+    "description": "'{{name}}' har rakt opp hånden.",
+    "cta": "Åpne venteliste"
+  },
+  "muted": "'{{name}}' har dempet mikrofonen din. Ingen deltakere kan høre deg.",
+  "openChat": "Åpne chat",
+  "lowerHand": {
+    "auto": "Det ser ut til at du har begynt å snakke, så hånden din vil bli senket.",
+    "dismiss": "Hold hånden oppe"
+  },
+  "reaction": {
+    "description": "'{{name}}' reagerte med '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "Verten har deaktivert video for alle deltakere.",
+    "microphone": "Verten har deaktivert mikrofonen for alle deltakere.",
+    "screen_share": "Verten har deaktivert skjermdeling for alle deltakere."
+  },
+  "waitingParticipants": {
+    "one": "Én person vil bli med i denne samtalen.",
+    "several": "Flere personer vil bli med i denne samtalen.",
+    "open": "Åpne",
+    "accept": "Godta"
+  },
+  "transcript": {
+    "started": "'{{name}}' startet møtereferatet.",
+    "stopped": "'{{name}}' stoppet møtereferatet.",
+    "limitReached": "Transkripsjonen har overskredet maksimal tillatt varighet og vil bli lagret automatisk.",
+    "requested": "'{{name}}' vil starte møtereferatet."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' startet opptaksfunksjonen for møtet.",
+    "stopped": "'{{name}}' stoppet møteopptaket.",
+    "limitReached": "Opptaket har overskredet maksimal tillatt varighet og vil bli lagret automatisk.",
+    "requested": "'{{name}}' vil starte opptaksfunksjonen for møtet."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Opptaket ditt lagres! Vi sender transkripsjonen til <strong>'{{email}}'</strong> så snart den er klar.",
+      "default": "Opptaket ditt lagres! Vi sender transkripsjonen til e-posten din så snart den er klar."
+    },
+    "screenRecording": {
+      "message": "Opptaket ditt lagres! Vi sender en varsling til <strong>'{{email}}'</strong> så snart det er klart.",
+      "default": "Opptaket ditt lagres! Vi sender en e-postvarsling så snart det er klart."
+    }
+  },
+  "openMenu": "Åpne meny"
+}

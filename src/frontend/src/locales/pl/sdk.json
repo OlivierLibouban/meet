@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Utwórz",
+    "joinButton": "Dołącz za pomocą Visio",
+    "copyLinkTooltip": "Skopiuj link",
+    "resetLabel": "Resetuj",
+    "participantLimit": "Do 150 uczestników.",
+    "popupBlocked": "Wyskakujące okienko zostało zablokowane. Proszę zezwolić na wyskakujące okienka dla tej strony."
+  }
+}

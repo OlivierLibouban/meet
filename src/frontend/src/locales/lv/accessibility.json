@@ -1,0 +1,34 @@
+{
+  "accessibility": {
+    "title": "Piekļūstamība",
+    "introduction": "<i>Visio</i> apņemas nodrošināt savu digitālo pakalpojumu pieejamību saskaņā ar 2005. gada 11. februāra Likuma Nr. 2005-102 47. pantu.",
+    "declaration": {
+      "title": "Piekļūstamības paziņojums",
+      "date": "Izveidots 2024. gada 4. decembrī."
+    },
+    "scope": "Šis pieejamības paziņojums attiecas uz tīmekļa vietni visio.numerique.gouv.fr",
+    "complianceStatus": {
+      "title": "Atbilstības statuss",
+      "body": "visio.numerique.gouv.fr neatbilst RGAA 4.1. Vietne vēl nav auditēta. Tomēr komanda cenšas izveidot vietni, kas būtu pieejama visiem, ievērojot RGAA ieteikumus."
+    },
+    "improvement": {
+      "title": "Uzlabojumi un Kontakti",
+      "body": "Ja nevarat piekļūt saturam vai pakalpojumam, varat sazināties ar personu, kas atbild par lasuite.numerique.gouv.fr, lai saņemtu pieejamu alternatīvu vai iegūtu saturu citā formā.",
+      "contact": {
+        "email": "E-pasts: visio@numerique.gouv.fr",
+        "address": "Adrese: DINUM, 20 avenue de Ségur 75007 Parīze"
+      },
+      "response": "Mēs cenšamies atbildēt 2 darba dienu laikā."
+    },
+    "recourse": {
+      "title": "Līdzekļi pārsūdzībai",
+      "introduction": "Šo procedūru izmantojiet šādā gadījumā: esat ziņojis vietnes pārvaldniekam par piekļuves problēmu, kas neļauj piekļūt saturam vai kādam no portāla pakalpojumiem, un neesat saņēmis apmierinošu atbildi.",
+      "options": {
+        "intro": "Varat:",
+        "option1": "Rakstīt ziņojumu Tiesību aizstāvim",
+        "option2": "Sazinieties ar tiesību aizstāvja pārstāvi savā reģionā",
+        "option3": "Nosūtīt vēstuli pa pastu (bez maksas, bez markas): </br> Tiesību aizstāvis Bezmaksas atbilde 71120 75342 Parīze CEDEX 07"
+      }
+    }
+  }
+}

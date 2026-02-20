@@ -1,0 +1,606 @@
+{
+  "feedback": {
+    "heading": {
+      "normal": "Olete koosolekult lahkunud",
+      "duplicateIdentity": "Olete liitunud koosolekuga teiselt seadmelt",
+      "participantRemoved": "Teid on administraator koosolekult eemaldanud"
+    },
+    "home": "Tagasi avalehele",
+    "back": "Liitu uuesti koosolekuga"
+  },
+  "selectDevice": {
+    "loading": "Laadimine…",
+    "select": "Vali väärtus",
+    "permissionsNeeded": "Luba vajalik",
+    "settings": {
+      "audio": "Heliseaded",
+      "video": "Videoseaded"
+    },
+    "effects": "Taustad ja efektid",
+    "videoinput": {
+      "choose": "Vali kaamera",
+      "permissionsNeeded": "Vali kaamera - luba vajalik",
+      "disable": "Keela kaamera",
+      "enable": "Luba kaamera",
+      "label": "Kaamera",
+      "placeholder": "Luba kaamera eelvaate vaatamiseks"
+    },
+    "audioinput": {
+      "choose": "Vali mikrofon",
+      "permissionsNeeded": "Vali mikrofon - luba vajalik",
+      "disable": "Keela mikrofon",
+      "enable": "Luba mikrofon",
+      "label": "Mikrofon"
+    },
+    "audiooutput": {
+      "choose": "Vali kõlar",
+      "permissionsNeeded": "Vali kõlar - luba vajalik"
+    }
+  },
+  "join": {
+    "effects": {
+      "description": "Rakenda taustad ja efektid",
+      "title": "Efektid",
+      "subTitle": "Seadista oma kaamera efektid."
+    },
+    "heading": "Liitu koosolekuga?",
+    "joinLabel": "Liitu",
+    "joinMeeting": "Liitu koosolekuga",
+    "toggleOff": "Klõpsa, et välja lülitada",
+    "toggleOn": "Klõpsa sisselülitamiseks",
+    "usernameHint": "Näidatud teistele osalejatele",
+    "usernameLabel": "Teie nimi",
+    "errors": {
+      "usernameEmpty": "Teie nimi ei saa olla tühi"
+    },
+    "cameraDisabled": "Kaamera on keelatud.",
+    "cameraStarting": "Kaamera käivitub…",
+    "cameraNotGranted": "Kas soovite, et teised näeksid teid koosoleku ajal?",
+    "cameraAndMicNotGranted": "Kas soovite, et teised näeksid ja kuuleksid teid koosoleku ajal?",
+    "permissionsButton": {
+      "cameraAndMicNotGranted": "Luba juurdepääs kaamerale ja mikrofonile",
+      "cameraNotGranted": "Luba juurdepääs kaamerale"
+    },
+    "videoPreview": {
+      "enabled": "Video eelvaade lubatud",
+      "disabled": "Video eelvaade keelatud"
+    },
+    "waiting": {
+      "title": "Taotlus liitumiseks...",
+      "body": "Saad kõnega liituda, kui keegi sind autoriseerib"
+    },
+    "denied": {
+      "title": "Sa ei saa selle kõnega liituda",
+      "body": "Teie liitumistaotlus on tagasi lükatud."
+    },
+    "timeoutInvite": {
+      "title": "Te ei saa selle kõnega liituda",
+      "body": "Keegi ei vastanud teie päringule"
+    }
+  },
+  "leaveRoomPrompt": "See põhjustab koosolekult lahkumise.",
+  "shareDialog": {
+    "copy": "Kopeeri teave",
+    "copyUrl": "Kopeeri link",
+    "copied": "Teave kopeeritud lõikelauale",
+    "heading": "Teie koosolek on valmis",
+    "description": "Jaga seda linki inimestega, keda soovid koosolekule kutsuda.",
+    "permissions": "Selle lingiga inimesed ei vaja koosolekuga liitumiseks teie luba.",
+    "closeDialog": "Sulge dialoog",
+    "phone": {
+      "call": "Helista:",
+      "pinCode": "Kood:"
+    }
+  },
+  "pagination": {
+    "count": "'{{currentPage}}' / '{{totalPageCount}}'",
+    "next": "järgmine leht",
+    "previous": "eelmine leht"
+  },
+  "mediaErrorDialog": {
+    "DeviceInUse": {
+      "title": {
+        "audioinput": "Mikrofoni aktiveerimine ebaõnnestus",
+        "videoinput": "Kaamera aktiveerimine ebaõnnestus"
+      },
+      "body": {
+        "audioinput": "Teie mikrofon on juba kasutusel teises vahekaardis või rakenduses, mis takistab selle aktiveerimist selles videokõnes. Kui soovite, sulgege teine vahekaart või rakendus, et seda siin kasutada.",
+        "videoinput": "Teie kaamera on juba kasutusel teises vahekaardis või rakenduses, mis takistab selle aktiveerimist selles videokõnes. Kui soovite, sulgege teine vahekaart või rakendus, et seda siin kasutada."
+      }
+    },
+    "close": "OK"
+  },
+  "permissionErrorDialog": {
+    "heading": {
+      "camera": "'{{appTitle}}' ei tohi kasutada teie kaamerat",
+      "microphone": "'{{appTitle}}' ei tohi kasutada teie mikrofoni",
+      "cameraAndMicrophone": "'{{appTitle}}' ei tohi kasutada teie mikrofoni ega kaamerat",
+      "default": "'{{appTitle}}' ei ole lubatud kasutada teatud õigusi"
+    },
+    "body": {
+      "openMenu": {
+        "others": "Klõpsake oma brauseri aadressiribal ikoonil ICON_PLACEHOLDER",
+        "safari": "Klõpsake menüül 'Safari' ja avage 'Seaded '{{appDomain}}' jaoks'."
+      },
+      "details": {
+        "camera": "Luba juurdepääs kaamerale",
+        "microphone": "Luba juurdepääs mikrofonile",
+        "cameraAndMicrophone": "Luba juurdepääs kaamerale ja mikrofonile",
+        "default": "Luba vajalikud õigused."
+      }
+    }
+  },
+  "permissionsButton": {
+    "tooltip": "Rohkem teavet",
+    "ariaLabel": "Õiguste probleem. Näita rohkem teavet"
+  },
+  "error": {
+    "createRoom": {
+      "heading": "Autentimine vajalik",
+      "body": "Seda tuba pole veel loodud. Palun autentige end, et see luua, või oodake, kuni autentitud kasutaja seda teeb."
+    },
+    "screenShare": {
+      "title": "Ei saa ekraani jagada",
+      "ariaLabel": "Ei saa ekraani jagada",
+      "message": "Teie brauseril ei pruugi olla luba ekraani salvestamiseks teie arvutis.",
+      "macInstructions": "Mine oma",
+      "macSystemPreferences": "Süsteemi eelistused",
+      "helpLinkText": "Lisateabe saamiseks vaata",
+      "helpLinkLabel": "Esitlusprobleem",
+      "closeButton": "Loobu",
+      "newTab": "Uus aken"
+    }
+  },
+  "isIdleDisconnectModal": {
+    "title": "Kas olete ikka veel siin?",
+    "body": "Oled ainus osaleja. Kõne lõpeb '{{duration}}'. Kas soovite kõnet jätkata?",
+    "settingsPrefix": "Selle sõnumi nägemise lõpetamiseks minge aadressile",
+    "settingsLink": "Seaded > Üldine",
+    "settingsSuffix": "Sure, please provide the text you need translated.",
+    "stayButton": "Jätka kõnet",
+    "leaveButton": "Lahku kohe",
+    "countdownAnnouncement": "Kõne lõpeb '{{duration}}'."
+  },
+  "controls": {
+    "microphone": "Mikrofon",
+    "camera": "Kaamera",
+    "chat": {
+      "open": "Sulge vestlus",
+      "closed": "Ava vestlus",
+      "input": {
+        "textArea": {
+          "label": "Sisesta sõnum",
+          "placeholder": "Sisesta sõnum"
+        },
+        "button": {
+          "label": "Saada sõnum"
+        }
+      }
+    },
+    "info": {
+      "open": "Peida teave",
+      "closed": "Kuva teave"
+    },
+    "hand": {
+      "raise": "Tõsta käsi",
+      "lower": "Langeta käsi"
+    },
+    "subtitles": {
+      "closed": "Kuva subtiitrid",
+      "open": "Peida subtiitrid"
+    },
+    "screenShare": {
+      "start": "Jaga ekraani",
+      "stop": "Lõpeta ekraani jagamine"
+    },
+    "leave": "Lahku",
+    "participants": {
+      "open": "Peida kõik",
+      "closed": "Vaata kõiki",
+      "count_one": "'{{count}}' osalejat",
+      "count_other": "'{{count}}' osalejat"
+    },
+    "tools": {
+      "open": "Peida rohkem tööriistu",
+      "closed": "Kuva rohkem tööriistu"
+    },
+    "admin": {
+      "open": "Peida admin",
+      "closed": "Ava administraator"
+    },
+    "moreOptions": "Rohkem valikuid",
+    "reactions": {
+      "button": "Saada reaktsioon",
+      "send": "Saada reaktsioon '{{emoji}}'",
+      "announce": "'{{name}}' : '{{emoji}}'",
+      "you": "sina",
+      "emojis": {
+        "thumbs-up": "Pöidlad püsti",
+        "thumbs-down": "Pöidlad alla",
+        "clapping-hands": "Plaksutavad käed",
+        "red-heart": "punane süda",
+        "face-with-tears-of-joy": "nägu rõõmupisaratega",
+        "face-with-open-mouth": "üllatunud nägu",
+        "party-popper": "Peopritsik",
+        "folded-hands": "kokkupandud käed"
+      }
+    }
+  },
+  "options": {
+    "buttonLabel": "Rohkem valikuid",
+    "items": {
+      "feedback": "Anna tagasisidet",
+      "settings": "Seaded",
+      "screenRecording": "Ekraanisalvestus",
+      "transcript": "Transkriptsioon",
+      "username": "Uuenda oma nime",
+      "effects": "Taustad ja efektid",
+      "switchCamera": "Vaheta kaamerat",
+      "fullscreen": {
+        "enter": "Täisekraan",
+        "exit": "Välju täisekraanrežiimist"
+      },
+      "support": "Võta ühendust toega"
+    }
+  },
+  "effects": {
+    "activateCamera": "Teie kaamera on keelatud. Valige suvand selle lubamiseks.",
+    "cameraDisabled": "Teie kaamera on keelatud.",
+    "notAvailable": "Videomõjud on peagi teie brauseris saadaval. Me töötame selle kallal! Seniks saate parima jõudluse saavutamiseks kasutada Google Chrome'i või Firefoxi",
+    "heading": "Hägusta",
+    "clear": "Keela efekt",
+    "blur": {
+      "title": "Tausta hägusus",
+      "status": {
+        "none": "Taust selge.",
+        "light": "Taust kergelt udune.",
+        "strong": "Taust tugevalt udustatud."
+      },
+      "light": {
+        "apply": "Hägusta oma tausta veidi",
+        "clear": "Keela hägusus"
+      },
+      "normal": {
+        "apply": "Hägusta taust",
+        "clear": "Keela hägusus"
+      }
+    },
+    "virtual": {
+      "title": "Virtuaalne taust",
+      "selectedLabel": "Taust rakendatud:",
+      "apply": "Asenda taust:",
+      "descriptions": {
+        "0": "Sooniline puitmööbel",
+        "1": "Koosolekuruum",
+        "2": "Pööning musta klaasvaheseinaga",
+        "3": "Söögituba",
+        "4": "Puidust riiulid",
+        "5": "Puidust trepp",
+        "6": "Hall raamatukogu",
+        "7": "Kohviloendur"
+      }
+    },
+    "faceLandmarks": {
+      "title": "Visuaalsed efektid",
+      "glasses": {
+        "apply": "Lisa prillid",
+        "clear": "Eemalda prillid"
+      },
+      "french": {
+        "apply": "Lisa prantsuse puudutus",
+        "clear": "Eemalda prantsuse puudutus"
+      }
+    }
+  },
+  "sidePanel": {
+    "ariaLabel": "Külgpaneel",
+    "backToTools": "Tagasi koosoleku tööriistade juurde",
+    "heading": {
+      "participants": "Osalejad",
+      "effects": "Taustad ja efektid",
+      "chat": "Vestluse sõnumid",
+      "transcript": "Transkribeeri",
+      "screenRecording": "Salvesta",
+      "admin": "Administraatori seaded",
+      "tools": "Rohkem tööriistu",
+      "info": "Koosoleku teave"
+    },
+    "content": {
+      "participants": "osalejad",
+      "effects": "Taustad ja efektid",
+      "chat": "Sõnumid",
+      "transcript": "Transkribeeri",
+      "screenRecording": "salvesta",
+      "admin": "Administraatori seaded",
+      "tools": "rohkem tööriistu",
+      "info": "Koosoleku teave"
+    },
+    "closeButton": "Peida '{{content}}'"
+  },
+  "chat": {
+    "disclaimer": "Sõnumid on nähtavad osalejatele ainult saatmise ajal. Kõik sõnumid kustutatakse kõne lõpus."
+  },
+  "moreTools": {
+    "body": "Juurdepääs rohkematele tööriistadele, et parandada oma koosolekuid.",
+    "moreLink": "Lisateave",
+    "tools": {
+      "transcript": {
+        "title": "Transkribeeri",
+        "body": "Salvesta vestlus."
+      },
+      "screenRecording": {
+        "title": "Salvesta",
+        "body": "Salvesta koosolek."
+      }
+    }
+  },
+  "info": {
+    "roomInformation": {
+      "title": "Ühenduse teave",
+      "button": {
+        "ariaLabel": "Kopeeri teabe oma koosolekult",
+        "copy": "Kopeeri teave",
+        "copied": "Teave kopeeritud"
+      },
+      "phone": {
+        "call": "Helista:",
+        "pinCode": "Kood:"
+      }
+    }
+  },
+  "transcript": {
+    "heading": "Transkribeeri oma koosolek AI assistendiga",
+    "body": "Transkribeeri kuni '{{max_duration}}' minutit koosolekuaega.",
+    "bodyWithoutMaxDuration": "Transkribeeri oma koosolek piiranguteta.",
+    "details": {
+      "receiver": "Transkript saadetakse võõrustajale ja kaasvõõrustajatele.",
+      "destination": "Uus dokument luuakse kuupäeval",
+      "destinationUnknown": "Uus dokument luuakse",
+      "language": "Koosoleku keel:",
+      "recording": "Alusta ka salvestamist"
+    },
+    "button": {
+      "start": "Alusta koosoleku transkribeerimist",
+      "stop": "Lõpeta koosoleku transkribeerimine",
+      "saving": "Salvestamine…",
+      "starting": "Käivitamine…",
+      "anotherModeStarted": "Ekraanisalvestus töötab. Vaheta paneele ja lõpeta see."
+    },
+    "linkMore": "Lisateave",
+    "notAdminOrOwner": {
+      "heading": "Piiratud juurdepääs",
+      "body": "Turvalisuse huvides saab transkriptsiooni (beeta) alustada ainult koosoleku looja või administraator.",
+      "linkMore": "Lisateave",
+      "dividerLabel": "VÕI",
+      "login": {
+        "heading": "Sisselogimine vajalik",
+        "body": "Ainult koosoleku looja või administraator saab transkriptsiooni alustada. Logige sisse, et kontrollida oma õigusi."
+      },
+      "request": {
+        "heading": "Taotle transkriptsiooni",
+        "body": "Hostile antakse teada ja ta saab teile transkriptsiooni lubada.",
+        "buttonLabel": "Taotlus"
+      }
+    },
+    "premium": {
+      "heading": "Premium funktsioon",
+      "body": "See funktsioon on reserveeritud avalikele agentidele. Kui teie e-posti aadress ei ole autoriseeritud, võtke juurdepääsu saamiseks ühendust toega.",
+      "linkMore": "Lisateave",
+      "dividerLabel": "VÕI",
+      "login": {
+        "heading": "Sa ei ole sisse logitud!",
+        "body": "Selle funktsiooni kasutamiseks peate olema sisse logitud. Palun logige sisse ja proovige uuesti."
+      },
+      "request": {
+        "heading": "Taotle transkriptsiooni",
+        "body": "Hosti teavitatakse ja ta saab lubada teile transkriptsiooni.",
+        "buttonLabel": "Taotlus"
+      }
+    }
+  },
+  "screenRecording": {
+    "heading": "Salvesta see kõne hilisemaks",
+    "body": "Salvesta kuni '{{max_duration}}' koosolekut.",
+    "bodyWithoutMaxDuration": "Salvesta oma koosolek piiranguteta.",
+    "linkMore": "Lisateave",
+    "details": {
+      "receiver": "Salvestis saadetakse võõrustajale ja kaasvõõrustajatele.",
+      "destination": "See salvestis salvestatakse ajutiselt meie serverites",
+      "loading": "Alustamine salvestamine",
+      "linkMore": "Lisateave",
+      "transcription": "Transkribeeri see salvestis"
+    },
+    "button": {
+      "start": "Alusta koosoleku salvestamist",
+      "stop": "Lõpeta koosoleku salvestamine",
+      "saving": "Salvestamine…",
+      "starting": "Käivitamine…",
+      "anotherModeStarted": "Transkriptsioon töötab. <br/> Vaheta paneele ja peata see."
+    },
+    "notAdminOrOwner": {
+      "heading": "Piiratud juurdepääs",
+      "body": "Turvalisuse huvides saab salvestust alustada ainult koosoleku looja või administraator (beeta).",
+      "linkMore": "Lisateave",
+      "dividerLabel": "VÕI",
+      "login": {
+        "heading": "Sisselogimine vajalik",
+        "body": "Ainult koosoleku looja või administraator saab ekraanisalvestuse alustada. Logige sisse, et kontrollida oma õigusi."
+      },
+      "request": {
+        "heading": "Taotle Salvestust",
+        "body": "Hostile antakse teada ja ta saab salvestuse lubada.",
+        "buttonLabel": "Taotlus"
+      }
+    },
+    "durationMessage": "(Kuni '{{max_duration}}' tähemärki) "
+  },
+  "errorRecordingAlertDialog": {
+    "title": "Salvestamine ebaõnnestus",
+    "body": {
+      "stop": "Salvestuse peatamine ebaõnnestus. Palun proovige hetk hiljem uuesti.",
+      "start": "Salvestust ei õnnestunud alustada. Palun proovige hetke pärast uuesti."
+    },
+    "button": "OK"
+  },
+  "admin": {
+    "description": "Need korraldaja seaded võimaldavad teil oma koosolekut kontrollida. Ainult korraldajad pääsevad nendele juhtnuppudele ligi.",
+    "access": {
+      "title": "Ruumile juurdepääs",
+      "description": "Needist rakendatakse ka selle koosoleku tulevastele kordadele.",
+      "type": "Koosoleku juurdepääsuliigid",
+      "levels": {
+        "public": {
+          "label": "Ava",
+          "description": "Keegi ei pea koosolekuga liitumiseks luba küsima."
+        },
+        "trusted": {
+          "label": "Ava usaldusväärsetele inimestele",
+          "description": "Autenditud inimesed ei pea koosolekuga liitumiseks luba küsima."
+        },
+        "restricted": {
+          "label": "Piiratud",
+          "description": "Koosolekule kutsumata inimesed peavad liitumiseks taotluse esitama."
+        }
+      }
+    },
+    "moderation": {
+      "title": "Koosoleku modereerimine",
+      "description": "Need seaded piiravad tegevusi, mida kaastöötajad saavad koosoleku ajal teha.",
+      "microphone": {
+        "label": "Lülita mikrofon sisse",
+        "description": ""
+      },
+      "camera": {
+        "label": "Luba video",
+        "description": ""
+      },
+      "screenshare": {
+        "label": "Jaga nende ekraani",
+        "description": "Selle valiku keelamine takistab osalejatel ekraani jagamist ning kõik käimasolevad ekraani jagamised lõpetatakse kohe."
+      }
+    }
+  },
+  "rating": {
+    "submit": "Esita",
+    "question": "Mida arvate oma kõne kvaliteedist?",
+    "levels": {
+      "min": "väga halb",
+      "max": "suurepärane"
+    }
+  },
+  "openFeedback": {
+    "question": "Kuidas saame end parandada?",
+    "placeholder": "Kirjelda oma vigu või jaga oma ettepanekuid…",
+    "submit": "Esita",
+    "skip": "Jäta vahele"
+  },
+  "confirmationMessage": {
+    "heading": "Täname esitamise eest",
+    "body": "Meie tootetiim võtab aega, et teie tagasisidet hoolikalt läbi vaadata. Vastame teile esimesel võimalusel."
+  },
+  "authenticationMessage": {
+    "heading": "Kuidas saame teiega ühendust võtta?",
+    "placeholder": "Teie e-post",
+    "submit": "Saada",
+    "ignore": "Ignore"
+  },
+  "participants": {
+    "subheading": "Toas",
+    "you": "Sina",
+    "unknown": "Tundmatu osaleja",
+    "host": "Hostija",
+    "contributors": "Kaastöötajad",
+    "collapsable": {
+      "open": "Ava '{{name}}' loend",
+      "close": "Sulge '{{name}}' loend"
+    },
+    "muteYourself": "Sulge mikrofon",
+    "muteParticipant": "Sulge mikrofoni '{{name}}'",
+    "muteParticipantAlert": {
+      "heading": "Vaigista '{{name}}'",
+      "description": "Kas vaigistada '{{name}}' kõigi osalejate jaoks? Ainult '{{name}}' saab end ise vaigistusest vabastada.",
+      "confirm": "Vaigista",
+      "cancel": "Tühista"
+    },
+    "raisedHands": "Tõstetud käed",
+    "lowerParticipantHand": "Langeta '{{name}}' kätt",
+    "lowerParticipantsHand": "Langeta kõik käed",
+    "muteParticipants": "Vaigista kõik mikrofonid",
+    "waiting": {
+      "title": "Fuajee",
+      "accept": {
+        "button": "Nõustu",
+        "label": "Kinnita '{{name}}' koosolekule",
+        "all": "Nõustu kõigiga"
+      },
+      "deny": {
+        "button": "Keeldu",
+        "label": "Keela '{{name}}' koosolekult",
+        "all": "Keeldu kõigest"
+      }
+    },
+    "moreOptions": "Rohkem valikuid"
+  },
+  "participantMenu": {
+    "remove": {
+      "label": "Eemalda kõnest",
+      "ariaLabel": "Eemalda '{{name}}' kõnest"
+    },
+    "unpin": {
+      "label": "Eemalda kinnitamine",
+      "ariaLabel": "Eemalda kinnitamine '{{name}}'"
+    },
+    "pin": {
+      "label": "Kinnita",
+      "ariaLabel": "Kinnita '{{name}}'"
+    }
+  },
+  "pinAnnouncements": {
+    "pin": "Video '{{name}}' on kinnitatud.",
+    "unpin": "Video '{{name}}' ei ole enam kinnitatud.",
+    "self": {
+      "pin": "Teie video on kinnitatud.",
+      "unpin": "Teie video pole enam kinnitatud."
+    }
+  },
+  "recordingStateToast": {
+    "transcript": {
+      "started": "Transkribeerimine",
+      "starting": "Transkriptsioon algab",
+      "stopping": "Transkriptsioon peatub"
+    },
+    "screen_recording": {
+      "started": "Salvestamine käib",
+      "starting": "Alustamine salvestamine",
+      "stopping": "Salvestuse peatamine"
+    },
+    "any": {
+      "started": "Salvestamine käib"
+    },
+    "limitReachedAlert": {
+      "title": "Salvestuslimiit ületatud",
+      "description": "Salvestus on ületanud lubatud maksimaalse kestuse'{{duration_message}}'. See salvestatakse nüüd automaatselt.",
+      "durationMessage": " '{{duration}}' / '{}'",
+      "button": "OK"
+    }
+  },
+  "participantTileFocus": {
+    "containerLabel": "Valikud '{{name}}' jaoks",
+    "toolbarHint": "F2: mine alumisele tööriistaribale.",
+    "pin": {
+      "enable": "Kinnita",
+      "disable": "Eemalda kinnitamine"
+    },
+    "effects": "Rakenda taustad ja efektid",
+    "muteParticipant": "Vaigista '{{name}}'",
+    "fullScreen": "Täisekraan"
+  },
+  "fullScreenWarning": {
+    "message": "Et vältida lõpmatu tsükli kuvamist, ära jaga kogu ekraani. Jaga vahekaarti või teist akent.",
+    "stop": "Lõpeta esitamine",
+    "ignore": "Ignoreeri"
+  },
+  "participantTile": {
+    "screenShare": "'{{name}}' ekraan"
+  }
+}

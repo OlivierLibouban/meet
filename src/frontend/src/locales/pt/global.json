@@ -1,0 +1,59 @@
+{
+  "backToHome": "Voltar para a tela inicial",
+  "cancel": "Cancelar",
+  "closeDialog": "Fechar diálogo",
+  "error": {
+    "heading": "Ocorreu um erro ao carregar a página"
+  },
+  "feedback": {
+    "context": "Seu feedback molda o produto!",
+    "cta": "Compartilhe seu feedback - nova aba"
+  },
+  "forbidden": {
+    "heading": "Você não tem permissão para ver esta página"
+  },
+  "loading": "Carregando…",
+  "loggedInUserTooltip": "Conectado como ",
+  "login": {
+    "buttonLabel": "Entrar",
+    "proconnectButtonLabel": "Entrar com ProConnect",
+    "proconnectLinkLabel": "O que é o ProConnect? - nova aba",
+    "proconnectLink": "O que é o ProConnect?"
+  },
+  "logout": "Sair",
+  "notFound": {
+    "heading": "Verifique seu código de reunião",
+    "body": "Verifique se você inseriu o código de reunião correto na URL. Exemplo:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "serviço-público.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Aviso Legal",
+      "data": "Dados Pessoais e Cookies",
+      "accessibility": "Acessibilidade: não compatível",
+      "ariaLabel": "nova janela",
+      "codeAnnotation": "Nosso código é aberto e disponível neste",
+      "code": "Abrir Repositório de Código-Fonte",
+      "technicalDetails": "Aviso Técnico",
+      "termsOfService": "Termos de serviço"
+    },
+    "mentions": "Salvo indicação em contrário, o conteúdo deste site está disponível sob",
+    "license": "licença etalab 2.0"
+  },
+  "loginHint": {
+    "title": "Inicie sessão com a sua conta ProConnect",
+    "body": "Em vez de esperar, faça login com sua conta ProConnect.",
+    "button": {
+      "ariaLabel": "Fechar sugestão",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "Para participar da videoconferência, clique neste link: '{{roomUrl}}'",
+    "numberAndPin": "Para participar por telefone, disque '{{phoneNumber}}' e insira este código: '{{pinCode}}'"
+  }
+}

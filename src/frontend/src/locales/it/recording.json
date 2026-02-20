@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Registrazione non disponibile",
+    "body": "La registrazione non è disponibile o potrebbe essere stata eliminata. Solo l'organizzatore della riunione può accedervi. Contattalo se necessario."
+  },
+  "expired": {
+    "title": "Registrazione scaduta",
+    "body": "Questa registrazione è stata eliminata il '{{date}}'."
+  },
+  "authentication": {
+    "title": "Autenticazione richiesta",
+    "body": "Accedi per accedere a questa registrazione."
+  },
+  "unsaved": {
+    "title": "Download non disponibile",
+    "body": "Questa registrazione non è ancora pronta per il download. Riprova più tardi."
+  },
+  "success": {
+    "title": "La tua registrazione è pronta!",
+    "body": "Registrazione della riunione '{{room}}' da '{{created_at}}'.",
+    "expiration": "Attenzione, questa registrazione scadrà dopo '{{expiration_days}}' giorno(i).",
+    "button": "Scarica",
+    "warning": {
+      "title": "Condivisione link disabilitata",
+      "body": "La condivisione della registrazione tramite link non è ancora disponibile. Solo gli organizzatori possono scaricarla."
+    }
+  }
+}

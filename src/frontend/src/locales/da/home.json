@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Opret et møde",
+  "heading": "Enkel og sikker videokonference",
+  "intro": "Kommuniker og arbejd nemt uden at gå på kompromis med din suverænitet",
+  "joinInputError": "Brug et mødelink eller -kode. Eksempler:",
+  "joinInputExample": "URL eller 10-tegns kode",
+  "joinInputLabel": "Mødelink",
+  "joinInputSubmit": "Deltag i møde",
+  "joinMeeting": "Deltag i møde",
+  "joinMeetingTipContent": "Du kan deltage i et møde ved at indsætte dets fulde link i browserens adresselinje.",
+  "joinMeetingTipHeading": "Vidste du?",
+  "loginToCreateMeeting": "Log ind for at oprette et møde",
+  "moreLinkLabel": "Læs mere - ny fane",
+  "moreLink": "Læs mere",
+  "moreAbout": "omkring '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Opret et møde til en senere dato",
+    "instantOption": "Start et øjeblikkeligt møde"
+  },
+  "laterMeetingDialog": {
+    "heading": "Dine forbindelsesoplysninger",
+    "description": "Del denne information med gæsterne. De kan deltage i mødet uden at logge ind. Dette møde er permanent og kan genbruges.",
+    "permissions": "Personer med dette link behøver ikke din tilladelse for at deltage i mødet.",
+    "copy": "Kopiér oplysninger",
+    "copied": "Oplysninger kopieret til udklipsholder",
+    "copyUrl": "Kopiér mødelinket",
+    "phone": {
+      "call": "Ring:",
+      "pinCode": "Kode:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Forrige",
+      "tooltip": "Forrige"
+    },
+    "next": {
+      "label": "Næste",
+      "tooltip": "Næste"
+    },
+    "beta": {
+      "text": "Deltag i betaen",
+      "tooltip": "Udfyld formularen"
+    },
+    "slide1": {
+      "title": "Skift til enkelhed. Prøv os nu!",
+      "body": "Opdag en intuitiv og tilgængelig løsning, designet til alle offentlige agenter, deres partnere og meget mere."
+    },
+    "slide2": {
+      "title": "Værtsgruppeopkald uden begrænsninger",
+      "body": "Ubegrænsede tidsmøder med jævn og høj kvalitet kommunikation, uanset gruppestørrelse."
+    },
+    "slide3": {
+      "title": "Forvandl dine møder med AI",
+      "body": "Få præcise og handlingsorienterede transskriptioner for at øge din produktivitet. Funktion i beta—prøv det nu!"
+    }
+  }
+}

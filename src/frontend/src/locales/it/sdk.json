@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Crea",
+    "joinButton": "Unisciti con Visio",
+    "copyLinkTooltip": "Copia link",
+    "resetLabel": "Reimposta",
+    "participantLimit": "Fino a 150 partecipanti.",
+    "popupBlocked": "Popup bloccato. Consenti i popup per questo sito."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Įrašas nepasiekiamas",
+    "body": "Įrašas nepasiekiamas arba gali būti ištrintas. Tik susitikimo organizatorius gali jį pasiekti. Jei reikia, susisiekite su juo."
+  },
+  "expired": {
+    "title": "Įrašas pasibaigė",
+    "body": "Šis įrašas buvo ištrintas '{{date}}'."
+  },
+  "authentication": {
+    "title": "Reikalingas autentifikavimas",
+    "body": "Prisijunkite, kad pasiektumėte šį įrašą."
+  },
+  "unsaved": {
+    "title": "Atsisiųsti negalima",
+    "body": "Šis įrašas dar nėra paruoštas atsisiuntimui. Bandykite vėliau."
+  },
+  "success": {
+    "title": "Jūsų įrašas paruoštas!",
+    "body": "Susitikimo '{{room}}' įrašas iš '{{created_at}}'.",
+    "expiration": "Dėmesio, šis įrašas nustos galioti po '{{expiration_days}}' dienų.",
+    "button": "Atsisiųsti",
+    "warning": {
+      "title": "Nuorodų bendrinimas išjungtas",
+      "body": "Įrašo dalijimasis nuoroda dar nepasiekiamas. Tik organizatoriai gali jį atsisiųsti."
+    }
+  }
+}

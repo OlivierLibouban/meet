@@ -1,0 +1,129 @@
+{
+  "title": "Bruksvilkår for Visio",
+  "articles": {
+    "article1": {
+      "title": "1. Omfang",
+      "content": "Dette dokumentet definerer bruksvilkårene for Visio (heretter \"Visio\" eller \"applikasjonen\"), en videokonferanseapplikasjon spesielt utviklet for statlige administrasjoner og organer under deres tilsyn."
+    },
+    "article2": {
+      "title": "2. Formålet med applikasjonen",
+      "content": "Visio fremmer samarbeid blant team i statlige administrasjoner og tilknyttede organer, støtter fjernarbeid og forenkler organisering av møter, konferanser eller opplæringsøkter.",
+      "paragraphs": [
+        "Visio er utviklet og drevet av Direktoratet for digitalisering (DINUM).",
+        "Applikasjonen er gjort tilgjengelig av DINUM for statlige administrasjoner og organer under deres tilsyn, for bruk av deres ansatte, partnere og inviterte tjenesteleverandører.",
+        "Enhver bruk av Visio må overholde disse bruksvilkårene og, der det er aktuelt, bruksreglene til den relevante tilsynsadministrasjonen."
+      ]
+    },
+    "article3": {
+      "title": "3. Definisjoner",
+      "paragraphs": [
+        "Visio er produktet hvis bruk er beskrevet i disse vilkårene og presentert på følgende side: https://visio.numerique.gouv.fr.",
+        "Brukere av Visio er alle personer som bruker Visio til videokonferansekommunikasjon, enten de er ansatte, partnere eller tjenesteleverandører for de relevante administrasjonene. Den tilsynsførende administrasjonen er statens administrasjon eller organ under dens tilsyn som gjør Visio tilgjengelig for sine ansatte, partnere eller tjenesteleverandører.",
+        "Romorganisatorer er brukere som er ansvarlige for et videokonferanserom etter innlogging via ProConnect."
+      ]
+    },
+    "article4": {
+      "title": "4. Tilgang til applikasjonen",
+      "definition": "Visio gjøres tilgjengelig for brukere av deres overordnede administrasjon. Arrangører kan deretter dele en lenke som gir tilgang til rommet med enhver person, under deres ansvar."
+    },
+    "article5": {
+      "title": "5. Funksjoner",
+      "sections": {
+        "section1": {
+          "title": "5.1. Funksjoner tilgjengelig for arrangører",
+          "content": "Visio lar ansatte i statlige administrasjoner og tilknyttede organer opprette et videokonferanserom fra en standard arbeidsstasjon, koblet til deres ProConnect-konto.",
+          "paragraph1": "Enhver ansatt i staten eller i et organ under statlig tilsyn, hvis aktiviteter er kompatible med bruk av Visio eller som ikke er underlagt spesifikke konfidensialitets- eller taushetsplikter, kan opprette og organisere en videokonferanse. De kan deretter dele møtelenken med andre personer, brukere, uavhengig av om de tilhører administrasjonen eller ikke.",
+          "paragraph2": "For dette formålet kan hver romorganisator:",
+          "capabilities": [
+            "Beskytt tilgang til rommet med et venterom;",
+            "Godkjenn hver brukers adgang til rommet",
+            "Demp brukernes mikrofoner og kameraer",
+            "Fjern en bruker fra rommet",
+            "Bruk møtereferatverktøyet etter å ha fått brukernes samtykke, under deres ansvar."
+          ],
+          "paragraph3": "Bare ansatte hvis ProConnect-konto tilhører et domene som er autorisert til å organisere rom på Visio, eller som ikke er underlagt spesifikke konfidensialitets- eller yrkeshemmelighetsforpliktelser, kan bruke eller ha kontroll over applikasjonen og dens funksjoner.",
+          "paragraph4": "Det automatiske transkripsjonsverktøyet kan brukes av arrangører fra rominnstillingsmenyen. Arrangører er ansvarlige for å sikre samtykke fra brukere som deltar i det transkriberte møtet. Transkripsjonsspråket kan endres fra samme meny. Ved slutten av møtet sendes en lenke til arrangøren for å få tilgang til transkripsjonen lagret i verktøyet kalt Docs, drevet av DINUM."
+        },
+        "section2": {
+          "title": "5.2. Funksjoner tilgjengelig for brukere",
+          "content": "Visio lar enhver bruker, enten offentlig tjenestemann eller ikke, delta i et hvilket som helst Visio-rom de er invitert til av en arrangør og dra nytte av funksjonene.",
+          "paragraph": "For dette formålet kan hver bruker:",
+          "capabilities": [
+            "Oppgi et visningsnavn når du går inn i rommet",
+            "Kommuniser eksternt via lyd og/eller video",
+            "Del skjermen deres",
+            "Utveksle meldinger offentlig med alle brukere i rommet under økten;",
+            "Få tilgang til teknisk informasjon om rommet og tilgjengelighetsfunksjoner;",
+            "Slå kameraet og/eller mikrofonen deres av eller på når som helst",
+            "Beskytt omgivelsenes personvern når kameraet er på ved å velge og aktivere en bakgrunn før du går inn i rommet eller under videokonferansen."
+          ]
+        }
+      }
+    },
+    "article6": {
+      "title": "6. Brukernes forpliktelser og ansvar",
+      "sections": {
+        "section1": {
+          "title": "6.1 Tillatte bruksområder",
+          "paragraphs": [
+            "Visio er tilgjengelig for å lette profesjonelle utvekslinger mellom ansatte i statlige administrasjoner og organer under deres tilsyn og eksterne samarbeidspartnere.",
+            "Brukere er ansvarlige for bildene og lydene de gjør tilgjengelige i videokonferanserommet. Dette ansvaret gjelder både for hva kameraet eller mikrofonen deres kan kringkaste og hva enheten deres kan gjøre tilgjengelig for tredjeparter. For dette formålet må brukere bruke applikasjonen i et profesjonelt miljø og ikke avsløre informasjon som er dekket av profesjonelle konfidensialitetsforpliktelser til tredjeparter (for eksempel: bruk av personvernfiltre, hodetelefoner, etc.).",
+            "Brukere er ansvarlige for dataene eller innholdet de legger inn i rommets meldingsservice. De må sørge for at kun passende meldinger legges inn."
+          ]
+        },
+        "section2": {
+          "title": "6.2 Forbudte bruksmåter",
+          "paragraphs": [
+            "Brukere forplikter seg til ikke å legge inn i Visio-rommets meldingsservice, eller gjøre tilgjengelig via bilde eller lyd, noe innhold eller informasjon som bryter gjeldende lover og forskrifter."
+          ]
+        }
+      }
+    },
+    "article7": {
+      "title": "7. Forpliktelser og ansvar for DINUM",
+      "sections": {
+        "section1": {
+          "title": "7.1. Applikasjonssikkerhet",
+          "paragraphs": [
+            "DINUM forplikter seg til å sikre Visio, spesielt ved å ta alle nødvendige tiltak for å sikre sikkerheten og konfidensialiteten i utvekslingene.",
+            "Applikasjonen er sertifisert under betingelsene gitt i endret dekret nr. 2010-112."
+          ]
+        },
+        "section2": {
+          "title": "7.2. Tilgang til applikasjonen",
+          "paragraphs": [
+            "DINUM forplikter seg til å gi nødvendige og rimelige midler for å sikre kontinuerlig tilgang til applikasjonen.",
+            "Applikasjonen er tilgjengelig 24/7, unntatt under vedlikehold.",
+            "DINUM sikter mot en årlig applikasjonstilgjengelighet på 99,5 %, unntatt planlagt nedetid. Ved hendelser eller vedlikehold er målet en gjenopprettingstid på 72 timer utenfor arbeidstid.",
+            "Som en del av vedlikeholdet av applikasjonens kjøremiljø forbeholder DINUM seg retten til å midlertidig suspendere driften av applikasjonen. Når det er mulig, vil brukerne bli informert minst 48 timer i forveien. I nødstilfeller kan slik suspensjon skje uten forhåndsvarsel.",
+            "Disse eksepsjonelle avbruddene kan være nødvendige, for eksempel for databehandlingsoperasjoner, produksjonsutgivelser eller arkitektoniske endringer.",
+            "Applikasjonsutilgjengelighet gir ikke brukere rett til noen form for kompensasjon."
+          ]
+        },
+        "section3": {
+          "title": "7.3. Støttehåndtering",
+          "paragraphs": [
+            "DINUM gir førstelinjestøtte til brukere, kun for tekniske aspekter av applikasjonen.",
+            "Denne støtten kan nås via det elektroniske kontaktskjemaet.",
+            "Målresponsen på forespørsler er to virkedager fra e-postens sending; denne tidsrammen kan variere avhengig av kompleksitet og antall forespørsler som skal behandles."
+          ]
+        },
+        "section4": {
+          "title": "7.4. Overvåking av applikasjonsbruk",
+          "paragraphs": [
+            "DINUM forbeholder seg retten til å suspendere eller slette en brukerkonto som ikke har overholdt disse bruksvilkårene, uten at det berører eventuelle strafferettslige eller sivile tiltak mot den aktuelle personen. Informasjon kan overføres til brukerens tilsynsadministrasjon, som er ansvarlig for å gjøre applikasjonen tilgjengelig.",
+            "Suspensjon eller tilbakekalling av én eller flere kontoer gir ikke rett til noen form for kompensasjon."
+          ]
+        },
+        "section5": {
+          "title": "7.5. Åpen kildekode og lisenser",
+          "content": "Kildekoden til tjenesten er åpen og tilgjengelig her: https://github.com/suitenumerique/meet. Innhold levert av DINUM er lisensiert under Open License 2.0, med unntak av logoer og ikonografiske eller fotografiske fremstillinger, som kan være underlagt egne lisenser."
+        }
+      }
+    },
+    "article8": {
+      "title": "8. Endringer i bruksvilkårene",
+      "content": "Vilkårene for bruk kan endres eller suppleres når som helst, uten varsel, avhengig av endringer i tjenesten, lovgivning eller andre nødvendige årsaker. Disse endringene er bindende for brukeren, som derfor regelmessig må sjekke denne delen for å verifisere gjeldende vilkår."
+    }
+  }
+}

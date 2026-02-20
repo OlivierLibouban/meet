@@ -1,0 +1,34 @@
+{
+  "accessibility": {
+    "title": "Dostępność",
+    "introduction": "<i>Visio</i> zobowiązuje się do zapewnienia dostępności swoich usług cyfrowych zgodnie z artykułem 47 ustawy nr 2005-102 z dnia 11 lutego 2005 r.",
+    "declaration": {
+      "title": "Oświadczenie o dostępności",
+      "date": "Ustanowiono 4 grudnia 2024 r."
+    },
+    "scope": "Niniejsze oświadczenie o dostępności dotyczy strony internetowej visio.numerique.gouv.fr",
+    "complianceStatus": {
+      "title": "Status zgodności",
+      "body": "visio.numerique.gouv.fr nie jest zgodny z RGAA 4.1. Strona nie została jeszcze poddana audytowi. Jednak zespół dąży do stworzenia strony dostępnej dla wszystkich, stosując się do zaleceń RGAA."
+    },
+    "improvement": {
+      "title": "Ulepszenie i Kontakt",
+      "body": "Jeśli nie masz dostępu do treści lub usługi, skontaktuj się z osobą odpowiedzialną za lasuite.numerique.gouv.fr, aby uzyskać dostęp do alternatywy lub otrzymać treść w innej formie.",
+      "contact": {
+        "email": "E-mail: visio@numerique.gouv.fr",
+        "address": "Adres: DINUM, 20 avenue de Ségur 75007 Paryż"
+      },
+      "response": "Staramy się odpowiedzieć w ciągu 2 dni roboczych."
+    },
+    "recourse": {
+      "title": "Środki odwoławcze",
+      "introduction": "Należy użyć tej procedury w następującym przypadku: zgłosiłeś menedżerowi strony problem z dostępnością, który uniemożliwia dostęp do treści lub jednej z usług portalu, i nie otrzymałeś satysfakcjonującej odpowiedzi.",
+      "options": {
+        "intro": "Możesz:",
+        "option1": "Napisz wiadomość do Obrońcy Praw",
+        "option2": "Skontaktuj się z przedstawicielem Obrońcy Praw w Twoim regionie",
+        "option3": "Wyślij list pocztą (bezpłatnie, bez znaczka): </br> Obrońca Praw Darmowa odpowiedź 71120 75342 Paryż CEDEX 07"
+      }
+    }
+  }
+}

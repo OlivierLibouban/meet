@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Izveidot",
+    "joinButton": "Pievienoties ar Visio",
+    "copyLinkTooltip": "Kopēt saiti",
+    "resetLabel": "Atiestatīt",
+    "participantLimit": "Līdz 150 dalībniekiem.",
+    "popupBlocked": "Uznirstošais logs tika bloķēts. Lūdzu, atļaujiet uznirstošos logus šai vietnei."
+  }
+}

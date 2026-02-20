@@ -1,0 +1,37 @@
+{
+  "title": "Juridisk meddelelse",
+  "creator": {
+    "title": "Udgiver",
+    "body": "Visio-tjenesten udgives af Statens Interministerielle Digitale Afdeling (DINUM) beliggende på:",
+    "contact": {
+      "title": "Kontaktoplysninger",
+      "address": "20 avenue de Ségur",
+      "city": "75007 Paris",
+      "phone": "Reception Tlf.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (regeringens generalsekretariat)",
+      "siren": "SIREN: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Udgivelsesdirektør",
+    "body": "Udgivelsesdirektøren er fru Stéphanie Schaer, Interministeriel Digital Direktør."
+  },
+  "hosting": {
+    "title": "Hosting",
+    "body": "Tjenesten hostes af Outscale West-1 CloudGouv SecNumCloud i Frankrig."
+  },
+  "accessibility": {
+    "title": "Tilgængelighed",
+    "body": "Overholdelse af digitale tilgængelighedsstandarder er et fremtidigt mål. Siden er endnu ikke blevet revideret. Teamet stræber dog efter at skabe en tilgængelig side for alle ved at følge RGAA-anbefalingerne.",
+    "more": "For mere information: ",
+    "link": "link til tilgængelighedsside",
+    "status": "Tilgængelighedsstatus: ikke-kompatibel"
+  },
+  "reuse": {
+    "title": "Indholdsgenbrug og links",
+    "body1": "Medmindre det udtrykkeligt er nævnt, at tredjepart har intellektuelle ejendomsrettigheder, tilbydes indholdet på dette site under ",
+    "license": "Etalab 2.0 åben licens",
+    "body2": "Du er særligt fri til at reproducere, kopiere, ændre, udtrække, transformere, kommunikere, distribuere, redistribuere, offentliggøre, transmittere og udnytte dem, forudsat at du nævner deres kilde, deres seneste opdateringsdato og ikke vildleder tredjeparter om de indeholdte oplysninger.",
+    "body3": "Enhver offentlig eller privat side er autoriseret til at etablere et link (inklusive dybt link) til informationen på denne side uden forudgående tilladelse."
+  }
+}

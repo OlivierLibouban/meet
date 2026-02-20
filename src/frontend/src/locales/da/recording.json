@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Optagelse ikke tilgængelig",
+    "body": "Optagelsen er utilgængelig eller kan være blevet slettet. Kun mødearrangøren kan få adgang til den. Kontakt dem gerne, hvis det er nødvendigt."
+  },
+  "expired": {
+    "title": "Optagelse udløbet",
+    "body": "Denne optagelse blev slettet den '{{date}}'."
+  },
+  "authentication": {
+    "title": "Godkendelse påkrævet",
+    "body": "Log ind for at få adgang til denne optagelse."
+  },
+  "unsaved": {
+    "title": "Download ikke tilgængelig",
+    "body": "Denne optagelse er ikke klar til download endnu. Prøv igen senere."
+  },
+  "success": {
+    "title": "Din optagelse er klar!",
+    "body": "Optagelse af møde '{{room}}' fra '{{created_at}}'.",
+    "expiration": "Bemærk, denne optagelse udløber om '{{expiration_days}}' dag(e).",
+    "button": "Hent",
+    "warning": {
+      "title": "Linkdeling deaktiveret",
+      "body": "Deling af optagelsen via link er endnu ikke tilgængelig. Kun arrangører kan downloade den."
+    }
+  }
+}

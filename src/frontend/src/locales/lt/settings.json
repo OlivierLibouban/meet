@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Šiuo metu esate prisijungęs kaip <0>'{{user}}'</0>",
+    "heading": "Paskyra",
+    "youAreNotLoggedIn": "Jūs nesate prisijungęs.",
+    "nameLabel": "Jūsų vardas",
+    "authentication": "Autentifikavimas",
+    "nameError": "Jūsų vardas negali būti tuščias"
+  },
+  "preferences": {
+    "title": "Nuostatos",
+    "idleDisconnectModal": {
+      "label": "Palikti skambučius be dalyvių",
+      "description": "Automatiškai palieka skambutį po kelių minučių, jei neprisijungia kiti dalyviai"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Mikrofonas",
+      "label": "Pasirinkite garso įvestį",
+      "disabled": "Mikrofonas išjungtas"
+    },
+    "noiseReduction": {
+      "label": "Triukšmo mažinimas",
+      "heading": "Triukšmo mažinimas",
+      "ariaLabel": {
+        "enable": "Įjungti triukšmo mažinimą",
+        "disable": "Išjungti triukšmo mažinimą"
+      }
+    },
+    "speakers": {
+      "heading": "Garsiakalbiai",
+      "label": "Pasirinkite garso išvestį",
+      "test": "Testas",
+      "ongoingTest": "Tikrinama garso kokybė…",
+      "safariWarning": "Garsiakalbio pasirinkimas „Safari“ naršyklėje dar negalimas dėl naršyklės apribojimų."
+    },
+    "permissionsRequired": "Reikalingi leidimai"
+  },
+  "video": {
+    "camera": {
+      "heading": "Kamera",
+      "label": "Pasirinkite vaizdo įvestį",
+      "disabled": "Kamera išjungta",
+      "previewAriaLabel": {
+        "enabled": "Vaizdo peržiūra įjungta",
+        "disabled": "Vaizdo peržiūra išjungta"
+      }
+    },
+    "resolution": {
+      "heading": "Raiška",
+      "publish": {
+        "label": "Pasirinkite siuntimo raišką (maks.)",
+        "items": {
+          "high": "Aukšta raiška",
+          "medium": "Standartinė raiška",
+          "low": "Žema raiška"
+        }
+      },
+      "subscribe": {
+        "label": "Pasirinkite priėmimo raišką (maks.)",
+        "items": {
+          "high": "Aukšta raiška (automatinė)",
+          "medium": "Standartinė raiška",
+          "low": "Žema raiška"
+        }
+      }
+    },
+    "permissionsRequired": "Reikalingi leidimai"
+  },
+  "transcription": {
+    "heading": "Transkripcija",
+    "language": {
+      "label": "Susitikimo kalba",
+      "options": {
+        "french": "Prancūzų (fr)",
+        "english": "Lietuvių (lt)",
+        "dutch": "Olandų (nl)",
+        "german": "Vokiečių (de)",
+        "auto": "Automatinis"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Garso pranešimai",
+    "label": "garsiniai pranešimai skirti",
+    "actions": {
+      "disable": "Išjungti",
+      "enable": "Įjungti"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Dalyvis prisijungė"
+      },
+      "handRaised": {
+        "label": "Pakelta ranka"
+      },
+      "messageReceived": {
+        "label": "Gauta žinutė"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Nustatymai"
+  },
+  "language": {
+    "heading": "Kalba",
+    "label": "Kalba"
+  },
+  "settingsButtonLabel": "Nustatymai",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Pranešti reakcijas garsiai"
+    }
+  },
+  "tabs": {
+    "account": "Profilis",
+    "audio": "Garsas",
+    "video": "Vaizdo įrašas",
+    "general": "Bendra",
+    "notifications": "Pranešimai",
+    "accessibility": "Prieinamumas",
+    "transcription": "Transkripcija"
+  }
+}

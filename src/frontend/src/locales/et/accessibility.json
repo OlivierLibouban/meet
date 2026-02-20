@@ -1,0 +1,34 @@
+{
+  "accessibility": {
+    "title": "Juurdepääsetavus",
+    "introduction": "<i>Visio</i> on pühendunud oma digiteenuste kättesaadavaks tegemisele vastavalt 11. veebruari 2005. aasta seaduse nr 2005-102 artiklile 47.",
+    "declaration": {
+      "title": "Juurdepääsetavuse avaldus",
+      "date": "Asutatud 4. detsembril 2024. aastal."
+    },
+    "scope": "See juurdepääsetavuse avaldus kehtib veebisaidile visio.numerique.gouv.fr",
+    "complianceStatus": {
+      "title": "Vastavuse olek",
+      "body": "visio.numerique.gouv.fr ei vasta RGAA 4.1 nõuetele. Saidi auditit pole veel tehtud. Kuid meeskond püüab luua kõigile ligipääsetava saidi, järgides RGAA soovitusi."
+    },
+    "improvement": {
+      "title": "Parandus ja Kontakt",
+      "body": "Kui te ei pääse sisule või teenusele ligi, võite võtta ühendust isikuga, kes vastutab lasuite.numerique.gouv.fr eest, et saada juhiseid ligipääsetava alternatiivi juurde või hankida sisu muul kujul.",
+      "contact": {
+        "email": "E-post: visio@numerique.gouv.fr",
+        "address": "Aadress: DINUM, 20 avenue de Ségur 75007 Pariis"
+      },
+      "response": "Püüame vastata 2 tööpäeva jooksul."
+    },
+    "recourse": {
+      "title": "Õiguskaitsevahendid",
+      "introduction": "Seda protseduuri kasutatakse järgmisel juhul: olete teatanud veebisaidi haldajale ligipääsetavuse probleemist, mis takistab teil sisu või portaali teenustele juurdepääsu, ja te pole saanud rahuldavat vastust.",
+      "options": {
+        "intro": "Sa saad:",
+        "option1": "Kirjuta sõnum õiguskaitsjale",
+        "option2": "Võtke ühendust oma piirkonna õiguskaitse esindajaga",
+        "option3": "Saada kiri posti teel (tasuta, margita pole vaja): </br> Õiguste Kaitsja Tasuta vastus 71120 75342 Paris CEDEX 07"
+      }
+    }
+  }
+}

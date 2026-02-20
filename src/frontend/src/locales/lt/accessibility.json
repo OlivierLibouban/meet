@@ -1,0 +1,34 @@
+{
+  "accessibility": {
+    "title": "Prieinamumas",
+    "introduction": "<i>Visio</i> siekia užtikrinti savo skaitmeninių paslaugų prieinamumą pagal 2005 m. vasario 11 d. įstatymo Nr. 2005-102 47 straipsnį.",
+    "declaration": {
+      "title": "Prieinamumo pareiškimas",
+      "date": "Įkurta 2024 m. gruodžio 4 d."
+    },
+    "scope": "Šis prieinamumo pareiškimas taikomas svetainei visio.numerique.gouv.fr",
+    "complianceStatus": {
+      "title": "Atitikties būsena",
+      "body": "visio.numerique.gouv.fr neatitinka RGAA 4.1 reikalavimų. Svetainė dar nebuvo audituota. Tačiau komanda siekia sukurti visiems prieinamą svetainę, laikydamasi RGAA rekomendacijų."
+    },
+    "improvement": {
+      "title": "Patobulinimas ir Kontaktas",
+      "body": "Jei negalite pasiekti turinio ar paslaugos, galite susisiekti su atsakingu asmeniu adresu lasuite.numerique.gouv.fr, kad būtumėte nukreipti į prieinamą alternatyvą arba gautumėte turinį kita forma.",
+      "contact": {
+        "email": "El. paštas: visio@numerique.gouv.fr",
+        "address": "Adresas: DINUM, 20 avenue de Ségur 75007 Paryžius"
+      },
+      "response": "Stengiamės atsakyti per 2 darbo dienas."
+    },
+    "recourse": {
+      "title": "Teisių gynimo priemonės",
+      "introduction": "Šią procedūrą naudokite šiuo atveju: pranešėte svetainės administratoriui apie prieinamumo problemą, kuri trukdo pasiekti turinį ar vieną iš portalo paslaugų, ir negavote patenkinamo atsakymo.",
+      "options": {
+        "intro": "Galite:",
+        "option1": "Parašykite žinutę Teisių gynėjui",
+        "option2": "Susisiekite su teisių gynėjo atstovu savo regione",
+        "option3": "Siųsti laišką paštu (nemokamai, nereikia pašto ženklo): </br> Teisių gynėjas Nemokamas atsakymas 71120 75342 Paryžius CEDEX 07"
+      }
+    }
+  }
+}

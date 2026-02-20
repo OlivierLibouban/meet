@@ -1,0 +1,129 @@
+{
+  "title": "Kasutustingimused Visio jaoks",
+  "articles": {
+    "article1": {
+      "title": "Ulatus",
+      "content": "See dokument määratleb Visio (edaspidi \"Visio\" või \"rakendus\"), riigiasutustele ja nende allasutustele spetsiaalselt loodud videokonverentsirakenduse, kasutustingimused."
+    },
+    "article2": {
+      "title": "2. Rakenduse eesmärk",
+      "content": "Visio aitab edendada koostööd riigiasutuste ja nende alluvuses olevate asutuste meeskondade vahel, toetab kaugtööd ning hõlbustab koosolekute, konverentside või koolituste korraldamist.",
+      "paragraphs": [
+        "Visio on välja töötatud ja hallatud Digitaalasjade Ministeeriumidevahelise Direktsiooni (DINUM) poolt.",
+        "Rakenduse teeb kättesaadavaks DINUM riigi haldusasutustele ja nende järelevalve all olevatele asutustele, kasutamiseks nende töötajatele, partneritele ja kutsutud teenusepakkujatele.",
+        "Visio kasutamine peab vastama nendele kasutustingimustele ja vajaduse korral asjakohase järelevalveasutuse kasutuspoliitikale."
+      ]
+    },
+    "article3": {
+      "title": "3. Määratlused",
+      "paragraphs": [
+        "Visio on toode, mille kasutamist kirjeldatakse nendes tingimustes ja mis on esitatud järgmisel lehel: https://visio.numerique.gouv.fr.",
+        "Visio kasutajad on kõik isikud, kes kasutavad Visio videokonverentsideks, olgu nad asutuse töötajad, partnerid või teenusepakkujad. Järelevalvet teostav asutus on riigiasutus või selle järelevalve all olev organ, kes teeb Visio kättesaadavaks oma töötajatele, partneritele või teenusepakkujatele.",
+        "Ruumikorraldajad on kasutajad, kes vastutavad videokonverentsiruumi eest pärast ProConnecti kaudu sisselogimist."
+      ]
+    },
+    "article4": {
+      "title": "4. Juurdepääs rakendusele",
+      "definition": "Visio on kasutajatele kättesaadavaks tehtud nende haldava administratsiooni poolt. Korraldajad võivad seejärel jagada linki, mis annab juurdepääsu ruumile, igaühega, kelle eest nad vastutavad."
+    },
+    "article5": {
+      "title": "5. Funktsioonid",
+      "sections": {
+        "section1": {
+          "title": "5.1. Korraldajatele saadaval olevad funktsioonid",
+          "content": "Visio võimaldab riigiasutuste töötajatel ja nende alluvuses olevatel asutustel luua videokonverentsiruumi tavalisest tööjaamast, mis on seotud nende ProConnecti kontoga.",
+          "paragraph1": "Iga riigitöötaja või riigi järelevalve all oleva asutuse töötaja, kelle tegevus on kooskõlas Visio kasutamisega või kellele ei kehti konkreetsed konfidentsiaalsus- või ametisaladuse kohustused, võib luua ja korraldada videokonverentsi. Seejärel võivad nad jagada koosoleku linki teiste isikutega, kasutajatega, olenemata sellest, kas nad kuuluvad administratsiooni või mitte.",
+          "paragraph2": "Selleks võib iga ruumi korraldaja:",
+          "capabilities": [
+            "Kaitse ruumi juurdepääsu ooteruumiga;",
+            "Autoriseeri iga kasutaja sisenemine ruumi",
+            "Vaigista kasutajate mikrofonid ja kaamerad",
+            "Eemalda kasutaja ruumist",
+            "Kasutage koosoleku transkriptsioonitööriista pärast kasutajate nõusoleku saamist, nende vastutusel."
+          ],
+          "paragraph3": "Ainult töötajad, kelle ProConnect konto kuulub domeeni, millel on luba korraldada ruume Visios, või kellele ei kehti konkreetsed konfidentsiaalsus- või ametisaladuse kohustused, võivad rakendust ja selle funktsioone kasutada või kontrollida.",
+          "paragraph4": "Automaatset transkriptsioonitööriista saavad korraldajad kasutada ruumiseadete menüüst. Korraldajad vastutavad transkribeeritud koosolekul osalejate nõusoleku eest. Transkriptsiooni keelt saab muuta samast menüüst. Koosoleku lõpus saadetakse korraldajale link, et pääseda juurde transkriptsioonile, mis on salvestatud tööriista Docs, mida haldab DINUM."
+        },
+        "section2": {
+          "title": "5.2. Kasutajatele saadaval olevad funktsioonid",
+          "content": "Visio võimaldab igal kasutajal, olgu ta ametnik või mitte, osaleda igas Visio ruumis, kuhu korraldaja on ta kutsunud, ja kasutada selle funktsioone.",
+          "paragraph": "Selleks võib iga kasutaja:",
+          "capabilities": [
+            "Sisestage ruumi sisenemisel kuvatav nimi;",
+            "Suhtle kaugelt heli ja/või video kaudu;",
+            "Jaga nende ekraani",
+            "Vaheta sõnumeid avalikult kõigi ruumis olevate kasutajatega seansi ajal",
+            "Juurdepääs ruumi tehnilisele teabele ja ligipääsetavuse funktsioonidele",
+            "Lülita nende kaamera ja/või mikrofon igal ajal sisse või välja",
+            "Kaitske oma ümbruse privaatsust, kui kaamera on sisse lülitatud, valides ja aktiveerides tausta enne ruumi sisenemist või videokonverentsi ajal."
+          ]
+        }
+      }
+    },
+    "article6": {
+      "title": "6. Kasutajate kohustused ja vastutus",
+      "sections": {
+        "section1": {
+          "title": "6.1 Lubatud kasutusviisid",
+          "paragraphs": [
+            "Visio on loodud riigiasutuste töötajate ja nende järelevalve all olevate asutuste ning väliste koostööpartnerite professionaalseks suhtluseks.",
+            "Kasutajad vastutavad piltide ja helide eest, mille nad videokonverentsiruumis kättesaadavaks teevad. See vastutus kehtib nii kaamera või mikrofoni edastatava kui ka seadme kaudu kolmandatele isikutele kättesaadavaks tehtava kohta. Seetõttu peavad kasutajad rakendust kasutama professionaalses keskkonnas ega tohi avaldada kolmandatele isikutele teavet, mis on kaetud ametisaladuse kohustustega (näiteks: privaatsusfiltrite, kõrvaklappide kasutamine jne).",
+            "Kasutajad vastutavad andmete või sisu eest, mida nad sisestavad ruumi sõnumiteenusesse. Nad peavad tagama, et sisestatakse ainult sobivad sõnumid."
+          ]
+        },
+        "section2": {
+          "title": "6.2 Keelatud kasutusalad",
+          "paragraphs": [
+            "Kasutajad kohustuvad mitte sisestama Visio ruumi sõnumiteenusesse ega tegema pildi või heli kaudu kättesaadavaks sisu või teavet, mis rikub kehtivaid seadusi ja määrusi."
+          ]
+        }
+      }
+    },
+    "article7": {
+      "title": "7. DINUMi kohustused ja vastutused",
+      "sections": {
+        "section1": {
+          "title": "7.1. Rakenduse turvalisus",
+          "paragraphs": [
+            "DINUM kohustub Visio turvalisuse tagamiseks võtma kõik vajalikud meetmed vahetuste turvalisuse ja konfidentsiaalsuse tagamiseks.",
+            "Rakendus on sertifitseeritud vastavalt muudetud määruse nr 2010-112 tingimustele."
+          ]
+        },
+        "section2": {
+          "title": "7.2. Juurdepääs rakendusele",
+          "paragraphs": [
+            "DINUM kohustub tagama vajalikud ja mõistlikud vahendid rakenduse pideva juurdepääsu tagamiseks.",
+            "Rakendus on saadaval ööpäevaringselt, välja arvatud hooldustööde ajal.",
+            "DINUM eesmärk on saavutada rakenduse aastane kättesaadavuse määr 99,5%, välja arvatud planeeritud seisakud. Intsidenti või hooldustööde korral on eesmärk taastamisaeg 72 tundi väljaspool tööaega.",
+            "Rakenduse käituskeskkonna hoolduse osana jätab DINUM endale õiguse rakenduse töö ajutiselt peatada. Võimaluse korral teavitatakse kasutajaid vähemalt 48 tundi ette. Hädaolukordades võib selline peatamine toimuda ilma ette teatamata.",
+            "Need need katkestused võivad olla vajalikud näiteks andmehalduse toimingute, tootmisväljalasete või arhitektuurimuudatuste jaoks.",
+            "Rakenduse kättesaamatus ei anna kasutajatele õigust hüvitisele."
+          ]
+        },
+        "section3": {
+          "title": "7.3. Toe haldamine",
+          "paragraphs": [
+            "DINUM pakub kasutajatele esmast tuge, ainult rakenduse tehnilistele aspektidele.",
+            "Selle toe saab kätte veebipõhise kontaktvormi kaudu.",
+            "E-kirja saatmisest on vastamise sihtajaks kaks tööpäeva; see ajakava võib varieeruda sõltuvalt taotluste keerukusest ja arvust."
+          ]
+        },
+        "section4": {
+          "title": "7.4. Rakenduse kasutuse jälgimine",
+          "paragraphs": [
+            "DINUM jätab endale õiguse peatada või kustutada kasutajakonto, mis ei ole nende kasutustingimustega kooskõlas, ilma et see piiraks võimalikke kriminaal- või tsiviilvastutuse meetmeid, mida võidakse asjaomase isiku suhtes algatada. Teave võidakse edastada kasutaja järelevalveasutusele, kes vastutab rakenduse kättesaadavaks tegemise eest.",
+            "Ühe või mitme konto peatamine või tühistamine ei anna alust mingisugusele hüvitisele."
+          ]
+        },
+        "section5": {
+          "title": "7.5. Avatud lähtekood ja litsentsid",
+          "content": "Teenuse lähtekood on avatud ja saadaval siin: https://github.com/suitenumerique/meet. DINUMi pakutav sisu on litsentsitud Open License 2.0 alusel, välja arvatud logod ja ikoonilised või fotograafilised kujutised, millele võivad kehtida nende enda litsentsid."
+        }
+      }
+    },
+    "article8": {
+      "title": "8. Kasutustingimuste muudatused",
+      "content": "Kasutustingimusi võidakse igal ajal muuta või täiendada ilma ette teatamata, sõltuvalt teenuse muudatustest, seadusandluse arengutest või muudel vajalikuks peetavatel põhjustel. Need muudatused ja uuendused on kasutajale siduvad, seega peab ta regulaarselt seda jaotist kontrollima, et kehtivaid tingimusi kinnitada."
+    }
+  }
+}

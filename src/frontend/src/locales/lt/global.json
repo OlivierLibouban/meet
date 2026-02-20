@@ -1,0 +1,59 @@
+{
+  "backToHome": "Atgal į pradžios ekraną",
+  "cancel": "Atšaukti",
+  "closeDialog": "Uždaryti dialogą",
+  "error": {
+    "heading": "Įkeliant puslapį įvyko klaida"
+  },
+  "feedback": {
+    "context": "Jūsų atsiliepimai formuoja produktą!",
+    "cta": "Pasidalinkite atsiliepimais - naujas skirtukas"
+  },
+  "forbidden": {
+    "heading": "Neturite leidimo peržiūrėti šį puslapį"
+  },
+  "loading": "Įkeliama…",
+  "loggedInUserTooltip": "Prisijungęs kaip ",
+  "login": {
+    "buttonLabel": "Prisijungti",
+    "proconnectButtonLabel": "Prisijungti su ProConnect",
+    "proconnectLinkLabel": "Kas yra „ProConnect“? - naujas skirtukas",
+    "proconnectLink": "Kas yra „ProConnect“?"
+  },
+  "logout": "Atsijungti",
+  "notFound": {
+    "heading": "Patvirtinkite susitikimo kodą",
+    "body": "Patikrinkite, ar į URL įvedėte teisingą susitikimo kodą. Pavyzdys:"
+  },
+  "submit": "Gerai",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Teisinis pranešimas",
+      "data": "Asmens duomenys ir slapukai",
+      "accessibility": "Prieinamumas: neatitinka reikalavimų",
+      "ariaLabel": "naujas langas",
+      "codeAnnotation": "Mūsų kodas yra atviras ir pasiekiamas čia",
+      "code": "Atidaryti šaltinio kodo saugyklą",
+      "technicalDetails": "Techninis pranešimas",
+      "termsOfService": "Paslaugų teikimo sąlygos"
+    },
+    "mentions": "Jei nenurodyta kitaip, šios svetainės turinys yra prieinamas pagal",
+    "license": "etalab 2.0 licencija"
+  },
+  "loginHint": {
+    "title": "Prisijunkite su savo ProConnect paskyra",
+    "body": "Užuot laukę, prisijunkite su savo ProConnect paskyra.",
+    "button": {
+      "ariaLabel": "Uždaryti pasiūlymą",
+      "label": "Gerai"
+    }
+  },
+  "clipboardContent": {
+    "url": "Norėdami prisijungti prie vaizdo konferencijos, spustelėkite šią nuorodą: '{{roomUrl}}'",
+    "numberAndPin": "Norėdami prisijungti telefonu, surinkite '{{phoneNumber}}' ir įveskite šį kodą: '{{pinCode}}'"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "accessibility": {
+    "title": "Tilgængelighed",
+    "introduction": "<i>Visio</i> er forpligtet til at gøre sine digitale tjenester tilgængelige i overensstemmelse med artikel 47 i lov nr. 2005-102 af 11. februar 2005.",
+    "declaration": {
+      "title": "Tilgængelighedserklæring",
+      "date": "Etableret den 4. december 2024."
+    },
+    "scope": "Denne tilgængelighedserklæring gælder for websitet visio.numerique.gouv.fr",
+    "complianceStatus": {
+      "title": "Overholdelsesstatus",
+      "body": "visio.numerique.gouv.fr er ikke i overensstemmelse med RGAA 4.1. Siden er endnu ikke blevet auditeret. Dog stræber teamet efter at skabe en side, der er tilgængelig for alle ved at følge RGAA-anbefalingerne."
+    },
+    "improvement": {
+      "title": "Forbedring og Kontakt",
+      "body": "Hvis du ikke kan få adgang til indhold eller en tjeneste, kan du kontakte den ansvarlige for lasuite.numerique.gouv.fr for at blive henvist til et tilgængeligt alternativ eller få indholdet i en anden form.",
+      "contact": {
+        "email": "Email: visio@numerique.gouv.fr",
+        "address": "Adresse: DINUM, 20 avenue de Ségur 75007 Paris"
+      },
+      "response": "Vi forsøger at svare inden for 2 arbejdsdage."
+    },
+    "recourse": {
+      "title": "Klageadgang",
+      "introduction": "Denne procedure skal anvendes i følgende tilfælde: Du har rapporteret et tilgængelighedsproblem til webstedsadministratoren, der forhindrer dig i at få adgang til indhold eller en af portalens tjenester, og du har ikke modtaget et tilfredsstillende svar.",
+      "options": {
+        "intro": "Du kan:",
+        "option1": "Skriv en besked til Rettighedsforsvareren",
+        "option2": "Kontakt rettighedsforsvarerens repræsentant i din region",
+        "option3": "Send et brev med posten (gratis, ingen frimærke nødvendig): </br> Rights Defender Svar uden omkostning 71120 75342 Paris CEDEX 07"
+      }
+    }
+  }
+}

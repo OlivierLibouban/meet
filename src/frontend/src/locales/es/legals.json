@@ -1,0 +1,37 @@
+{
+  "title": "Aviso Legal",
+  "creator": {
+    "title": "Editor",
+    "body": "El servicio Visio es publicado por la División Digital Interministerial del Estado (DINUM) ubicada en:",
+    "contact": {
+      "title": "Información de contacto",
+      "address": "20 avenue de Ségur",
+      "city": "75007 París",
+      "phone": "Recepción Tel.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (secretaría general del gobierno)",
+      "siren": "SIREN: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Director de Publicación",
+    "body": "La directora de publicación es Madame Stéphanie Schaer, Directora Digital Interministerial."
+  },
+  "hosting": {
+    "title": "Alojamiento",
+    "body": "El servicio está alojado por Outscale West-1 CloudGouv SecNumCloud ubicado en Francia."
+  },
+  "accessibility": {
+    "title": "Accesibilidad",
+    "body": "Cumplimiento con los estándares de accesibilidad digital es un objetivo futuro. El sitio aún no ha sido auditado. Sin embargo, el equipo se esfuerza por crear un sitio accesible para todos siguiendo las recomendaciones de RGAA.",
+    "more": "Para más información: ",
+    "link": "enlace a la página de accesibilidad",
+    "status": "Estado de accesibilidad: no conforme"
+  },
+  "reuse": {
+    "title": "Reutilización de Contenido y Enlaces",
+    "body1": "A menos que se mencione explícitamente la propiedad intelectual de terceros, los contenidos de este sitio se ofrecen bajo ",
+    "license": "Licencia abierta Etalab 2.0",
+    "body2": "Puede reproducir, copiar, modificar, extraer, transformar, comunicar, distribuir, redistribuir, publicar, transmitir y explotar, siempre que mencione su fuente, su fecha de última actualización y no engañe a terceros sobre la información contenida.",
+    "body3": "Cualquier sitio público o privado está autorizado a establecer, sin autorización previa, un enlace (incluido enlace profundo) a la información difundida en este sitio."
+  }
+}

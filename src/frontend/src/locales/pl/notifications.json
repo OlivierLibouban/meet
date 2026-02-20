@@ -1,0 +1,53 @@
+{
+  "defaultName": "Współtwórca",
+  "joined": {
+    "description": "'{{name}}' dołączył do pokoju"
+  },
+  "raised": {
+    "description": "'{{name}}' podniósł rękę.",
+    "cta": "Otwórz listę oczekujących"
+  },
+  "muted": "'{{name}}' wyciszył Twój mikrofon. Żaden uczestnik Cię nie słyszy.",
+  "openChat": "Otwórz czat",
+  "lowerHand": {
+    "auto": "Wygląda na to, że zacząłeś mówić, więc twoja ręka zostanie opuszczona.",
+    "dismiss": "Trzymaj rękę uniesioną"
+  },
+  "reaction": {
+    "description": "'{{name}}' zareagował(a) '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "Gospodarz wyłączył wideo dla wszystkich uczestników.",
+    "microphone": "Gospodarz wyłączył mikrofon dla wszystkich uczestników.",
+    "screen_share": "Gospodarz wyłączył udostępnianie ekranu dla wszystkich uczestników."
+  },
+  "waitingParticipants": {
+    "one": "Jedna osoba chce dołączyć do tego połączenia.",
+    "several": "Kilka osób chce dołączyć do tego połączenia.",
+    "open": "Otwórz",
+    "accept": "Akceptuj"
+  },
+  "transcript": {
+    "started": "'{{name}}' rozpoczął transkrypcję spotkania.",
+    "stopped": "'{{name}}' zatrzymał transkrypcję spotkania.",
+    "limitReached": "Transkrypcja przekroczyła maksymalny dozwolony czas i zostanie automatycznie zapisana.",
+    "requested": "'{{name}}' chce rozpocząć transkrypcję spotkania."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' rozpoczął nagrywanie spotkania.",
+    "stopped": "'{{name}}' zatrzymał nagrywanie spotkania.",
+    "limitReached": "Nagranie przekroczyło maksymalny dozwolony czas i zostanie automatycznie zapisane.",
+    "requested": "'{{name}}' chce rozpocząć nagrywanie spotkania."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Twoje nagranie jest zapisywane! Prześlemy transkrypcję na <strong>'{{email}}'</strong> jak tylko będzie gotowa.",
+      "default": "Twoje nagranie jest zapisywane! Prześlemy transkrypcję na Twój e-mail, gdy tylko będzie gotowa."
+    },
+    "screenRecording": {
+      "message": "Nagranie jest zapisywane! Powiadomienie zostanie wysłane do <strong>'{{email}}'</strong>, gdy będzie gotowe.",
+      "default": "Nagranie jest zapisywane! Powiadomimy Cię e-mailem, gdy będzie gotowe."
+    }
+  },
+  "openMenu": "Otwórz menu"
+}

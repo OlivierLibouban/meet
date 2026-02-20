@@ -1,0 +1,53 @@
+{
+  "defaultName": "Un colaborador",
+  "joined": {
+    "description": "'{{name}}' se ha unido a la sala"
+  },
+  "raised": {
+    "description": "'{{name}}' ha levantado la mano.",
+    "cta": "Abrir lista de espera"
+  },
+  "muted": "'{{name}}' ha silenciado tu micrófono. Ningún participante puede escucharte.",
+  "openChat": "Abrir chat",
+  "lowerHand": {
+    "auto": "Parece que has comenzado a hablar, así que tu mano será bajada.",
+    "dismiss": "Mantener mano levantada"
+  },
+  "reaction": {
+    "description": "'{{name}}' reaccionó con '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "El anfitrión ha desactivado el video para todos los participantes.",
+    "microphone": "El anfitrión ha desactivado el micrófono para todos los participantes.",
+    "screen_share": "El anfitrión ha desactivado el uso compartido de pantalla para todos los participantes."
+  },
+  "waitingParticipants": {
+    "one": "Una persona quiere unirse a esta llamada.",
+    "several": "Varias personas quieren unirse a esta llamada.",
+    "open": "Abrir",
+    "accept": "Aceptar"
+  },
+  "transcript": {
+    "started": "'{{name}}' inició la transcripción de la reunión.",
+    "stopped": "'{{name}}' detuvo la transcripción de la reunión.",
+    "limitReached": "La transcripción ha superado la duración máxima permitida y se guardará automáticamente.",
+    "requested": "'{{name}}' quiere iniciar la transcripción de la reunión."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' inició la grabación de la reunión.",
+    "stopped": "'{{name}}' detuvo la grabación de la reunión.",
+    "limitReached": "La grabación ha superado la duración máxima permitida y se guardará automáticamente.",
+    "requested": "'{{name}}' quiere iniciar la grabación de la reunión."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "¡Tu grabación se está guardando! Enviaremos la transcripción a <strong>'{{email}}'</strong> tan pronto como esté lista.",
+      "default": "¡Tu grabación se está guardando! Te enviaremos la transcripción a tu correo electrónico en cuanto esté lista."
+    },
+    "screenRecording": {
+      "message": "¡Tu grabación se está guardando! Enviaremos una notificación a <strong>'{{email}}'</strong> tan pronto como esté lista.",
+      "default": "¡Tu grabación se está guardando! Te enviaremos una notificación a tu correo electrónico en cuanto esté lista."
+    }
+  },
+  "openMenu": "Abrir menú"
+}

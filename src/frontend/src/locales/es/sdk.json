@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Crear",
+    "joinButton": "Unirse con Visio",
+    "copyLinkTooltip": "Copiar enlace",
+    "resetLabel": "Restablecer",
+    "participantLimit": "Hasta 150 participantes.",
+    "popupBlocked": "Se bloqueó la ventana emergente. Permita las ventanas emergentes para este sitio."
+  }
+}

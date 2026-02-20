@@ -1,0 +1,10 @@
+{
+  "createMeeting": {
+    "createButton": "Sukurti",
+    "joinButton": "Prisijungti su Visio",
+    "copyLinkTooltip": "Kopijuoti nuorodą",
+    "resetLabel": "Atstatyti",
+    "participantLimit": "Iki 150 dalyvių.",
+    "popupBlocked": "Iššokantis langas buvo užblokuotas. Prašome leisti iššokančius langus šiai svetainei."
+  }
+}

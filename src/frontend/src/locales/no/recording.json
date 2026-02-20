@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Opptak utilgjengelig",
+    "body": "Opptaket er utilgjengelig eller kan ha blitt slettet. Kun møtearrangøren kan få tilgang til det. Ta gjerne kontakt med dem ved behov."
+  },
+  "expired": {
+    "title": "Opptak utløpt",
+    "body": "Denne opptaket ble slettet '{{date}}'."
+  },
+  "authentication": {
+    "title": "Autentisering kreves",
+    "body": "Logg inn for å få tilgang til denne opptaket."
+  },
+  "unsaved": {
+    "title": "Nedlasting utilgjengelig",
+    "body": "Denne opptaket er ikke klar for nedlasting ennå. Vennligst prøv igjen senere."
+  },
+  "success": {
+    "title": "Opptaket ditt er klart!",
+    "body": "Opptak av møtet '{{room}}' fra '{{created_at}}'.",
+    "expiration": "Vær oppmerksom, denne opptaket utløper om '{{expiration_days}}' dag(er).",
+    "button": "Last ned",
+    "warning": {
+      "title": "Koblingsdeling deaktivert",
+      "body": "Deling av opptaket via lenke er ikke tilgjengelig ennå. Kun arrangører kan laste det ned."
+    }
+  }
+}

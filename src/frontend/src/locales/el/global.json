@@ -1,0 +1,59 @@
+{
+  "backToHome": "Πίσω στην αρχική οθόνη",
+  "cancel": "Ακύρωση",
+  "closeDialog": "Κλείσιμο διαλόγου",
+  "error": {
+    "heading": "Παρουσιάστηκε σφάλμα κατά τη φόρτωση της σελίδας"
+  },
+  "feedback": {
+    "context": "Τα σχόλιά σας διαμορφώνουν το προϊόν!",
+    "cta": "Κοινοποιήστε τα σχόλιά σας - νέα καρτέλα"
+  },
+  "forbidden": {
+    "heading": "Δεν έχετε άδεια να δείτε αυτήν τη σελίδα"
+  },
+  "loading": "Φόρτωση…",
+  "loggedInUserTooltip": "Συνδεδεμένος ως ",
+  "login": {
+    "buttonLabel": "Σύνδεση",
+    "proconnectButtonLabel": "Σύνδεση με το ProConnect",
+    "proconnectLinkLabel": "Τι είναι το ProConnect; - νέα καρτέλα",
+    "proconnectLink": "Τι είναι το ProConnect;"
+  },
+  "logout": "Αποσύνδεση",
+  "notFound": {
+    "heading": "Επαληθεύστε τον κωδικό συνάντησης",
+    "body": "Βεβαιωθείτε ότι έχετε εισαγάγει τον σωστό κωδικό συνάντησης στη διεύθυνση URL. Παράδειγμα:"
+  },
+  "submit": "Εντάξει",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "υπηρεσία-δημόσια.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Νομική Ειδοποίηση",
+      "data": "Προσωπικά Δεδομένα και Cookies",
+      "accessibility": "Προσβασιμότητα: μη συμμορφούμενο",
+      "ariaLabel": "νέο παράθυρο",
+      "codeAnnotation": "Ο κώδικάς μας είναι ανοιχτός και διαθέσιμος σε αυτό",
+      "code": "Άνοιγμα Αποθετηρίου Πηγαίου Κώδικα",
+      "technicalDetails": "Τεχνική Ειδοποίηση",
+      "termsOfService": "Όροι χρήσης"
+    },
+    "mentions": "Εκτός αν αναφέρεται διαφορετικά, το περιεχόμενο αυτού του ιστότοπου είναι διαθέσιμο υπό",
+    "license": "άδεια etalab 2.0"
+  },
+  "loginHint": {
+    "title": "Συνδεθείτε με τον λογαριασμό σας ProConnect",
+    "body": "Αντί να περιμένετε, συνδεθείτε με τον λογαριασμό σας ProConnect.",
+    "button": {
+      "ariaLabel": "Κλείσιμο πρότασης",
+      "label": "Εντάξει"
+    }
+  },
+  "clipboardContent": {
+    "url": "Για να συμμετάσχετε στη βιντεοδιάσκεψη, κάντε κλικ σε αυτόν τον σύνδεσμο: '{{roomUrl}}'",
+    "numberAndPin": "Για να συμμετάσχετε μέσω τηλεφώνου, καλέστε '{{phoneNumber}}' και εισάγετε αυτόν τον κωδικό: '{{pinCode}}'"
+  }
+}

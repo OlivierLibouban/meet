@@ -1,0 +1,606 @@
+{
+  "feedback": {
+    "heading": {
+      "normal": "Du har lämnat mötet",
+      "duplicateIdentity": "Du har anslutit till mötet från en annan enhet",
+      "participantRemoved": "Du har blivit borttagen från mötet av en administratör"
+    },
+    "home": "Återgå till start",
+    "back": "Återanslut till mötet"
+  },
+  "selectDevice": {
+    "loading": "Laddar…",
+    "select": "Välj ett värde",
+    "permissionsNeeded": "Behörighet krävs",
+    "settings": {
+      "audio": "Ljudinställningar",
+      "video": "Videoinställningar"
+    },
+    "effects": "Bakgrunder och effekter",
+    "videoinput": {
+      "choose": "Välj kamera",
+      "permissionsNeeded": "Välj kamera - behörighet krävs",
+      "disable": "Inaktivera kamera",
+      "enable": "Aktivera kamera",
+      "label": "Kamera",
+      "placeholder": "Aktivera kameran för att se förhandsvisningen"
+    },
+    "audioinput": {
+      "choose": "Välj mikrofon",
+      "permissionsNeeded": "Välj mikrofon - behörighet krävs",
+      "disable": "Inaktivera mikrofon",
+      "enable": "Aktivera mikrofon",
+      "label": "Mikrofon"
+    },
+    "audiooutput": {
+      "choose": "Välj högtalare",
+      "permissionsNeeded": "Välj högtalare - tillstånd krävs"
+    }
+  },
+  "join": {
+    "effects": {
+      "description": "Använd bakgrunder och effekter",
+      "title": "Effekter",
+      "subTitle": "Konfigurera kamerans effekter."
+    },
+    "heading": "Gå med i mötet?",
+    "joinLabel": "Gå med",
+    "joinMeeting": "Gå med i möte",
+    "toggleOff": "Klicka för att stänga av",
+    "toggleOn": "Klicka för att aktivera",
+    "usernameHint": "Visas för andra deltagare",
+    "usernameLabel": "Ditt namn",
+    "errors": {
+      "usernameEmpty": "Ditt namn kan inte vara tomt"
+    },
+    "cameraDisabled": "Kameran är avstängd.",
+    "cameraStarting": "Startar kameran…",
+    "cameraNotGranted": "Vill du att andra ska kunna se dig under mötet?",
+    "cameraAndMicNotGranted": "Vill du att andra ska kunna se och höra dig under mötet?",
+    "permissionsButton": {
+      "cameraAndMicNotGranted": "Tillåt åtkomst till kamera och mikrofon",
+      "cameraNotGranted": "Tillåt åtkomst till kamera"
+    },
+    "videoPreview": {
+      "enabled": "Videoförhandsvisning aktiverad",
+      "disabled": "Videoförhandsvisning inaktiverad"
+    },
+    "waiting": {
+      "title": "Begär att gå med...",
+      "body": "Du kan ansluta till samtalet när någon godkänner dig"
+    },
+    "denied": {
+      "title": "Du kan inte ansluta till det här samtalet",
+      "body": "Din begäran att gå med har nekats."
+    },
+    "timeoutInvite": {
+      "title": "Du kan inte ansluta till det här samtalet",
+      "body": "Ingen svarade på din förfrågan"
+    }
+  },
+  "leaveRoomPrompt": "Detta kommer att göra att du lämnar mötet.",
+  "shareDialog": {
+    "copy": "Kopiera information",
+    "copyUrl": "Kopiera länk",
+    "copied": "Information kopierad till urklipp",
+    "heading": "Ditt möte är klart",
+    "description": "Dela den här länken med personer du vill bjuda in till mötet.",
+    "permissions": "Personer med den här länken behöver inte ditt tillstånd för att delta i mötet.",
+    "closeDialog": "Stäng dialogrutan",
+    "phone": {
+      "call": "Ring:",
+      "pinCode": "Kod:"
+    }
+  },
+  "pagination": {
+    "count": "'{{currentPage}}' av '{{totalPageCount}}'",
+    "next": "nästa sida",
+    "previous": "föregående sida"
+  },
+  "mediaErrorDialog": {
+    "DeviceInUse": {
+      "title": {
+        "audioinput": "Aktivering av mikrofon misslyckades",
+        "videoinput": "Kameran kunde inte aktiveras"
+      },
+      "body": {
+        "audioinput": "Din mikrofon används redan av en annan flik eller applikation, vilket förhindrar att den aktiveras i detta videosamtal. Stäng den andra fliken eller applikationen om du vill använda den här.",
+        "videoinput": "Din kamera används redan av en annan flik eller applikation, vilket förhindrar att den aktiveras i detta videosamtal. Stäng den andra fliken eller applikationen om du vill använda den här."
+      }
+    },
+    "close": "OK"
+  },
+  "permissionErrorDialog": {
+    "heading": {
+      "camera": "'{{appTitle}}' har inte tillåtelse att använda din kamera",
+      "microphone": "'{{appTitle}}' har inte tillåtelse att använda din mikrofon",
+      "cameraAndMicrophone": "'{{appTitle}}' har inte tillåtelse att använda din mikrofon eller kamera",
+      "default": "'{{appTitle}}' har inte tillåtelse att använda vissa behörigheter"
+    },
+    "body": {
+      "openMenu": {
+        "others": "Klicka på inställningsikonen ICON_PLACEHOLDER i webbläsarens adressfält",
+        "safari": "Klicka på menyn 'Safari' och öppna 'Inställningar för '{{appDomain}}'."
+      },
+      "details": {
+        "camera": "Tillåt åtkomst till kameran",
+        "microphone": "Tillåt åtkomst till mikrofonen",
+        "cameraAndMicrophone": "Tillåt åtkomst till kamera och mikrofon",
+        "default": "Aktivera nödvändiga behörigheter."
+      }
+    }
+  },
+  "permissionsButton": {
+    "tooltip": "Mer info",
+    "ariaLabel": "Behörighetsproblem. Visa mer info"
+  },
+  "error": {
+    "createRoom": {
+      "heading": "Autentisering krävs",
+      "body": "Detta rum har inte skapats ännu. Vänligen autentisera för att skapa det eller vänta på att en autentiserad användare gör det."
+    },
+    "screenShare": {
+      "title": "Kan inte dela din skärm",
+      "ariaLabel": "Kan inte dela din skärm",
+      "message": "Din webbläsare kanske inte har tillåtelse att spela in skärmen på din dator.",
+      "macInstructions": "Gå till din",
+      "macSystemPreferences": "Systeminställningar",
+      "helpLinkText": "Läs mer i",
+      "helpLinkLabel": "Presentationsproblem",
+      "closeButton": "Avfärda",
+      "newTab": "Nytt fönster"
+    }
+  },
+  "isIdleDisconnectModal": {
+    "title": "Är du kvar?",
+    "body": "Du är den enda deltagaren. Samtalet avslutas om '{{duration}}'. Vill du fortsätta samtalet?",
+    "settingsPrefix": "För att sluta se detta meddelande, gå till",
+    "settingsLink": "Inställningar > Allmänt",
+    "settingsSuffix": "Please provide the text you would like translated.",
+    "stayButton": "Fortsätt samtalet",
+    "leaveButton": "Lämna nu",
+    "countdownAnnouncement": "Samtal avslutas om '{{duration}}'."
+  },
+  "controls": {
+    "microphone": "Mikrofon",
+    "camera": "Kamera",
+    "chat": {
+      "open": "Stäng chatten",
+      "closed": "Öppna chatten",
+      "input": {
+        "textArea": {
+          "label": "Skriv ett meddelande",
+          "placeholder": "Skriv ett meddelande"
+        },
+        "button": {
+          "label": "Skicka meddelande"
+        }
+      }
+    },
+    "info": {
+      "open": "Dölj information",
+      "closed": "Visa information"
+    },
+    "hand": {
+      "raise": "Räck upp handen",
+      "lower": "Sänk handen"
+    },
+    "subtitles": {
+      "closed": "Visa undertexter",
+      "open": "Dölj undertexter"
+    },
+    "screenShare": {
+      "start": "Dela skärm",
+      "stop": "Stoppa skärmdelning"
+    },
+    "leave": "Lämna",
+    "participants": {
+      "open": "Dölj alla",
+      "closed": "Visa alla",
+      "count_one": "'{{count}}' deltagare",
+      "count_other": "'{{count}}' deltagare"
+    },
+    "tools": {
+      "open": "Dölj fler verktyg",
+      "closed": "Visa fler verktyg"
+    },
+    "admin": {
+      "open": "Dölj admin",
+      "closed": "Öppna admin"
+    },
+    "moreOptions": "Fler alternativ",
+    "reactions": {
+      "button": "Skicka reaktion",
+      "send": "Skicka reaktion '{{emoji}}'",
+      "announce": "'{{name}}' : '{{emoji}}'",
+      "you": "du",
+      "emojis": {
+        "thumbs-up": "tummen upp",
+        "thumbs-down": "Tummen ner",
+        "clapping-hands": "Klappa händerna",
+        "red-heart": "rött hjärta",
+        "face-with-tears-of-joy": "ansikte med glädjetårar",
+        "face-with-open-mouth": "Förvånad min",
+        "party-popper": "Party-popper",
+        "folded-hands": "Händer i bön"
+      }
+    }
+  },
+  "options": {
+    "buttonLabel": "Fler alternativ",
+    "items": {
+      "feedback": "Ge oss feedback",
+      "settings": "Inställningar",
+      "screenRecording": "Skärminspelning",
+      "transcript": "Transkription",
+      "username": "Uppdatera ditt namn",
+      "effects": "Bakgrunder och effekter",
+      "switchCamera": "Byt kamera",
+      "fullscreen": {
+        "enter": "Helskärm",
+        "exit": "Avsluta helskärmsläge"
+      },
+      "support": "Kontakta support"
+    }
+  },
+  "effects": {
+    "activateCamera": "Din kamera är avstängd. Välj ett alternativ för att aktivera den.",
+    "cameraDisabled": "Din kamera är avstängd.",
+    "notAvailable": "Videofilter kommer snart att finnas tillgängliga i din webbläsare. Vi arbetar på det! Under tiden kan du använda Google Chrome för bästa prestanda eller Firefox",
+    "heading": "Oskärpa",
+    "clear": "Inaktivera effekt",
+    "blur": {
+      "title": "Bakgrundsoskärpa",
+      "status": {
+        "none": "Bakgrund rensa.",
+        "light": "Bakgrund något suddig.",
+        "strong": "Bakgrund starkt suddig."
+      },
+      "light": {
+        "apply": "Suddig bakgrunden något",
+        "clear": "Inaktivera oskärpa"
+      },
+      "normal": {
+        "apply": "Suddig bakgrunden",
+        "clear": "Inaktivera suddighet"
+      }
+    },
+    "virtual": {
+      "title": "Virtuell bakgrund",
+      "selectedLabel": "Bakgrund tillämpad:",
+      "apply": "Byt bakgrund:",
+      "descriptions": {
+        "0": "Räfflade trämöbler",
+        "1": "Mötesrum",
+        "2": "Loft med svart glasvägg",
+        "3": "Matsal",
+        "4": "Trähyllor",
+        "5": "Trätrappa",
+        "6": "Grått bibliotek",
+        "7": "Kafferäknare"
+      }
+    },
+    "faceLandmarks": {
+      "title": "Visuella effekter",
+      "glasses": {
+        "apply": "Lägg till glasögon",
+        "clear": "Ta bort glasögon"
+      },
+      "french": {
+        "apply": "Lägg till fransk touch",
+        "clear": "Ta bort fransk touch"
+      }
+    }
+  },
+  "sidePanel": {
+    "ariaLabel": "Sidopanel",
+    "backToTools": "Tillbaka till mötesverktyg",
+    "heading": {
+      "participants": "Deltagare",
+      "effects": "Bakgrunder och effekter",
+      "chat": "Meddelanden i chatten",
+      "transcript": "Transkribera",
+      "screenRecording": "Spela in",
+      "admin": "Admininställningar",
+      "tools": "Fler verktyg",
+      "info": "Mötesinformation"
+    },
+    "content": {
+      "participants": "deltagare",
+      "effects": "Bakgrunder och effekter",
+      "chat": "Meddelanden",
+      "transcript": "transkribera",
+      "screenRecording": "Spela in",
+      "admin": "Admininställningar",
+      "tools": "fler verktyg",
+      "info": "mötesinformation"
+    },
+    "closeButton": "Dölj '{{content}}'"
+  },
+  "chat": {
+    "disclaimer": "Meddelandena är synliga för deltagarna endast när de skickas. Alla meddelanden raderas vid samtalets slut."
+  },
+  "moreTools": {
+    "body": "Få tillgång till fler verktyg för att förbättra dina möten.",
+    "moreLink": "Läs mer",
+    "tools": {
+      "transcript": {
+        "title": "Transkribera",
+        "body": "Spela in samtalet."
+      },
+      "screenRecording": {
+        "title": "Spela in",
+        "body": "Spela in mötet."
+      }
+    }
+  },
+  "info": {
+    "roomInformation": {
+      "title": "Anslutningsinformation",
+      "button": {
+        "ariaLabel": "Kopiera informationen från ditt möte",
+        "copy": "Kopiera information",
+        "copied": "Information kopierad"
+      },
+      "phone": {
+        "call": "Ring:",
+        "pinCode": "Kod:"
+      }
+    }
+  },
+  "transcript": {
+    "heading": "Transkribera ditt möte med AI-assistenten",
+    "body": "Transkribera upp till '{{max_duration}}' minuters mötestid.",
+    "bodyWithoutMaxDuration": "Transkribera ditt möte utan begränsningar.",
+    "details": {
+      "receiver": "Transkriptet kommer att skickas till värden och medvärdarna.",
+      "destination": "Ett nytt dokument kommer att skapas den",
+      "destinationUnknown": "Ett nytt dokument kommer att skapas",
+      "language": "Mötes språk:",
+      "recording": "Starta en inspelning"
+    },
+    "button": {
+      "start": "Börja transkribera mötet",
+      "stop": "Stoppa transkriberingen av mötet",
+      "saving": "Sparar…",
+      "starting": "Startar…",
+      "anotherModeStarted": "Skärminspelning pågår. Byt paneler och stoppa den."
+    },
+    "linkMore": "Läs mer",
+    "notAdminOrOwner": {
+      "heading": "Begränsad åtkomst",
+      "body": "Av säkerhetsskäl kan endast mötesskaparen eller en administratör starta en transkription (beta).",
+      "linkMore": "Läs mer",
+      "dividerLabel": "ELLER",
+      "login": {
+        "heading": "Inloggning krävs",
+        "body": "Endast mötesskaparen eller en administratör kan starta en transkription. Logga in för att verifiera dina behörigheter."
+      },
+      "request": {
+        "heading": "Begär transkription",
+        "body": "Värden kommer att meddelas och kan aktivera transkribering åt dig.",
+        "buttonLabel": "Begäran"
+      }
+    },
+    "premium": {
+      "heading": "Premiumfunktion",
+      "body": "Denna funktion är reserverad för offentliga agenter. Om din e-postadress inte är auktoriserad, kontakta support för att få åtkomst.",
+      "linkMore": "Läs mer",
+      "dividerLabel": "ELLER",
+      "login": {
+        "heading": "Du är inte inloggad!",
+        "body": "Du måste vara inloggad för att använda denna funktion. Logga in och försök igen."
+      },
+      "request": {
+        "heading": "Begär transkription",
+        "body": "Värden kommer att meddelas och kan aktivera transkribering åt dig.",
+        "buttonLabel": "Begäran"
+      }
+    }
+  },
+  "screenRecording": {
+    "heading": "Spela in samtalet för senare användning",
+    "body": "Spela in upp till '{{max_duration}}' av mötet.",
+    "bodyWithoutMaxDuration": "Spela in ditt möte utan begränsning.",
+    "linkMore": "Läs mer",
+    "details": {
+      "receiver": "Inspelningen kommer att skickas till värden och medvärdarna.",
+      "destination": "Denna inspelning kommer att lagras tillfälligt på våra servrar",
+      "loading": "Startar inspelning",
+      "linkMore": "Läs mer",
+      "transcription": "Transkribera denna inspelning"
+    },
+    "button": {
+      "start": "Starta inspelning av mötet",
+      "stop": "Stoppa inspelningen av mötet",
+      "saving": "Sparar…",
+      "starting": "Startar…",
+      "anotherModeStarted": "Transkribering pågår. <br/> Byt paneler och stoppa den."
+    },
+    "notAdminOrOwner": {
+      "heading": "Begränsad åtkomst",
+      "body": "Av säkerhetsskäl kan endast mötesskaparen eller en administratör starta en inspelning (beta).",
+      "linkMore": "Läs mer",
+      "dividerLabel": "ELLER",
+      "login": {
+        "heading": "Inloggning krävs",
+        "body": "Endast mötesskaparen eller en administratör kan starta skärminspelning. Logga in för att verifiera dina behörigheter."
+      },
+      "request": {
+        "heading": "Begär inspelning",
+        "body": "Värden meddelas och kan aktivera inspelning åt dig.",
+        "buttonLabel": "Begäran"
+      }
+    },
+    "durationMessage": "I'm sorry, but it seems like the text you want translated is missing. Could you please provide the text you need translated? {max_duration} "
+  },
+  "errorRecordingAlertDialog": {
+    "title": "Inspelning misslyckades",
+    "body": {
+      "stop": "Det gick inte att stoppa inspelningen. Försök igen om en stund.",
+      "start": "Det gick inte att starta inspelningen. Försök igen om en stund."
+    },
+    "button": "OK"
+  },
+  "admin": {
+    "description": "Dessa arrangörsinställningar låter dig behålla kontrollen över ditt möte. Endast arrangörer kan komma åt dessa kontroller.",
+    "access": {
+      "title": "Rumåtkomst",
+      "description": "Dessa inställningar kommer också att gälla för framtida tillfällen av detta möte.",
+      "type": "Åtkomsttyper för möten",
+      "levels": {
+        "public": {
+          "label": "Öppna",
+          "description": "Ingen behöver begära att få delta i mötet."
+        },
+        "trusted": {
+          "label": "Öppna för betrodda personer",
+          "description": "Auktoriserade personer behöver inte begära att få delta i mötet."
+        },
+        "restricted": {
+          "label": "Begränsad",
+          "description": "Personer som inte har blivit inbjudna till mötet måste begära att få delta."
+        }
+      }
+    },
+    "moderation": {
+      "title": "Mötesmoderering",
+      "description": "Dessa inställningar begränsar de åtgärder som deltagare kan utföra under mötet.",
+      "microphone": {
+        "label": "Slå på mikrofonen",
+        "description": ""
+      },
+      "camera": {
+        "label": "Aktivera video",
+        "description": ""
+      },
+      "screenshare": {
+        "label": "Dela deras skärm",
+        "description": "Om du inaktiverar det här alternativet kommer deltagare inte kunna dela sin skärm, och pågående skärmdelning stoppas omedelbart."
+      }
+    }
+  },
+  "rating": {
+    "submit": "Skicka in",
+    "question": "Vad tycker du om samtalets kvalitet?",
+    "levels": {
+      "min": "Mycket dålig",
+      "max": "Utmärkt"
+    }
+  },
+  "openFeedback": {
+    "question": "Vad kan vi göra för att förbättra oss?",
+    "placeholder": "Beskriv dina buggar eller dela dina förslag…",
+    "submit": "Skicka in",
+    "skip": "Hoppa över"
+  },
+  "confirmationMessage": {
+    "heading": "Tack för din inlämning",
+    "body": "Vårt produktteam granskar noggrant din feedback. Vi återkommer till dig så snart som möjligt."
+  },
+  "authenticationMessage": {
+    "heading": "Hur kan vi kontakta dig?",
+    "placeholder": "Din e-postadress",
+    "submit": "Skicka",
+    "ignore": "Ignorera"
+  },
+  "participants": {
+    "subheading": "I rummet",
+    "you": "Du",
+    "unknown": "Okänd deltagare",
+    "host": "Värd",
+    "contributors": "Bidragsgivare",
+    "collapsable": {
+      "open": "Öppna '{{name}}' lista",
+      "close": "Stäng '{{name}}' lista"
+    },
+    "muteYourself": "Stäng din mikrofon",
+    "muteParticipant": "Stäng mikrofonen för '{{name}}'",
+    "muteParticipantAlert": {
+      "heading": "Stäng av ljudet '{{name}}'",
+      "description": "Stäng av ljudet för '{{name}}' för alla deltagare? '{{name}}' kommer att vara den enda som kan slå på ljudet igen.",
+      "confirm": "Stäng av ljudet",
+      "cancel": "Avbryt"
+    },
+    "raisedHands": "Uppsträckta händer",
+    "lowerParticipantHand": "Sänk '{{name}}':s hand",
+    "lowerParticipantsHand": "Sänk alla händer",
+    "muteParticipants": "Stäng av alla mikrofoner",
+    "waiting": {
+      "title": "Lobby",
+      "accept": {
+        "button": "Acceptera",
+        "label": "Acceptera '{{name}}' till mötet",
+        "all": "Acceptera alla"
+      },
+      "deny": {
+        "button": "Neka",
+        "label": "Neka '{{name}}' från mötet",
+        "all": "Neka alla"
+      }
+    },
+    "moreOptions": "Fler alternativ"
+  },
+  "participantMenu": {
+    "remove": {
+      "label": "Ta bort från samtalet",
+      "ariaLabel": "Ta bort '{{name}}' från samtalet"
+    },
+    "unpin": {
+      "label": "Fäst inte",
+      "ariaLabel": "Ta bort fästning av '{{name}}'"
+    },
+    "pin": {
+      "label": "Fäst",
+      "ariaLabel": "Fäst '{{name}}'"
+    }
+  },
+  "pinAnnouncements": {
+    "pin": "Videon av '{{name}}' är fäst.",
+    "unpin": "Videon av '{{name}}' är inte längre fäst.",
+    "self": {
+      "pin": "Din video är fäst.",
+      "unpin": "Din video är inte längre fäst."
+    }
+  },
+  "recordingStateToast": {
+    "transcript": {
+      "started": "Transkribering",
+      "starting": "Transkription startar",
+      "stopping": "Transkribering stoppas"
+    },
+    "screen_recording": {
+      "started": "Inspelning pågår",
+      "starting": "Startar inspelning",
+      "stopping": "Stoppar inspelning"
+    },
+    "any": {
+      "started": "Inspelning pågår"
+    },
+    "limitReachedAlert": {
+      "title": "Inspelningsgräns överskriden",
+      "description": "Inspelningen har överskridit den maximalt tillåtna längden'{{duration_message}}'. Den sparas nu automatiskt.",
+      "durationMessage": " av '{{duration}}'",
+      "button": "OK"
+    }
+  },
+  "participantTileFocus": {
+    "containerLabel": "Alternativ för '{{name}}'",
+    "toolbarHint": "F2: gå till den nedre verktygsfältet.",
+    "pin": {
+      "enable": "Fäst",
+      "disable": "Fäst inte"
+    },
+    "effects": "Tillämpa bakgrunder och effekter",
+    "muteParticipant": "Stäng av ljudet '{{name}}'",
+    "fullScreen": "Helskärm"
+  },
+  "fullScreenWarning": {
+    "message": "För att undvika oändlig loopvisning, dela inte hela skärmen. Dela istället en flik eller ett annat fönster.",
+    "stop": "Sluta presentera",
+    "ignore": "Ignorera"
+  },
+  "participantTile": {
+    "screenShare": "'{{name}}'s skärm"
+  }
+}

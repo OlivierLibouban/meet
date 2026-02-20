@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Ieraksts nav pieejams",
+    "body": "Ieraksts nav pieejams vai var būt izdzēsts. Tikai sapulces organizators var tam piekļūt. Ja nepieciešams, sazinieties ar viņu."
+  },
+  "expired": {
+    "title": "Ieraksts beidzies",
+    "body": "Šis ieraksts tika izdzēsts '{{date}}'."
+  },
+  "authentication": {
+    "title": "Nepieciešama autentifikācija",
+    "body": "Lūdzu, piesakieties, lai piekļūtu šim ierakstam."
+  },
+  "unsaved": {
+    "title": "Lejupielāde nav pieejama",
+    "body": "Šis ieraksts vēl nav gatavs lejupielādei. Lūdzu, mēģiniet vēlreiz vēlāk."
+  },
+  "success": {
+    "title": "Jūsu ieraksts ir gatavs!",
+    "body": "Sapulces ieraksts '{{room}}' no '{{created_at}}'.",
+    "expiration": "Uzmanību, šis ieraksts beigsies pēc '{{expiration_days}}' dienas(-ām).",
+    "button": "Lejupielādēt",
+    "warning": {
+      "title": "Saites koplietošana atspējota",
+      "body": "Kopīgošana ar saiti vēl nav pieejama. Tikai organizatori var to lejupielādēt."
+    }
+  }
+}

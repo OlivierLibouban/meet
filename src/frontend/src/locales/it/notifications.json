@@ -1,0 +1,53 @@
+{
+  "defaultName": "Un collaboratore",
+  "joined": {
+    "description": "'{{name}}' si è unito alla stanza"
+  },
+  "raised": {
+    "description": "'{{name}}' ha alzato la mano.",
+    "cta": "Apri lista d'attesa"
+  },
+  "muted": "'{{name}}' ha disattivato il tuo microfono. Nessun partecipante può sentirti.",
+  "openChat": "Apri chat",
+  "lowerHand": {
+    "auto": "Sembra che tu abbia iniziato a parlare, quindi la tua mano verrà abbassata.",
+    "dismiss": "Mantieni la mano alzata"
+  },
+  "reaction": {
+    "description": "'{{name}}' ha reagito con '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "L'host ha disabilitato il video per tutti i partecipanti.",
+    "microphone": "L'host ha disattivato il microfono per tutti i partecipanti.",
+    "screen_share": "L'host ha disabilitato la condivisione dello schermo per tutti i partecipanti."
+  },
+  "waitingParticipants": {
+    "one": "Una persona vuole unirsi a questa chiamata.",
+    "several": "Diverse persone vogliono unirsi a questa chiamata.",
+    "open": "Apri",
+    "accept": "Accetta"
+  },
+  "transcript": {
+    "started": "'{{name}}' ha avviato la trascrizione della riunione.",
+    "stopped": "'{{name}}' ha interrotto la trascrizione della riunione.",
+    "limitReached": "La trascrizione ha superato la durata massima consentita e verrà salvata automaticamente.",
+    "requested": "'{{name}}' vuole avviare la trascrizione della riunione."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' ha avviato la registrazione della riunione.",
+    "stopped": "'{{name}}' ha interrotto la registrazione della riunione.",
+    "limitReached": "La registrazione ha superato la durata massima consentita e verrà salvata automaticamente.",
+    "requested": "'{{name}}' vuole avviare la registrazione della riunione."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "La tua registrazione è in fase di salvataggio! Invieremo la trascrizione a <strong>'{{email}}'</strong> appena sarà pronta.",
+      "default": "La tua registrazione è in fase di salvataggio! Invieremo la trascrizione al tuo indirizzo email appena pronta."
+    },
+    "screenRecording": {
+      "message": "La tua registrazione è in fase di salvataggio! Invieremo una notifica a <strong>'{{email}}'</strong> appena sarà pronta.",
+      "default": "La tua registrazione viene salvata! Ti invieremo una notifica via email appena sarà pronta."
+    }
+  },
+  "openMenu": "Apri menu"
+}

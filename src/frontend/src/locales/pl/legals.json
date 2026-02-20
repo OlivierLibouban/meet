@@ -1,0 +1,37 @@
+{
+  "title": "Informacja prawna",
+  "creator": {
+    "title": "Wydawca",
+    "body": "Usługa Visio jest publikowana przez Międzyresortowy Wydział Cyfryzacji Państwa (DINUM) z siedzibą w:",
+    "contact": {
+      "title": "Informacje kontaktowe",
+      "address": "20 avenue de Ségur",
+      "city": "75007 Paryż",
+      "phone": "Recepcja Tel.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (sekretariat generalny rządu)",
+      "siren": "SIREN: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Dyrektor publikacji",
+    "body": "Dyrektorem publikacji jest Pani Stéphanie Schaer, Dyrektor ds. Cyfryzacji Międzyresortowej."
+  },
+  "hosting": {
+    "title": "Hosting",
+    "body": "Usługa jest hostowana przez Outscale West-1 CloudGouv SecNumCloud zlokalizowaną we Francji."
+  },
+  "accessibility": {
+    "title": "Dostępność",
+    "body": "Zgodność z cyfrowymi standardami dostępności jest przyszłym celem. Strona nie została jeszcze poddana audytowi. Zespół dąży jednak do stworzenia strony dostępnej dla wszystkich, zgodnie z zaleceniami RGAA.",
+    "more": "Więcej informacji: ",
+    "link": "link do strony dostępności",
+    "status": "Status dostępności: niezgodny"
+  },
+  "reuse": {
+    "title": "Ponowne użycie treści i linki",
+    "body1": "O ile nie zaznaczono inaczej, prawa własności intelektualnej należące do stron trzecich, treści na tej stronie są udostępniane na podstawie ",
+    "license": "Licencja otwarta Etalab 2.0",
+    "body2": "Możesz swobodnie reprodukować, kopiować, modyfikować, wyodrębniać, przekształcać, komunikować, dystrybuować, redystrybuować, publikować, przesyłać i wykorzystywać je, pod warunkiem że podasz ich źródło, datę ostatniej aktualizacji i nie wprowadzisz w błąd osób trzecich co do zawartych w nich informacji.",
+    "body3": "Każda publiczna lub prywatna strona może bez wcześniejszej zgody ustanowić link (w tym link głęboki) do informacji udostępnionych na tej stronie."
+  }
+}

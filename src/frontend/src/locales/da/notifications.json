@@ -1,0 +1,53 @@
+{
+  "defaultName": "En bidragyder",
+  "joined": {
+    "description": "'{{name}}' er kommet ind i rummet"
+  },
+  "raised": {
+    "description": "'{{name}}' har rakt hånden op.",
+    "cta": "Åbn venteliste"
+  },
+  "muted": "'{{name}}' har slået din mikrofon fra. Ingen deltagere kan høre dig.",
+  "openChat": "Åbn chat",
+  "lowerHand": {
+    "auto": "Det ser ud til, at du er begyndt at tale, så din hånd vil blive sænket.",
+    "dismiss": "Hold hånden oppe"
+  },
+  "reaction": {
+    "description": "'{{name}}' reagerede med '{{emoji}}'"
+  },
+  "permissionsRemoved": {
+    "camera": "Værten har deaktiveret video for alle deltagere.",
+    "microphone": "Værten har deaktiveret mikrofonen for alle deltagere.",
+    "screen_share": "Værten har deaktiveret skærmdeling for alle deltagere."
+  },
+  "waitingParticipants": {
+    "one": "Én person vil deltage i dette opkald.",
+    "several": "Flere personer vil deltage i opkaldet.",
+    "open": "Åbn",
+    "accept": "Accepter"
+  },
+  "transcript": {
+    "started": "'{{name}}' startede møde-transskriptionen.",
+    "stopped": "'{{name}}' stoppede mødeafskriften.",
+    "limitReached": "Transskriptionen har overskredet den maksimalt tilladte varighed og vil blive gemt automatisk.",
+    "requested": "'{{name}}' vil starte mødeafskriften."
+  },
+  "screenRecording": {
+    "started": "'{{name}}' startede mødeoptagelsen.",
+    "stopped": "'{{name}}' stoppede mødeoptagelsen.",
+    "limitReached": "Optagelsen har overskredet den maksimalt tilladte varighed og vil blive gemt automatisk.",
+    "requested": "'{{name}}' vil starte mødeoptagelsen."
+  },
+  "recordingSave": {
+    "transcript": {
+      "message": "Din optagelse gemmes! Vi sender transskriptionen til <strong>'{{email}}'</strong>, så snart den er klar.",
+      "default": "Din optagelse gemmes! Vi sender transskriptionen til din e-mail, så snart den er klar."
+    },
+    "screenRecording": {
+      "message": "Din optagelse gemmes! Vi sender en meddelelse til <strong>'{{email}}'</strong>, så snart den er klar.",
+      "default": "Din optagelse gemmes! Vi sender en notifikation til din e-mail, så snart den er klar."
+    }
+  },
+  "openMenu": "Åbn menu"
+}

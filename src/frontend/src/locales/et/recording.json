@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Salvestus pole saadaval",
+    "body": "Salvestis pole saadaval või võib olla kustutatud. Ainult koosoleku korraldaja pääseb sellele ligi. Vajadusel võtke temaga ühendust."
+  },
+  "expired": {
+    "title": "Salvestus aegunud",
+    "body": "See salvestis kustutati kuupäeval '{{date}}'."
+  },
+  "authentication": {
+    "title": "Autentimine vajalik",
+    "body": "Logige sisse, et sellele salvestisele juurde pääseda."
+  },
+  "unsaved": {
+    "title": "Allalaadimine pole saadaval",
+    "body": "See salvestis pole veel allalaadimiseks valmis. Palun proovige hiljem uuesti."
+  },
+  "success": {
+    "title": "Teie salvestus on valmis!",
+    "body": "Koosoleku '{{room}}' salvestus alates '{{created_at}}'.",
+    "expiration": "Tähelepanu, see salvestis aegub '{{expiration_days}}' päeva pärast.",
+    "button": "Laadi alla",
+    "warning": {
+      "title": "Lingijagamine keelatud",
+      "body": "Salvestise jagamine lingi kaudu pole veel saadaval. Ainult korraldajad saavad selle alla laadida."
+    }
+  }
+}

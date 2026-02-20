@@ -1,0 +1,28 @@
+{
+  "error": {
+    "title": "Nagrywanie niedostępne",
+    "body": "Nagranie jest niedostępne lub mogło zostać usunięte. Tylko organizator spotkania ma do niego dostęp. Skontaktuj się z nim, jeśli to konieczne."
+  },
+  "expired": {
+    "title": "Nagranie wygasło",
+    "body": "Nagranie zostało usunięte dnia '{{date}}'."
+  },
+  "authentication": {
+    "title": "Wymagana autoryzacja",
+    "body": "Zaloguj się, aby uzyskać dostęp do tego nagrania."
+  },
+  "unsaved": {
+    "title": "Pobieranie niedostępne",
+    "body": "Nagranie nie jest jeszcze gotowe do pobrania. Spróbuj ponownie później."
+  },
+  "success": {
+    "title": "Twoje nagranie jest gotowe!",
+    "body": "Nagranie spotkania '{{room}}' z '{{created_at}}'.",
+    "expiration": "Uwaga, to nagranie wygaśnie po '{{expiration_days}}' dniu/dniach.",
+    "button": "Pobierz",
+    "warning": {
+      "title": "Udostępnianie linku wyłączone",
+      "body": "Udostępnianie nagrania za pomocą linku jest niedostępne. Tylko organizatorzy mogą je pobrać."
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "backToHome": "Tagasi avalehele",
+  "cancel": "Tühista",
+  "closeDialog": "Sulge dialoog",
+  "error": {
+    "heading": "Lehe laadimisel ilmnes viga"
+  },
+  "feedback": {
+    "context": "Teie tagasiside kujundab toodet!",
+    "cta": "Jaga oma tagasisidet - uus vahekaart"
+  },
+  "forbidden": {
+    "heading": "Teil ei ole luba selle lehe vaatamiseks"
+  },
+  "loading": "Laadimine…",
+  "loggedInUserTooltip": "Sisselogitud kui ",
+  "login": {
+    "buttonLabel": "Logi sisse",
+    "proconnectButtonLabel": "Logi sisse ProConnectiga",
+    "proconnectLinkLabel": "Mis on ProConnect? - uus vahekaart",
+    "proconnectLink": "Mis on ProConnect?"
+  },
+  "logout": "Logi välja",
+  "notFound": {
+    "heading": "Kinnita oma koosolekukood",
+    "body": "Kontrollige, et olete URL-is sisestanud õige koosolekukoodi. Näide:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Õigusteade",
+      "data": "Isikuandmed ja küpsised",
+      "accessibility": "Juurdepääsetavus: mittevastav",
+      "ariaLabel": "uus aken",
+      "codeAnnotation": "Meie kood on avatud ja saadaval siin",
+      "code": "Ava lähtekoodi hoidla",
+      "technicalDetails": "Tehniline teade",
+      "termsOfService": "Kasutustingimused"
+    },
+    "mentions": "Kui pole teisiti märgitud, on selle saidi sisu saadaval järgmistel tingimustel",
+    "license": "etalab 2.0 litsents"
+  },
+  "loginHint": {
+    "title": "Logi sisse oma ProConnecti kontoga",
+    "body": "Selle asemel, et oodata, logi sisse oma ProConnecti kontoga.",
+    "button": {
+      "ariaLabel": "Sulge soovitus",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "Videokonverentsiga liitumiseks klõpsake sellel lingil: '{{roomUrl}}'",
+    "numberAndPin": "Telefoniga liitumiseks helista numbril '{{phoneNumber}}' ja sisesta see kood: '{{pinCode}}'"
+  }
+}

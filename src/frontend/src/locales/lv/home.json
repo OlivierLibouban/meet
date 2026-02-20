@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Izveidot sapulci",
+  "heading": "Vienkārša un droša video konference",
+  "intro": "Komunicējiet un strādājiet viegli, nezaudējot savu suverenitāti",
+  "joinInputError": "Izmantojiet sapulces saiti vai kodu. Piemēri:",
+  "joinInputExample": "URL vai 10 burtu kods",
+  "joinInputLabel": "Sapulces saite",
+  "joinInputSubmit": "Pievienoties sapulcei",
+  "joinMeeting": "Pievienoties sapulcei",
+  "joinMeetingTipContent": "Jūs varat pievienoties sapulcei, ielīmējot tās pilno saiti pārlūkprogrammas adreses joslā.",
+  "joinMeetingTipHeading": "Vai jūs zinājāt?",
+  "loginToCreateMeeting": "Pieslēgties, lai izveidotu sapulci",
+  "moreLinkLabel": "Uzzināt vairāk - jaunā cilnē",
+  "moreLink": "Uzzināt vairāk",
+  "moreAbout": "apmēram '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Izveidot sapulci vēlākam datumam",
+    "instantOption": "Sākt tūlītēju sapulci"
+  },
+  "laterMeetingDialog": {
+    "heading": "Jūsu savienojuma dati",
+    "description": "Kopīgojiet šo informāciju ar viesiem. Viņi varēs pievienoties sapulcei bez pierakstīšanās. Šī sapulce ir pastāvīga un to var atkārtoti izmantot.",
+    "permissions": "Cilvēkiem ar šo saiti nav nepieciešama jūsu atļauja, lai pievienotos šai sapulcei.",
+    "copy": "Kopēt informāciju",
+    "copied": "Informācija nokopēta starpliktuvē",
+    "copyUrl": "Kopēt sapulces saiti",
+    "phone": {
+      "call": "Zvanīt:",
+      "pinCode": "Kods:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Iepriekšējais",
+      "tooltip": "Iepriekšējais"
+    },
+    "next": {
+      "label": "Nākamais",
+      "tooltip": "Nākamais"
+    },
+    "beta": {
+      "text": "Pievienoties beta versijai",
+      "tooltip": "Aizpildiet veidlapu"
+    },
+    "slide1": {
+      "title": "Pārejiet uz vienkāršību. Izmēģiniet mūs tagad!",
+      "body": "Atklājiet intuitīvu un pieejamu risinājumu, kas paredzēts visiem valsts aģentiem, viņu partneriem un daudz kam citam."
+    },
+    "slide2": {
+      "title": "Rīkojiet grupas zvanus bez ierobežojumiem",
+      "body": "Neierobežota laika sapulces, ar vienmērīgu un augstas kvalitātes saziņu, neatkarīgi no grupas lieluma."
+    },
+    "slide3": {
+      "title": "Pārveidojiet savas sapulces ar AI",
+      "body": "Iegūstiet precīzus un praktiski izmantojamus transkriptus, lai palielinātu produktivitāti. Funkcija beta versijā — izmēģiniet to tagad!"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "account": {
+    "currentlyLoggedAs": "Attualmente sei connesso come <0>'{{user}}'</0>",
+    "heading": "Account",
+    "youAreNotLoggedIn": "Non sei connesso.",
+    "nameLabel": "Il tuo nome",
+    "authentication": "Autenticazione",
+    "nameError": "Il tuo nome non può essere vuoto"
+  },
+  "preferences": {
+    "title": "Preferenze",
+    "idleDisconnectModal": {
+      "label": "Lascia le chiamate senza partecipanti",
+      "description": "Abbandona automaticamente la chiamata dopo alcuni minuti se nessun altro partecipa"
+    }
+  },
+  "audio": {
+    "microphone": {
+      "heading": "Microfono",
+      "label": "Seleziona l'ingresso audio",
+      "disabled": "Microfono disattivato"
+    },
+    "noiseReduction": {
+      "label": "Riduzione rumore",
+      "heading": "Riduzione rumore",
+      "ariaLabel": {
+        "enable": "Abilita riduzione rumore",
+        "disable": "Disattiva riduzione rumore"
+      }
+    },
+    "speakers": {
+      "heading": "Altoparlanti",
+      "label": "Seleziona l'uscita audio",
+      "test": "Prova",
+      "ongoingTest": "Test audio…",
+      "safariWarning": "La selezione degli altoparlanti non è ancora disponibile su Safari a causa delle limitazioni del browser."
+    },
+    "permissionsRequired": "Autorizzazioni richieste"
+  },
+  "video": {
+    "camera": {
+      "heading": "Fotocamera",
+      "label": "Seleziona l'ingresso video",
+      "disabled": "Fotocamera disattivata",
+      "previewAriaLabel": {
+        "enabled": "Anteprima video abilitata",
+        "disabled": "Anteprima video disabilitata"
+      }
+    },
+    "resolution": {
+      "heading": "Risoluzione",
+      "publish": {
+        "label": "Seleziona la risoluzione di invio (max)",
+        "items": {
+          "high": "Alta definizione",
+          "medium": "Definizione standard",
+          "low": "Bassa definizione"
+        }
+      },
+      "subscribe": {
+        "label": "Seleziona la risoluzione di ricezione (max.)",
+        "items": {
+          "high": "Alta definizione (automatica)",
+          "medium": "Definizione standard",
+          "low": "Bassa definizione"
+        }
+      }
+    },
+    "permissionsRequired": "Autorizzazioni richieste"
+  },
+  "transcription": {
+    "heading": "Trascrizione",
+    "language": {
+      "label": "Lingua riunione",
+      "options": {
+        "french": "Francese (fr)",
+        "english": "Italiano (it)",
+        "dutch": "Olandese (nl)",
+        "german": "Tedesco (de)",
+        "auto": "Automatico"
+      }
+    }
+  },
+  "notifications": {
+    "heading": "Notifiche sonore",
+    "label": "notifiche sonore per",
+    "actions": {
+      "disable": "Disattiva",
+      "enable": "Abilita"
+    },
+    "items": {
+      "participantJoined": {
+        "label": "Partecipante unito"
+      },
+      "handRaised": {
+        "label": "Mano alzata"
+      },
+      "messageReceived": {
+        "label": "Messaggio ricevuto"
+      }
+    }
+  },
+  "dialog": {
+    "heading": "Impostazioni"
+  },
+  "language": {
+    "heading": "Lingua",
+    "label": "Lingua"
+  },
+  "settingsButtonLabel": "Impostazioni",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Annuncia reazioni ad alta voce"
+    }
+  },
+  "tabs": {
+    "account": "Profilo",
+    "audio": "Audio",
+    "video": "Video",
+    "general": "Generale",
+    "notifications": "Notifiche",
+    "accessibility": "Accessibilità",
+    "transcription": "Trascrizione"
+  }
+}

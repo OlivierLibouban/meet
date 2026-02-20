@@ -1,0 +1,129 @@
+{
+  "title": "Naudojimo sąlygos Visio",
+  "articles": {
+    "article1": {
+      "title": "Apimtis",
+      "content": "Šis dokumentas apibrėžia Visio (toliau – „Visio“ arba „programėlė“), vaizdo konferencijų programėlės, specialiai sukurtos valstybės administracijoms ir jų priežiūros institucijoms, naudojimo sąlygas."
+    },
+    "article2": {
+      "title": "2. Programos paskirtis",
+      "content": "„Visio“ padeda skatinti bendradarbiavimą tarp valstybės administracijų ir jų priežiūros institucijų komandų, palaiko nuotolinį darbą ir palengvina susitikimų, konferencijų ar mokymų organizavimą.",
+      "paragraphs": [
+        "Visio sukūrė ir valdo Tarpministerinė skaitmeninių reikalų direktoratas (DINUM).",
+        "Programėlę DINUM teikia valstybės administracijoms ir jų prižiūrimoms įstaigoms, kad ja naudotųsi jų darbuotojai, partneriai ir pakviesti paslaugų teikėjai.",
+        "Bet koks „Visio“ naudojimas turi atitikti šias naudojimo sąlygas ir, jei taikoma, atitinkamos priežiūros administracijos naudojimo politiką."
+      ]
+    },
+    "article3": {
+      "title": "3. Apibrėžimai",
+      "paragraphs": [
+        "Visio yra produktas, kurio naudojimas aprašytas šiose sąlygose ir pateiktas šiame puslapyje: https://visio.numerique.gouv.fr.",
+        "Visio naudotojai yra bet kurie asmenys, naudojantys Visio vaizdo konferencijoms, nesvarbu, ar jie yra darbuotojai, partneriai, ar paslaugų teikėjai atitinkamose administracijose. Prižiūrinti administracija yra Valstybės administracija arba jos prižiūrima institucija, kuri suteikia Visio savo darbuotojams, partneriams ar paslaugų teikėjams.",
+        "Kambario organizatoriai yra naudotojai, atsakingi už vaizdo konferencijų kambarį prisijungę per ProConnect."
+      ]
+    },
+    "article4": {
+      "title": "4. Prieiga prie programos",
+      "definition": "Visio vartotojams suteikia prieigą jų prižiūrinti administracija. Organizatoriai gali dalintis nuoroda, suteikiančia prieigą prie kambario, su bet kuriuo asmeniu, už kurį jie atsako."
+    },
+    "article5": {
+      "title": "5. Funkcijos",
+      "sections": {
+        "section1": {
+          "title": "5.1. Funkcijos, prieinamos organizatoriams",
+          "content": "„Visio“ leidžia valstybės administracijų darbuotojams ir jų prižiūrimoms įstaigoms sukurti vaizdo konferencijų kambarį iš standartinės darbo vietos, susietos su jų „ProConnect“ paskyra.",
+          "paragraph1": "Bet kuris valstybės darbuotojas ar valstybės priežiūrai priklausančios įstaigos darbuotojas, kurio veikla suderinama su Visio naudojimu arba kuriam netaikomi specifiniai konfidencialumo ar profesinės paslapties įsipareigojimai, gali sukurti ir organizuoti vaizdo konferenciją. Tada jie gali pasidalinti susitikimo nuoroda su kitais asmenimis, vartotojais, nepriklausomai nuo to, ar jie priklauso administracijai.",
+          "paragraph2": "Šiuo tikslu kiekvienas kambario organizatorius gali:",
+          "capabilities": [
+            "Apsaugokite prieigą prie kambario laukiamuoju kambariu;",
+            "Įleisti kiekvieną vartotoją į kambarį",
+            "Nutildyti naudotojų mikrofonus ir kameras",
+            "Pašalinti vartotoją iš kambario;",
+            "Naudokite susitikimo transkripcijos įrankį tik gavę vartotojų sutikimą, jų atsakomybe."
+          ],
+          "paragraph3": "Tik darbuotojai, kurių „ProConnect“ paskyra priklauso domenui, įgaliotam organizuoti kambarius „Visio“, arba kuriems netaikomi konkretūs konfidencialumo ar profesinės paslapties įsipareigojimai, gali naudoti arba valdyti programą ir jos funkcijas.",
+          "paragraph4": "Automatinio transkripcijos įrankį gali naudoti organizatoriai iš kambario nustatymų meniu. Organizatoriai atsako už dalyvių sutikimą transkribuojamame susitikime. Transkripcijos kalbą galima pakeisti tame pačiame meniu. Susitikimo pabaigoje organizatoriui siunčiama nuoroda, kad galėtų pasiekti transkripciją, saugomą įrankyje „Docs“, kurį valdo DINUM."
+        },
+        "section2": {
+          "title": "5.2. Vartotojams prieinamos funkcijos",
+          "content": "Visio leidžia bet kuriam vartotojui, nesvarbu, ar jis yra viešasis pareigūnas, ar ne, dalyvauti bet kuriame Visio kambaryje, į kurį jį pakvietė organizatorius, ir naudotis jo funkcijomis.",
+          "paragraph": "Šiuo tikslu kiekvienas naudotojas gali:",
+          "capabilities": [
+            "Įveskite rodomą vardą, kai prisijungiate prie kambario",
+            "Bendraukite nuotoliniu būdu per garsą ir/ar vaizdą",
+            "Bendrinti jų ekraną",
+            "Keiskitės žinutėmis viešai su visais kambario naudotojais sesijos metu;",
+            "Pasiekite techninę informaciją apie kambarį ir prieinamumo funkcijas",
+            "Bet kuriuo metu įjunkite arba išjunkite jų kamerą ir/arba mikrofoną",
+            "Apsaugokite aplinkos privatumą, kai kamera įjungta, pasirinkdami ir aktyvuodami foną prieš įeidami į kambarį arba vaizdo konferencijos metu."
+          ]
+        }
+      }
+    },
+    "article6": {
+      "title": "6. Vartotojų įsipareigojimai ir atsakomybės",
+      "sections": {
+        "section1": {
+          "title": "6.1 Leidžiami naudojimo būdai",
+          "paragraphs": [
+            "„Visio“ teikiama siekiant palengvinti profesinius mainus tarp valstybės administracijų darbuotojų, jų prižiūrimų įstaigų ir išorinių bendradarbių.",
+            "Vartotojai yra atsakingi už vaizdus ir garsus, kuriuos jie padaro prieinamus vaizdo konferencijų kambaryje. Ši atsakomybė taikoma tiek tam, ką jų kamera ar mikrofonas gali transliuoti, tiek tam, ką jų įrenginys gali padaryti prieinamą trečiosioms šalims. Todėl vartotojai turi naudoti programą profesionalioje aplinkoje ir neturi atskleisti jokios informacijos, kurią apima profesinės konfidencialumo pareigos, trečiosioms šalims (pavyzdžiui: privatumo filtrų, ausinių naudojimas ir kt.).",
+            "Vartotojai yra atsakingi už duomenis ar turinį, kurį įveda į kambario žinučių paslaugą. Jie turi užtikrinti, kad būtų įvedamos tik tinkamos žinutės."
+          ]
+        },
+        "section2": {
+          "title": "6.2 Draudžiami naudojimo būdai",
+          "paragraphs": [
+            "Vartotojai įsipareigoja nenaudoti Visio kambario žinučių paslaugos ir neplatinti vaizdais ar garsu jokio turinio ar informacijos, pažeidžiančios galiojančius įstatymus ir taisykles."
+          ]
+        }
+      }
+    },
+    "article7": {
+      "title": "7. DINUM įsipareigojimai ir atsakomybės",
+      "sections": {
+        "section1": {
+          "title": "7.1. Programos saugumas",
+          "paragraphs": [
+            "DINUM įsipareigoja užtikrinti Visio saugumą, ypač imdamasi visų būtinų priemonių mainų saugumui ir konfidencialumui užtikrinti.",
+            "Programa yra sertifikuota pagal pakeisto Dekreto Nr. 2010-112 sąlygas."
+          ]
+        },
+        "section2": {
+          "title": "7.2. Prieiga prie programos",
+          "paragraphs": [
+            "DINUM įsipareigoja suteikti būtinas ir pagrįstas priemones, užtikrinančias nuolatinę prieigą prie programos.",
+            "Programa pasiekiama visą parą, išskyrus priežiūros laiką.",
+            "DINUM siekia, kad metinis programos prieinamumo rodiklis būtų 99,5%, neįskaitant planuoto prastovos laiko. Įvykus incidentui ar atliekant priežiūrą, siekiama atkurti per 72 valandas ne darbo metu.",
+            "Kaip dalis programos vykdymo aplinkos priežiūros, DINUM pasilieka teisę laikinai sustabdyti programos veikimą. Kai įmanoma, vartotojai bus informuoti bent prieš 48 valandas. Avariniais atvejais toks sustabdymas gali įvykti be išankstinio įspėjimo.",
+            "Šie išskirtiniai sutrikimai gali būti reikalingi, pavyzdžiui, duomenų valdymo operacijoms, gamybos leidimams ar architektūriniams pakeitimams.",
+            "Programos nepasiekiamumas nesuteikia vartotojams teisės į kompensaciją."
+          ]
+        },
+        "section3": {
+          "title": "7.3. Palaikymo valdymas",
+          "paragraphs": [
+            "DINUM teikia pirmo lygio pagalbą vartotojams, tik techniniais programos aspektais.",
+            "Šią pagalbą galima pasiekti per internetinę kontaktinę formą.",
+            "Tikslinis atsakymo laikas į užklausas yra dvi darbo dienos nuo el. laiško išsiuntimo; šis laikotarpis gali skirtis priklausomai nuo sudėtingumo ir užklausų skaičiaus."
+          ]
+        },
+        "section4": {
+          "title": "7.4. Programos naudojimo stebėjimas",
+          "paragraphs": [
+            "DINUM pasilieka teisę sustabdyti arba ištrinti naudotojo paskyrą, jei nesilaikoma šių naudojimo sąlygų, nepažeidžiant jokių baudžiamųjų ar civilinių atsakomybės veiksmų, kurie gali būti pradėti prieš atitinkamą asmenį. Informacija gali būti perduota naudotojo priežiūros administracijai, kuri atsakinga už programos prieinamumą.",
+            "Vienos ar kelių paskyrų sustabdymas ar panaikinimas nesuteikia teisės į jokio pobūdžio kompensaciją."
+          ]
+        },
+        "section5": {
+          "title": "7.5. Atvirojo kodo ir licencijos",
+          "content": "Paslaugos šaltinio kodas yra atviras ir pasiekiamas čia: https://github.com/suitenumerique/meet. DINUM pateiktas turinys yra licencijuotas pagal Atvirąją licenciją 2.0, išskyrus logotipus ir ikonografinius ar fotografinius vaizdus, kurie gali būti valdomi pagal jų pačių licencijas."
+        }
+      }
+    },
+    "article8": {
+      "title": "8. Naudojimo sąlygų pakeitimai",
+      "content": "Šios naudojimo sąlygos gali būti pakeistos ar papildytos bet kuriuo metu, be įspėjimo, atsižvelgiant į paslaugos pakeitimus, teisės aktų pokyčius ar dėl kitų priežasčių, kurios laikomos būtinos. Šie pakeitimai ir atnaujinimai yra privalomi vartotojui, todėl jis turi reguliariai tikrinti šį skyrių, kad patikrintų galiojančias sąlygas."
+    }
+  }
+}

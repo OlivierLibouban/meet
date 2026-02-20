@@ -1,0 +1,59 @@
+{
+  "backToHome": "Powrót do ekranu głównego",
+  "cancel": "Anuluj",
+  "closeDialog": "Zamknij okno dialogowe",
+  "error": {
+    "heading": "Wystąpił błąd podczas ładowania strony"
+  },
+  "feedback": {
+    "context": "Twoja opinia kształtuje produkt!",
+    "cta": "Udostępnij swoją opinię - nowa karta"
+  },
+  "forbidden": {
+    "heading": "Nie masz uprawnień do wyświetlenia tej strony"
+  },
+  "loading": "Ładowanie…",
+  "loggedInUserTooltip": "Zalogowany jako ",
+  "login": {
+    "buttonLabel": "Zaloguj się",
+    "proconnectButtonLabel": "Zaloguj się przez ProConnect",
+    "proconnectLinkLabel": "Czym jest ProConnect? - nowa karta",
+    "proconnectLink": "Czym jest ProConnect?"
+  },
+  "logout": "Wyloguj się",
+  "notFound": {
+    "heading": "Zweryfikuj kod spotkania",
+    "body": "Sprawdź, czy wprowadziłeś poprawny kod spotkania w URL. Przykład:"
+  },
+  "submit": "OK",
+  "footer": {
+    "links": {
+      "legifrance": "legifrance.gouv.fr",
+      "infogouv": "info.gouv.fr",
+      "servicepublic": "service-public.fr",
+      "datagouv": "data.gouv.fr",
+      "legalsTerms": "Informacja prawna",
+      "data": "Dane osobowe i pliki cookie",
+      "accessibility": "Dostępność: niezgodne",
+      "ariaLabel": "nowe okno",
+      "codeAnnotation": "Nasz kod jest otwarty i dostępny tutaj",
+      "code": "Otwórz Repozytorium Kodów Źródłowych",
+      "technicalDetails": "Powiadomienie techniczne",
+      "termsOfService": "Warunki usługi"
+    },
+    "mentions": "O ile nie zaznaczono inaczej, zawartość tej strony jest dostępna na warunkach",
+    "license": "licencja etalab 2.0"
+  },
+  "loginHint": {
+    "title": "Zaloguj się za pomocą konta ProConnect",
+    "body": "Zamiast czekać, zaloguj się na swoje konto ProConnect.",
+    "button": {
+      "ariaLabel": "Zamknij sugestię",
+      "label": "OK"
+    }
+  },
+  "clipboardContent": {
+    "url": "Aby dołączyć do wideokonferencji, kliknij ten link: '{{roomUrl}}'",
+    "numberAndPin": "Aby dołączyć przez telefon, wybierz '{{phoneNumber}}' i wprowadź ten kod: '{{pinCode}}'"
+  }
+}

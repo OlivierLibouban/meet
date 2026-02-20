@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Crea riunione",
+  "heading": "Videoconferenza Semplice e Sicura",
+  "intro": "Comunica e lavora facilmente, senza compromettere la tua sovranità",
+  "joinInputError": "Usa un link o un codice della riunione. Esempi:",
+  "joinInputExample": "URL o codice di 10 lettere",
+  "joinInputLabel": "Link riunione",
+  "joinInputSubmit": "Partecipa alla riunione",
+  "joinMeeting": "Partecipa a una riunione",
+  "joinMeetingTipContent": "Puoi partecipare a una riunione incollando il link completo nella barra degli indirizzi del browser.",
+  "joinMeetingTipHeading": "Lo sapevi?",
+  "loginToCreateMeeting": "Accedi per creare una riunione",
+  "moreLinkLabel": "Scopri di più - nuova scheda",
+  "moreLink": "Scopri di più",
+  "moreAbout": "circa '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Crea una riunione per una data successiva",
+    "instantOption": "Avvia una riunione istantanea"
+  },
+  "laterMeetingDialog": {
+    "heading": "I tuoi dettagli di connessione",
+    "description": "Condividi queste informazioni con gli ospiti. Potranno partecipare alla riunione senza dover accedere. Questa riunione è permanente e può essere riutilizzata.",
+    "permissions": "Le persone con questo link non hanno bisogno del tuo permesso per partecipare a questa riunione.",
+    "copy": "Copia informazioni",
+    "copied": "Informazioni copiate negli appunti",
+    "copyUrl": "Copia il link della riunione",
+    "phone": {
+      "call": "Chiama:",
+      "pinCode": "Codice:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Precedente",
+      "tooltip": "Precedente"
+    },
+    "next": {
+      "label": "Avanti",
+      "tooltip": "Avanti"
+    },
+    "beta": {
+      "text": "Partecipa alla beta",
+      "tooltip": "Compila il modulo"
+    },
+    "slide1": {
+      "title": "Passa alla semplicità. Prova ora!",
+      "body": "Scopri una soluzione intuitiva e accessibile, progettata per tutti gli agenti pubblici, i loro partner e molto altro."
+    },
+    "slide2": {
+      "title": "Ospita chiamate di gruppo senza limiti",
+      "body": "Riunioni illimitate, con comunicazione fluida e di alta qualità, indipendentemente dalla dimensione del gruppo."
+    },
+    "slide3": {
+      "title": "Trasforma le tue riunioni con l'IA",
+      "body": "Ottieni trascrizioni accurate e utili per aumentare la tua produttività. Funzione in beta—provala ora!"
+    }
+  }
+}

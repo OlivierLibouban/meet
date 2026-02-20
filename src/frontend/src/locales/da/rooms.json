@@ -1,0 +1,606 @@
+{
+  "feedback": {
+    "heading": {
+      "normal": "Du har forladt mødet",
+      "duplicateIdentity": "Du har deltaget i mødet fra en anden enhed",
+      "participantRemoved": "Du er blevet fjernet fra mødet af en administrator"
+    },
+    "home": "Tilbage til start",
+    "back": "Deltag i mødet igen"
+  },
+  "selectDevice": {
+    "loading": "Indlæser…",
+    "select": "Vælg en værdi",
+    "permissionsNeeded": "Tilladelse nødvendig",
+    "settings": {
+      "audio": "Lydindstillinger",
+      "video": "Videoindstillinger"
+    },
+    "effects": "Baggrunde og effekter",
+    "videoinput": {
+      "choose": "Vælg kamera",
+      "permissionsNeeded": "Vælg kamera - tilladelse nødvendig",
+      "disable": "Deaktiver kamera",
+      "enable": "Aktivér kamera",
+      "label": "Kamera",
+      "placeholder": "Aktivér kamera for at se forhåndsvisning"
+    },
+    "audioinput": {
+      "choose": "Vælg mikrofon",
+      "permissionsNeeded": "Vælg mikrofon - tilladelse nødvendig",
+      "disable": "Deaktiver mikrofon",
+      "enable": "Aktivér mikrofon",
+      "label": "Mikrofon"
+    },
+    "audiooutput": {
+      "choose": "Vælg højttaler",
+      "permissionsNeeded": "Vælg højttaler - tilladelse nødvendig"
+    }
+  },
+  "join": {
+    "effects": {
+      "description": "Anvend baggrunde og effekter",
+      "title": "Effekter",
+      "subTitle": "Konfigurer kameraets effekter."
+    },
+    "heading": "Deltag i mødet?",
+    "joinLabel": "Deltag",
+    "joinMeeting": "Deltag i møde",
+    "toggleOff": "Klik for at slukke",
+    "toggleOn": "Klik for at tænde",
+    "usernameHint": "Vises for andre deltagere",
+    "usernameLabel": "Dit navn",
+    "errors": {
+      "usernameEmpty": "Dit navn må ikke være tomt"
+    },
+    "cameraDisabled": "Kamera er deaktiveret.",
+    "cameraStarting": "Kameraet starter…",
+    "cameraNotGranted": "Vil du give andre mulighed for at se dig under mødet?",
+    "cameraAndMicNotGranted": "Vil du give andre mulighed for at se og høre dig under mødet?",
+    "permissionsButton": {
+      "cameraAndMicNotGranted": "Tillad adgang til kamera og mikrofon",
+      "cameraNotGranted": "Tillad adgang til kamera"
+    },
+    "videoPreview": {
+      "enabled": "Videoforhåndsvisning aktiveret",
+      "disabled": "Videoforhåndsvisning deaktiveret"
+    },
+    "waiting": {
+      "title": "Anmoder om at deltage...",
+      "body": "Du kan deltage i opkaldet, når nogen godkender dig"
+    },
+    "denied": {
+      "title": "Du kan ikke deltage i dette opkald",
+      "body": "Din anmodning om at deltage er blevet afvist."
+    },
+    "timeoutInvite": {
+      "title": "Du kan ikke deltage i dette opkald",
+      "body": "Ingen svarede på din anmodning"
+    }
+  },
+  "leaveRoomPrompt": "Dette vil få dig til at forlade mødet.",
+  "shareDialog": {
+    "copy": "Kopiér oplysninger",
+    "copyUrl": "Kopiér link",
+    "copied": "Oplysninger kopieret til udklipsholder",
+    "heading": "Dit møde er klar",
+    "description": "Del dette link med personer, du vil invitere til mødet.",
+    "permissions": "Personer med dette link behøver ikke din tilladelse for at deltage i mødet.",
+    "closeDialog": "Luk dialog",
+    "phone": {
+      "call": "Ring:",
+      "pinCode": "Kode:"
+    }
+  },
+  "pagination": {
+    "count": "'{{currentPage}}' af '{{totalPageCount}}'",
+    "next": "næste side",
+    "previous": "forrige side"
+  },
+  "mediaErrorDialog": {
+    "DeviceInUse": {
+      "title": {
+        "audioinput": "Aktivering af mikrofon mislykkedes",
+        "videoinput": "Kameraaktivering mislykkedes"
+      },
+      "body": {
+        "audioinput": "Din mikrofon bruges allerede af en anden fane eller applikation, hvilket forhindrer den i at blive aktiveret i dette videoopkald. Luk den anden fane eller applikation for at bruge den her, hvis du ønsker det.",
+        "videoinput": "Dit kamera bruges allerede af en anden fane eller applikation, hvilket forhindrer det i at blive aktiveret i dette videoopkald. Luk den anden fane eller applikation for at bruge det her."
+      }
+    },
+    "close": "OK"
+  },
+  "permissionErrorDialog": {
+    "heading": {
+      "camera": "'{{appTitle}}' har ikke tilladelse til at bruge dit kamera",
+      "microphone": "'{{appTitle}}' har ikke tilladelse til at bruge din mikrofon",
+      "cameraAndMicrophone": "'{{appTitle}}' har ikke tilladelse til at bruge din mikrofon eller kamera",
+      "default": "'{{appTitle}}' har ikke tilladelse til at bruge visse tilladelser"
+    },
+    "body": {
+      "openMenu": {
+        "others": "Klik på indstillingsikonet ICON_PLACEHOLDER i din browsers adresselinje",
+        "safari": "Klik på 'Safari'-menuen, og åbn 'Indstillinger for '{{appDomain}}'."
+      },
+      "details": {
+        "camera": "Tillad adgang til kameraet",
+        "microphone": "Tillad adgang til mikrofonen",
+        "cameraAndMicrophone": "Tillad adgang til kamera og mikrofon",
+        "default": "Aktivér de nødvendige tilladelser."
+      }
+    }
+  },
+  "permissionsButton": {
+    "tooltip": "Mere info",
+    "ariaLabel": "Tilladelsesproblem. Vis flere oplysninger"
+  },
+  "error": {
+    "createRoom": {
+      "heading": "Godkendelse påkrævet",
+      "body": "Dette rum er ikke oprettet endnu. Godkend for at oprette det, eller vent på en godkendt bruger."
+    },
+    "screenShare": {
+      "title": "Kan ikke dele din skærm",
+      "ariaLabel": "Kan ikke dele din skærm",
+      "message": "Din browser har muligvis ikke tilladelse til at optage skærmen på din computer.",
+      "macInstructions": "Gå til din",
+      "macSystemPreferences": "Systemindstillinger",
+      "helpLinkText": "For at lære mere, se",
+      "helpLinkLabel": "Præsentationsproblem",
+      "closeButton": "Afvis",
+      "newTab": "Nyt vindue"
+    }
+  },
+  "isIdleDisconnectModal": {
+    "title": "Er du der stadig?",
+    "body": "Du er den eneste deltager. Dette opkald afsluttes om '{{duration}}'. Vil du fortsætte opkaldet?",
+    "settingsPrefix": "For at stoppe med at se denne meddelelse, gå til",
+    "settingsLink": "Indstillinger > Generelt",
+    "settingsSuffix": "Please provide the text you would like translated.",
+    "stayButton": "Fortsæt opkaldet",
+    "leaveButton": "Forlad nu",
+    "countdownAnnouncement": "Opkald slutter om '{{duration}}'."
+  },
+  "controls": {
+    "microphone": "Mikrofon",
+    "camera": "Kamera",
+    "chat": {
+      "open": "Luk chatten",
+      "closed": "Åbn chatten",
+      "input": {
+        "textArea": {
+          "label": "Indtast en besked",
+          "placeholder": "Indtast en besked"
+        },
+        "button": {
+          "label": "Send besked"
+        }
+      }
+    },
+    "info": {
+      "open": "Skjul oplysninger",
+      "closed": "Vis oplysninger"
+    },
+    "hand": {
+      "raise": "Ræk hånden op",
+      "lower": "Sænk hånd"
+    },
+    "subtitles": {
+      "closed": "Vis undertekster",
+      "open": "Skjul undertekster"
+    },
+    "screenShare": {
+      "start": "Del skærm",
+      "stop": "Stop deling af skærm"
+    },
+    "leave": "Forlad",
+    "participants": {
+      "open": "Skjul alle",
+      "closed": "Se alle",
+      "count_one": "'{{count}}' deltager",
+      "count_other": "'{{count}}' deltagere"
+    },
+    "tools": {
+      "open": "Skjul flere værktøjer",
+      "closed": "Vis flere værktøjer"
+    },
+    "admin": {
+      "open": "Skjul admin",
+      "closed": "Åbn admin"
+    },
+    "moreOptions": "Flere muligheder",
+    "reactions": {
+      "button": "Send reaktion",
+      "send": "Send reaktion '{{emoji}}'",
+      "announce": "'{{name}}' : '{{emoji}}'",
+      "you": "du",
+      "emojis": {
+        "thumbs-up": "Tommel op",
+        "thumbs-down": "tommel ned",
+        "clapping-hands": "klappende hænder",
+        "red-heart": "rødt hjerte",
+        "face-with-tears-of-joy": "ansigt med glædestårer",
+        "face-with-open-mouth": "overrasket ansigt",
+        "party-popper": "Konfettirør",
+        "folded-hands": "Foldede hænder"
+      }
+    }
+  },
+  "options": {
+    "buttonLabel": "Flere muligheder",
+    "items": {
+      "feedback": "Giv os feedback",
+      "settings": "Indstillinger",
+      "screenRecording": "Skærmoptagelse",
+      "transcript": "Transskription",
+      "username": "Opdater dit navn",
+      "effects": "Baggrunde og effekter",
+      "switchCamera": "Skift kamera",
+      "fullscreen": {
+        "enter": "Fuldskærm",
+        "exit": "Afslut fuldskærmstilstand"
+      },
+      "support": "Kontakt support"
+    }
+  },
+  "effects": {
+    "activateCamera": "Dit kamera er deaktiveret. Vælg en mulighed for at aktivere det.",
+    "cameraDisabled": "Dit kamera er deaktiveret.",
+    "notAvailable": "Videoeffekter vil snart være tilgængelige i din browser. Vi arbejder på det! I mellemtiden kan du bruge Google Chrome for bedste ydeevne eller Firefox",
+    "heading": "Slør",
+    "clear": "Deaktiver effekt",
+    "blur": {
+      "title": "Baggrundssløring",
+      "status": {
+        "none": "Baggrund klar.",
+        "light": "Baggrund let sløret.",
+        "strong": "Baggrund stærkt sløret."
+      },
+      "light": {
+        "apply": "Slør din baggrund en smule",
+        "clear": "Deaktiver sløring"
+      },
+      "normal": {
+        "apply": "Slør din baggrund",
+        "clear": "Deaktiver sløring"
+      }
+    },
+    "virtual": {
+      "title": "Virtuel baggrund",
+      "selectedLabel": "Baggrund anvendt:",
+      "apply": "Udskift din baggrund:",
+      "descriptions": {
+        "0": "Riflet træmøbler",
+        "1": "Mødelokale",
+        "2": "Loft med sort glasvæg",
+        "3": "Spisestue",
+        "4": "Træhylder",
+        "5": "Trætrappe",
+        "6": "Grå bibliotek",
+        "7": "Kaffetæller"
+      }
+    },
+    "faceLandmarks": {
+      "title": "Visuelle effekter",
+      "glasses": {
+        "apply": "Tilføj briller",
+        "clear": "Fjern briller"
+      },
+      "french": {
+        "apply": "Tilføj fransk præg",
+        "clear": "Fjern fransk touch"
+      }
+    }
+  },
+  "sidePanel": {
+    "ariaLabel": "Sidepanel",
+    "backToTools": "Tilbage til mødeværktøjer",
+    "heading": {
+      "participants": "Deltagere",
+      "effects": "Baggrunde og effekter",
+      "chat": "Beskeder i chatten",
+      "transcript": "Transskriber",
+      "screenRecording": "Optag",
+      "admin": "Adminindstillinger",
+      "tools": "Flere værktøjer",
+      "info": "Mødeoplysninger"
+    },
+    "content": {
+      "participants": "deltagere",
+      "effects": "Baggrunde og effekter",
+      "chat": "beskeder",
+      "transcript": "Transskriber",
+      "screenRecording": "Optag",
+      "admin": "administratorindstillinger",
+      "tools": "flere værktøjer",
+      "info": "Mødeoplysninger"
+    },
+    "closeButton": "Skjul '{{content}}'"
+  },
+  "chat": {
+    "disclaimer": "Beskederne er kun synlige for deltagerne, når de sendes. Alle beskeder slettes ved opkaldets afslutning."
+  },
+  "moreTools": {
+    "body": "Få adgang til flere værktøjer for at forbedre dine møder.",
+    "moreLink": "Lær mere",
+    "tools": {
+      "transcript": {
+        "title": "Transskriber",
+        "body": "Optag samtalen."
+      },
+      "screenRecording": {
+        "title": "Optag",
+        "body": "Optag mødet."
+      }
+    }
+  },
+  "info": {
+    "roomInformation": {
+      "title": "Forbindelsesoplysninger",
+      "button": {
+        "ariaLabel": "Kopiér oplysningerne fra dit møde",
+        "copy": "Kopiér oplysninger",
+        "copied": "Oplysninger kopieret"
+      },
+      "phone": {
+        "call": "Ring op:",
+        "pinCode": "Kode:"
+      }
+    }
+  },
+  "transcript": {
+    "heading": "Transskriber dit møde med AI-assistenten",
+    "body": "Transskriber op til '{{max_duration}}' mødetid.",
+    "bodyWithoutMaxDuration": "Transskriber dit møde uden begrænsninger.",
+    "details": {
+      "receiver": "Udskriften sendes til værten og medværterne.",
+      "destination": "Et nyt dokument oprettes den",
+      "destinationUnknown": "Et nyt dokument vil blive oprettet",
+      "language": "Mødesprog:",
+      "recording": "Start også en optagelse"
+    },
+    "button": {
+      "start": "Start med at transskribere mødet",
+      "stop": "Stop transskribering af mødet",
+      "saving": "Gemmer…",
+      "starting": "Starter…",
+      "anotherModeStarted": "Skærmoptagelse kører. Skift paneler og stop den."
+    },
+    "linkMore": "Lær mere",
+    "notAdminOrOwner": {
+      "heading": "Begrænset adgang",
+      "body": "Af sikkerhedsmæssige årsager kan kun mødeopretteren eller en admin starte en transskription (beta).",
+      "linkMore": "Lær mere",
+      "dividerLabel": "ELLER",
+      "login": {
+        "heading": "Login påkrævet",
+        "body": "Kun mødearrangøren eller en administrator kan starte en transskription. Log ind for at bekræfte dine tilladelser."
+      },
+      "request": {
+        "heading": "Anmod om transskription",
+        "body": "Værten vil blive underrettet og kan aktivere transskription for dig.",
+        "buttonLabel": "Anmodning"
+      }
+    },
+    "premium": {
+      "heading": "Premiumfunktion",
+      "body": "Denne funktion er forbeholdt offentlige agenter. Hvis din e-mailadresse ikke er godkendt, kontakt venligst support for at få adgang.",
+      "linkMore": "Lær mere",
+      "dividerLabel": "ELLER",
+      "login": {
+        "heading": "Du er ikke logget ind!",
+        "body": "Du skal være logget ind for at bruge denne funktion. Log venligst ind, og prøv igen."
+      },
+      "request": {
+        "heading": "Anmod om transskription",
+        "body": "Værten vil blive underrettet og kan aktivere transskription for dig.",
+        "buttonLabel": "Anmod"
+      }
+    }
+  },
+  "screenRecording": {
+    "heading": "Optag dette opkald til senere",
+    "body": "Optag op til '{{max_duration}}' af mødet.",
+    "bodyWithoutMaxDuration": "Optag dit møde uden begrænsning.",
+    "linkMore": "Lær mere",
+    "details": {
+      "receiver": "Optagelsen vil blive sendt til værten og medværterne.",
+      "destination": "Denne optagelse vil midlertidigt blive gemt på vores servere",
+      "loading": "Starter optagelse",
+      "linkMore": "Læs mere",
+      "transcription": "Transskriber denne optagelse"
+    },
+    "button": {
+      "start": "Start optagelse af møde",
+      "stop": "Stop optagelse af mødet",
+      "saving": "Gemmer…",
+      "starting": "Starter…",
+      "anotherModeStarted": "Transskription kører. <br/> Skift paneler og stop den."
+    },
+    "notAdminOrOwner": {
+      "heading": "Begrænset adgang",
+      "body": "Af sikkerhedsmæssige årsager kan kun mødeopretteren eller en admin starte en optagelse (beta).",
+      "linkMore": "Lær mere",
+      "dividerLabel": "ELLER",
+      "login": {
+        "heading": "Login påkrævet",
+        "body": "Kun mødearrangøren eller en administrator kan starte skærmoptagelse. Log ind for at bekræfte dine tilladelser."
+      },
+      "request": {
+        "heading": "Anmod om optagelse",
+        "body": "Værten vil blive underrettet og kan aktivere optagelse for dig.",
+        "buttonLabel": "Anmod"
+      }
+    },
+    "durationMessage": "Begrænset til '{{max_duration}}' "
+  },
+  "errorRecordingAlertDialog": {
+    "title": "Optagelse mislykkedes",
+    "body": {
+      "stop": "Vi kunne ikke stoppe optagelsen. Prøv igen om et øjeblik.",
+      "start": "Vi kunne ikke starte optagelsen. Prøv igen om et øjeblik."
+    },
+    "button": "OK"
+  },
+  "admin": {
+    "description": "Disse arrangørindstillinger giver dig mulighed for at bevare kontrollen over dit møde. Kun arrangører kan få adgang til disse kontroller.",
+    "access": {
+      "title": "Rumadgang",
+      "description": "Disse indstillinger vil også gælde for fremtidige forekomster af dette møde.",
+      "type": "Mødeadgangstyper",
+      "levels": {
+        "public": {
+          "label": "Åbn",
+          "description": "Ingen behøver at anmode om at deltage i mødet."
+        },
+        "trusted": {
+          "label": "Åbn for betroede personer",
+          "description": "Godkendte personer behøver ikke anmode om at deltage i mødet."
+        },
+        "restricted": {
+          "label": "Begrænset",
+          "description": "Personer, der ikke er inviteret til mødet, skal anmode om at deltage."
+        }
+      }
+    },
+    "moderation": {
+      "title": "Mødemoderation",
+      "description": "Disse indstillinger begrænser de handlinger, bidragydere kan udføre under mødet.",
+      "microphone": {
+        "label": "Tænd mikrofon",
+        "description": ""
+      },
+      "camera": {
+        "label": "Aktivér video",
+        "description": ""
+      },
+      "screenshare": {
+        "label": "Del deres skærm",
+        "description": "Hvis du deaktiverer denne indstilling, forhindres deltagere i at dele deres skærm, og igangværende skærmdeling stoppes straks."
+      }
+    }
+  },
+  "rating": {
+    "submit": "Indsend",
+    "question": "Hvad synes du om kvaliteten af dit opkald?",
+    "levels": {
+      "min": "Meget dårlig",
+      "max": "Fremragende"
+    }
+  },
+  "openFeedback": {
+    "question": "Hvad kan vi gøre for at forbedre os?",
+    "placeholder": "Beskriv dine fejl eller del dine forslag…",
+    "submit": "Indsend",
+    "skip": "Spring over"
+  },
+  "confirmationMessage": {
+    "heading": "Tak for din indsendelse",
+    "body": "Vores produktteam tager sig tid til omhyggeligt at gennemgå din feedback. Vi vender tilbage til dig hurtigst muligt."
+  },
+  "authenticationMessage": {
+    "heading": "Hvordan kan vi kontakte dig?",
+    "placeholder": "Din e-mail",
+    "submit": "Send",
+    "ignore": "Ignorer"
+  },
+  "participants": {
+    "subheading": "I rummet",
+    "you": "Du",
+    "unknown": "Ukendt deltager",
+    "host": "Vært",
+    "contributors": "Bidragydere",
+    "collapsable": {
+      "open": "Åbn '{{name}}' liste",
+      "close": "Luk '{{name}}' liste"
+    },
+    "muteYourself": "Luk din mikrofon",
+    "muteParticipant": "Luk mikrofonen for '{{name}}'",
+    "muteParticipantAlert": {
+      "heading": "Slå lyd fra '{{name}}'",
+      "description": "Slå lyd fra for '{{name}}' for alle deltagere? '{{name}}' vil være den eneste, der kan slå lyden til igen.",
+      "confirm": "Slå lyd fra",
+      "cancel": "Annuller"
+    },
+    "raisedHands": "Ophævede hænder",
+    "lowerParticipantHand": "Sænk '{{name}}'s hånd",
+    "lowerParticipantsHand": "Sænk alle hænder",
+    "muteParticipants": "Slå alle mikrofoner fra",
+    "waiting": {
+      "title": "Lobby",
+      "accept": {
+        "button": "Accepter",
+        "label": "Accepter '{{name}}' til mødet",
+        "all": "Accepter alle"
+      },
+      "deny": {
+        "button": "Afvis",
+        "label": "Afvis '{{name}}' fra mødet",
+        "all": "Afvis alle"
+      }
+    },
+    "moreOptions": "Flere muligheder"
+  },
+  "participantMenu": {
+    "remove": {
+      "label": "Fjern fra opkaldet",
+      "ariaLabel": "Fjern '{{name}}' fra opkaldet"
+    },
+    "unpin": {
+      "label": "Frigør fra proceslinje",
+      "ariaLabel": "Frigør '{{name}}'"
+    },
+    "pin": {
+      "label": "Fastgør",
+      "ariaLabel": "Fastgør '{{name}}'"
+    }
+  },
+  "pinAnnouncements": {
+    "pin": "Videoen af '{{name}}' er fastgjort.",
+    "unpin": "Videoen af '{{name}}' er ikke længere fastgjort.",
+    "self": {
+      "pin": "Din video er fastgjort.",
+      "unpin": "Din video er ikke længere fastgjort."
+    }
+  },
+  "recordingStateToast": {
+    "transcript": {
+      "started": "Transskriberer",
+      "starting": "Transskription starter",
+      "stopping": "Transskription stopper"
+    },
+    "screen_recording": {
+      "started": "Optagelse i gang",
+      "starting": "Starter optagelse",
+      "stopping": "Stopper optagelse"
+    },
+    "any": {
+      "started": "Optagelse i gang"
+    },
+    "limitReachedAlert": {
+      "title": "Optagelsesgrænse overskredet",
+      "description": "Optagelsen har overskredet den maksimalt tilladte varighed'{{duration_message}}'. Den vil nu blive gemt automatisk.",
+      "durationMessage": " af '{{duration}}'",
+      "button": "OK"
+    }
+  },
+  "participantTileFocus": {
+    "containerLabel": "Indstillinger for '{{name}}'",
+    "toolbarHint": "F2: gå til den nederste værktøjslinje.",
+    "pin": {
+      "enable": "Fastgør",
+      "disable": "Frigør fra proceslinje"
+    },
+    "effects": "Anvend baggrunde og effekter",
+    "muteParticipant": "Slå lyd fra '{{name}}'",
+    "fullScreen": "Fuld skærm"
+  },
+  "fullScreenWarning": {
+    "message": "For at undgå uendelig loop-visning, del ikke hele din skærm. Del i stedet en fane eller et andet vindue.",
+    "stop": "Stop præsentation",
+    "ignore": "Ignorér"
+  },
+  "participantTile": {
+    "screenShare": "'{{name}}'s skærm"
+  }
+}

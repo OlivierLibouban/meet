@@ -1,0 +1,58 @@
+{
+  "createMeeting": "Loo koosolek",
+  "heading": "Lihtne ja turvaline videokonverents",
+  "intro": "Suhtle ja tööta lihtsalt, ohverdamata oma iseseisvust",
+  "joinInputError": "Kasutage koosoleku linki või koodi. Näited:",
+  "joinInputExample": "URL või 10-täheline kood",
+  "joinInputLabel": "Koosoleku link",
+  "joinInputSubmit": "Liitu koosolekuga",
+  "joinMeeting": "Liitu koosolekuga",
+  "joinMeetingTipContent": "Saate koosolekuga liituda, kleepides selle täislingi brauseri aadressiribale.",
+  "joinMeetingTipHeading": "Kas teadsite?",
+  "loginToCreateMeeting": "Logi sisse, et luua koosolek",
+  "moreLinkLabel": "Lisateave - uus vahekaart",
+  "moreLink": "Lisateave",
+  "moreAbout": "umbes '{{appTitle}}'",
+  "createMenu": {
+    "laterOption": "Loo kohtumine hilisemaks kuupäevaks",
+    "instantOption": "Alusta kohest koosolekut"
+  },
+  "laterMeetingDialog": {
+    "heading": "Teie ühenduse andmed",
+    "description": "Jaga seda teavet külalistega. Nad saavad koosolekuga liituda ilma sisse logimata. See koosolek on alaline ja korduvkasutatav.",
+    "permissions": "Selle lingiga inimesed ei vaja koosolekuga liitumiseks teie luba.",
+    "copy": "Kopeeri teave",
+    "copied": "Teave kopeeritud lõikelauale",
+    "copyUrl": "Kopeeri koosoleku link",
+    "phone": {
+      "call": "Helista:",
+      "pinCode": "Kood:"
+    }
+  },
+  "introSlider": {
+    "previous": {
+      "label": "Eelmine",
+      "tooltip": "Eelmine"
+    },
+    "next": {
+      "label": "järgmine",
+      "tooltip": "järgmine"
+    },
+    "beta": {
+      "text": "Liitu beetaga",
+      "tooltip": "Täitke vorm"
+    },
+    "slide1": {
+      "title": "Liigu lihtsusele. Proovi meid kohe!",
+      "body": "Avasta intuitiivne ja ligipääsetav lahendus, loodud kõigile avalikele agentidele, nende partneritele ja paljudele teistele."
+    },
+    "slide2": {
+      "title": "Võõrusta grupikõnesid piiranguteta",
+      "body": "Piiramatu ajaga koosolekud, sujuv ja kvaliteetne suhtlus, olenemata grupi suurusest."
+    },
+    "slide3": {
+      "title": "Muutke oma koosolekud AI abil",
+      "body": "Hankige täpsed ja praktilised transkriptsioonid, et suurendada oma tootlikkust. Funktsioon on beetaversioonis—proovige kohe!"
+    }
+  }
+}

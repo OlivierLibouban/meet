@@ -108,12 +108,18 @@
     "label": "Taal"
   },
   "settingsButtonLabel": "Instellingen",
+  "accessibility": {
+    "announceReactions": {
+      "label": "Reageer hardop"
+    }
+  },
   "tabs": {
     "account": "Profiel",
     "audio": "Audio",
     "video": "Video",
     "general": "Algemeen",
     "notifications": "Meldingen",
+    "accessibility": "Toegankelijkheid",
     "transcription": "Transcriptie"
   }
 }

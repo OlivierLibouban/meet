@@ -1,0 +1,37 @@
+{
+  "title": "Õiguslik teade",
+  "creator": {
+    "title": "Kirjastaja",
+    "body": "Visio teenust avaldab riigi ministeeriumidevaheline digitaaldirektoraat (DINUM), mis asub aadressil:",
+    "contact": {
+      "title": "Kontaktandmed",
+      "address": "Avenue de Ségur 20",
+      "city": "75007 Pariis",
+      "phone": "Vastuvõtt Tel.: 01.71.21.01.70",
+      "siret": "SIRET: 12000101100010 (valitsuse üldsekretariaat)",
+      "siren": "SIREN: 120 001 011"
+    }
+  },
+  "director": {
+    "title": "Avaldamise direktor",
+    "body": "Väljaande direktor on proua Stéphanie Schaer, ministeeriumidevaheline digidirektor."
+  },
+  "hosting": {
+    "title": "Majutamine",
+    "body": "Teenust majutab Prantsusmaal asuv Outscale West-1 CloudGouv SecNumCloud."
+  },
+  "accessibility": {
+    "title": "Juurdepääsetavus",
+    "body": "Vastavus digitaalse juurdepääsetavuse standarditele on tuleviku eesmärk. Saidi auditit pole veel tehtud. Kuid meeskond püüab luua kõigile juurdepääsetava saidi, järgides RGAA soovitusi.",
+    "more": "Lisateabe saamiseks: ",
+    "link": "link juurdepääsetavuse lehele",
+    "status": "Juurdepääsetavuse staatus: mittevastav"
+  },
+  "reuse": {
+    "title": "Sisu taaskasutamine ja lingid",
+    "body1": "Kui pole selgesõnaliselt mainitud kolmandate osapoolte intellektuaalomandi õigusi, on selle saidi sisu pakutud järgmistel tingimustel ",
+    "license": "Etalab 2.0 avatud litsents",
+    "body2": "Teil on vabadus neid reprodutseerida, kopeerida, muuta, eraldada, teisendada, edastada, levitada, taaskasutada, avaldada, edastada ja kasutada, tingimusel et mainite nende allikat, viimase uuendamise kuupäeva ja ei eksita kolmandaid osapooli seal sisalduva teabe osas.",
+    "body3": "Iga avalik või privaatne sait on volitatud looma ilma eelneva loata linki (sh süvalinki) sellel saidil levitatavale teabele."
+  }
+}
