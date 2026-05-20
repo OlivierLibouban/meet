@@ -120,6 +120,8 @@
     "general": "Vispārīgi",
     "notifications": "Paziņojumi",
     "accessibility": "Piekļūstamība",
-    "transcription": "Transkripcija"
+    "transcription": "Transkripcija",
+    "daily": "Dienas",
+    "nightly": "Nakts režīms"
   }
 }

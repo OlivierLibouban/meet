@@ -120,6 +120,8 @@
     "general": "General",
     "notifications": "Notificaciones",
     "accessibility": "Accesibilidad",
-    "transcription": "Transcripción"
+    "transcription": "Transcripción",
+    "daily": "Diario",
+    "nightly": "Nocturno"
   }
 }

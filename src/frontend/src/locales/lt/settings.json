@@ -120,6 +120,8 @@
     "general": "Bendra",
     "notifications": "Pranešimai",
     "accessibility": "Prieinamumas",
-    "transcription": "Transkripcija"
+    "transcription": "Transkripcija",
+    "daily": "Kasdien",
+    "nightly": "Naktinis"
   }
 }

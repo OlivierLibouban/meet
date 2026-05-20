@@ -120,6 +120,8 @@
     "general": "Algemeen",
     "notifications": "Meldingen",
     "accessibility": "Toegankelijkheid",
-    "transcription": "Transcriptie"
+    "transcription": "Transcriptie",
+    "daily": "Dagelijks",
+    "nightly": "Nachtelijk"
   }
 }

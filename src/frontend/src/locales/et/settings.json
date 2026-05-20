@@ -120,6 +120,8 @@
     "general": "Üldine",
     "notifications": "Teavitused",
     "accessibility": "Juurdepääsetavus",
-    "transcription": "Transkriptsioon"
+    "transcription": "Transkriptsioon",
+    "daily": "Igapäevane",
+    "nightly": "Öine"
   }
 }

@@ -120,6 +120,8 @@
     "general": "Γενικά",
     "notifications": "Ειδοποιήσεις",
     "accessibility": "Προσβασιμότητα",
-    "transcription": "Μεταγραφή"
+    "transcription": "Μεταγραφή",
+    "daily": "Καθημερινά",
+    "nightly": "Νυχτερινή"
   }
 }

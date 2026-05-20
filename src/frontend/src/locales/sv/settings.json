@@ -120,6 +120,8 @@
     "general": "Allmänt",
     "notifications": "Aviseringar",
     "accessibility": "Tillgänglighet",
-    "transcription": "Transkription"
+    "transcription": "Transkription",
+    "daily": "Daglig",
+    "nightly": "Nattlig"
   }
 }
